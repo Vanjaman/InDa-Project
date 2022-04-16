@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 400 400">
+<svg 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:cc="http://web.resource.org/cc/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    viewBox="0 0 400 400">
  
  <metadata>
   <rdf:rdf>
@@ -236,19 +241,19 @@
  
  <text class="label" id="country_name" x="10" y="390"> </text>
  
-  <g id="key" class="label">
-    <rect x="10" y="250" width="20" height="20" class="key colour0"/>
-    <rect x="10" y="275" width="20" height="20" class="key colour1"/>
-    <rect x="10" y="300" width="20" height="20" class="key colour2"/>
-    <rect x="10" y="325" width="20" height="20" class="key colour3"/>
-    <rect x="10" y="350" width="20" height="20" class="key colour4"/>
+    <g id="key" class="label">
+        <rect x="10" y="250" width="20" height="20" class="key colour0"/>
+        <rect x="10" y="275" width="20" height="20" class="key colour1"/>
+        <rect x="10" y="300" width="20" height="20" class="key colour2"/>
+        <rect x="10" y="325" width="20" height="20" class="key colour3"/>
+        <rect x="10" y="350" width="20" height="20" class="key colour4"/>
   
-    <text x="35" y="265">0</text>
-    <text x="35" y="290">1 to 10</text>
-    <text x="35" y="315">11 to 100</text>
-    <text x="35" y="340">101 to 1000</text>
-    <text x="35" y="365">1001+</text>
- </g>
+        <text x="35" y="265">0</text>
+        <text x="35" y="290">1 to 10</text>
+        <text x="35" y="315">11 to 100</text>
+        <text x="35" y="340">101 to 1000</text>
+        <text x="35" y="365">1001+</text>
+    </g>
 
 <script type="text/javascript"><![CDATA[
     var data = [['ghana', 'togo'],
