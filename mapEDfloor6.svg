@@ -1379,7 +1379,7 @@
 
 	function colourCountry(name) {
 		var country = document.getElementById(name);
-		var newClass = 'red';
+		var newClass = 'room red';
 		country.setAttributeNS(null, 'class', newClass);
 	}
   
