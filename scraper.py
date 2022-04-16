@@ -9,6 +9,10 @@ import requests
 from bs4 import BeautifulSoup
 # re is a library for using Regex
 import re
+# the scraper writes to a csv file
+import csv
+file = open("bookings.csv", "w")
+writer = csv.writer(file)
 
 # Premises to check for in the title attribute containing the information
 knownPremises = ["4618", "3721", "4523", "5O1Spe (Spelhallen)", "5O2Spo (Sporthallen)", 
@@ -37,23 +41,31 @@ soup = BeautifulSoup(page.content, 'html.parser')
 # Find all divs with the class bookingDiv (these contain information about date, time, etc. for a booking)
 bookingDivs = soup.findAll("div", "bookingDiv")
 
-# The title attributes contain a string will all importan information concerning the booking
+# The title attributes contain a string will all important information concerning the booking
 titles = []
 for bookingDiv in bookingDivs:
     titles.append(bookingDiv["title"])
-print(titles)
 
+# Format for date and time
 date = re.compile("\\d{4}-\\d{2}-\\d{2}")
 time = re.compile("\\d{2}:\\d{2} - \\d{2}:\\d{2}")
 
+# Write booking information to csv file in format (example): 2022-04-16T08:00,2022-04-16T21:00,5O2Spo (Sporthallen)
 for title in titles:
+    csvRow = []
     premisesFoundInTitle = []
+    # Date
     dateResult = date.search(title).group(0)
+    # startTime and endTime
     timeResult = time.search(title).group(0).split("-")
+    # Find the booked premis(es) name
     for premis in knownPremises:
         if title.__contains__(premis):
             premisesFoundInTitle.append(premis)
+    # Create the csv row entry
     for csvEntry in range(len(premisesFoundInTitle)):
-        print(dateResult+"T"+timeResult[0].strip() + "," 
-            + dateResult+"T"+timeResult[1].strip() + ","
-            + premisesFoundInTitle[csvEntry])
+        csvRow.append(dateResult+"T"+timeResult[0].strip())
+        csvRow.append(dateResult+"T"+timeResult[1].strip())
+        csvRow.append(premisesFoundInTitle[csvEntry])
+        writer.writerow(csvRow)
+file.close()
