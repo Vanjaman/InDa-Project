@@ -13,6 +13,7 @@ import re
 import csv
 file = open("bookings.csv", "w", newline='')
 writer = csv.writer(file)
+writer.writerow(["Start Time", "End Time", "Premise"]) # Header in csv-file
 
 # Premises to check for in the title attribute containing the information
 knownPremises = ["4618", "3721", "4523", "5O1Spe (Spelhallen)", "5O2Spo (Sporthallen)", 
@@ -50,17 +51,18 @@ for bookingDiv in bookingDivs:
 date = re.compile("\\d{4}-\\d{2}-\\d{2}")
 time = re.compile("\\d{2}:\\d{2} - \\d{2}:\\d{2}")
 
-# Write booking information to csv file in format (example): 2022-04-16T08:00,2022-04-16T21:00,5O2Spo (Sporthallen)
+# Write booking information to csv file in format: startTime, endTime, premise
+# (example): 2022-04-16T08:00,2022-04-16T21:00,5O2Spo (Sporthallen)
 for title in titles:
     premisesFoundInTitle = []
     # Date
     dateResult = date.search(title).group(0)
     # startTime and endTime
     timeResult = time.search(title).group(0).split("-")
-    # Find the booked premis(es) name
-    for premis in knownPremises:
-        if title.__contains__(premis):
-            premisesFoundInTitle.append(premis)
+    # Find the booked premise(s) name
+    for premise in knownPremises:
+        if title.__contains__(premise):
+            premisesFoundInTitle.append(premise)
     # Create the csv row entry
     for csvEntry in range(len(premisesFoundInTitle)):
         csvRow = []
