@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import re
 # the scraper writes to a csv file
 import csv
-file = open("bookings.csv", "w")
+file = open("bookings.csv", "w", newline='')
 writer = csv.writer(file)
 
 # Premises to check for in the title attribute containing the information
@@ -52,7 +52,6 @@ time = re.compile("\\d{2}:\\d{2} - \\d{2}:\\d{2}")
 
 # Write booking information to csv file in format (example): 2022-04-16T08:00,2022-04-16T21:00,5O2Spo (Sporthallen)
 for title in titles:
-    csvRow = []
     premisesFoundInTitle = []
     # Date
     dateResult = date.search(title).group(0)
@@ -64,6 +63,7 @@ for title in titles:
             premisesFoundInTitle.append(premis)
     # Create the csv row entry
     for csvEntry in range(len(premisesFoundInTitle)):
+        csvRow = []
         csvRow.append(dateResult+"T"+timeResult[0].strip())
         csvRow.append(dateResult+"T"+timeResult[1].strip())
         csvRow.append(premisesFoundInTitle[csvEntry])
