@@ -34,7 +34,7 @@
       fill: #f5f5f5;
     }
     .green {fill: #0DE47E;}
-    .greenred {fill: #ED047E;}
+    .red {fill: #ED047E;}
   </style>
 
   <path id="d1" class="room green" d="m-89.623-80.158-.376-8.67.46-.02-.053-1.198-.46.02-.023-.55-1.026.036-2.773.096-1.424.05-2.772.097-1.423.05-2.775.097-1.204.042.131 3.243.108 2.424-.64.029.049 1.098.64-.028.066 1.501-.64.029.058 1.288.64-.029.067 1.522-.64.029.05 1.099.638-.029.122 2.733.142 3.192 1.211-.052 2.774-.122 1.422-.062 2.772-.121 1.422-.062 2.773-.121 1.017-.045-.05-1.163-.283-6.403"/>
@@ -1379,8 +1379,7 @@
 
 	function colourCountry(name) {
 		var country = document.getElementById(name);
-		var oldClass = country.getAttributeNS(null, 'class');
-		var newClass = oldClass + 'red';
+		var newClass = 'red';
 		country.setAttributeNS(null, 'class', newClass);
 	}
   
