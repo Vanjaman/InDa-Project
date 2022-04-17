@@ -6,20 +6,6 @@
   id="svgDrawing"
   viewBox="-160.573 -108.537 164.925 124.913">
 
-  <metadata>
-   <rdf:rdf>
-    <dc:format>
-     image/svg+xml
-    </dc:format>
-    <dc:title>
-     Map E & D
-    </dc:title>
-    <dc:creator>
-     Vanja Grigoriev and KTH
-    </dc:creator>
-   </rdf:rdf>
-  </metadata>
-
   <style type="text/css">
     .room:hover {
       opacity: 0.5
