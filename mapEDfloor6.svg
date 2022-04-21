@@ -1359,7 +1359,7 @@
   colourRooms(data);
 
 	function colourRooms(text) {
-    var data = text.split(".");
+    var data = text.split(",");
     for (var room=0; room<data.length; room++) {
         colourRoom(data[room]);
     }
