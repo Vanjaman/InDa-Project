@@ -1,5 +1,6 @@
 <svg 
   xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"
   xmlns:cc="http://web.resource.org/cc/" 
   xmlns:dc="http://purl.org/dc/elements/1.1/" 
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"   
@@ -8,7 +9,7 @@
 
   <style type="text/css">
     .room:hover {
-      opacity: 0.5
+      opacity: 0.7
     }
     .room {
       stroke-width: 0.1;
@@ -1352,18 +1353,19 @@
   </g>
   
 <script type="text/javascript"><![CDATA[
-  var data = 'd1 wsB3291';
   
-  colourCountries(data);
+  var data = document.defaultView.location.href.split("?")[1];
 
-	function colourCountries(text) {
-    var data = text.split(" ");
-    for (var country=0; country<data.length; country++) {
-        colourCountry(data[country]);
+  colourRooms(data);
+
+	function colourRooms(text) {
+    var data = text.split(".");
+    for (var room=0; room<data.length; room++) {
+        colourRoom(data[room]);
     }
 	}
 
-	function colourCountry(name) {
+	function colourRoom(name) {
 		var country = document.getElementById(name);
 		var newClass = 'room red';
 		country.setAttributeNS(null, 'class', newClass);
