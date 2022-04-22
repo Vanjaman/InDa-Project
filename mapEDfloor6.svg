@@ -1352,25 +1352,6 @@
     <path class="nonroom" d="M-19.63 5.9h0l.013.247h0l.16-.008.042-.002h0l-.013-.248h0l-.043.002-.16.009m-1.165.054h0l.013.247h0l.202-.01h0l-.013-.248h0l-.202.01m-1.217.064h0l.013.247h0l.202-.01h0l-.013-.248h0l-.202.01m-2.409.126h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-1.163.061h0l.013.247h0l.202-.01h0l-.013-.248h0l-.202.01m-2.463.129h0l.013.248h0l.202-.011h0l-.013-.247h0l-.202.01m-1.218.063h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-1.217.064h0l.013.247h0l.202-.01h0l-.013-.248h0l-.202.01m-2.414.126h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-1.209.063h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-1.209.064h0l.013.247h0l.202-.01h0l-.013-.248h0l-.202.01m-2.458.128h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-1.145.06h0l.013.247h0l.202-.01h0l-.013-.248h0l-.202.01m-1.248.066h0l.013.247h0l.202-.01h0l-.013-.248h0l-.202.01m-2.404.126h0l.013.248h0l.202-.011h0l-.013-.247h0l-.202.01m-1.225.063h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-1.18.062h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-2.595.135h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-1.174.061h0l.013.248h0l.202-.01h0l-.013-.248h0l-.202.01m-1.234.065h0l.013.247h0l.202-.01h0l-.013-.248h0l-.202.01m-2.359.348h.191v-.252h0-.191 0v.252m-1.222 0h.191v-.252h0-.191 0v.252m-3.874 0h.191v-.252h0-.191 0v.252m-1.183 0h.191v-.252h0-.191 0v.252"/>
   </g>
   
-<script type="text/javascript"><![CDATA[
-  
-  var data = document.defaultView.location.href.split("?")[1];
-
-  colourRooms(data);
-
-	function colourRooms(text) {
-    var data = text.split(",");
-    for (var room=0; room<data.length; room++) {
-        colourRoom(data[room]);
-    }
-	}
-
-	function colourRoom(name) {
-		var country = document.getElementById(name);
-		var newClass = 'room red';
-		country.setAttributeNS(null, 'class', newClass);
-	}
-  
-]]></script>
+<script xlink:href="roomColourer.js" />
 
 </svg>
