@@ -1,5 +1,5 @@
+// !!! THIS FILE NEEDS TESTING (tested 1 time(s) with success) !!!
 // The main function is 'fetchAndParseCSVData' below.
-// THIS FILE NEEDS TESTING
 // Author: Vincent Lindvall
 // Date: 2022-04-23
 
@@ -66,5 +66,62 @@ function isTime(startTime, endTime, timeNow) {
 function getDate() {
     return new Date();
 }
+
+premiseNameToIDMap = {
+    "4618" : ["3416"],
+    "3721" : ["3496"],
+    "4523": ["3143"],
+    "5O1Spe (Spelhallen)": ["3149"],
+    "5O2Spo (Sporthallen)": ["3151"],
+    "5O3Mus (Musiksalen)": ["3152"],
+    "5O4Kons (Konsthallen)": ["3155"],
+    "5O5Mat (Matsalen)": ["3159"],
+    "D/LV5 (Ljusgård, D)": ["2743"],
+    "D1": ["3453"],
+    "D2": ["2775"],
+    "D3": ["2782"],
+    "D31": ["2785"],
+    "D33": ["2732"],
+    "D34": ["2734"],
+    "D35": ["2735"],
+    "D36 (Gamla styrelserummet)" : ["2758"],
+    "D37": ["2738"],
+    "D41": ["2929"],
+    "D42": ["2936"],
+    "D4448": ["2934"],
+    "Haptik labb": ["3414"],
+    "Multi Studio": ["3412","3413"],
+    "Middla Design studio": ["3409"],
+    "VIC-studion": ["2930"],
+    "1448": ["2869"],
+    "1537": ["3063"],
+    "1625": ["3427"],
+    "4V2Röd (Röd)": ["2976"],
+    "4V3Ora (Orange)": ["2975"],
+    "4V4Gul (Gul)": ["2977"],
+    "4V5Grö (Grön)": ["2978"],
+    "4V6 Bru (Brun)": ["2979"],
+    "5V1Grå (Grå)": ["3087"],
+    "5V2Kar (Karmosin)": ["3075"],
+    "5V3Vit (Vit)": ["3088"],
+    "5V4Mag (Magenta)": ["3253"],
+    "5V5Vio (Violett)": ["3259"],
+    "5V6Tur (Turkos)": ["3251"],
+    "E/1315": ["2710"],
+    "E/LV3": ["2655"],
+    "E1": ["2578"],
+    "E2": ["2684"],
+    "E3": ["3271"],
+    "E31": ["2670"],
+    "E32": ["2664"],
+    "E33": ["2660"],
+    "E34": ["2668"],
+    "E35": ["2679"],
+    "E36": ["2683"],
+    "E51": ["3270"],
+    "E52": ["3249"],
+    "E53": ["3240"],
+}
+
 
 console.log(fetchAndParseCSVData())
