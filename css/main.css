@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+* {
+  margin: 0;
+}
+
+body {
+  background: #F2F2F2;
+}
+
+.banner-container {
+  background: #2258A5;
+  width: 100%;
+  padding: 0.5em;
+}
+
+.banner-container .banner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+  margin-left: 0%;
+  margin-right: 0%;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.banner-container .banner .kth-logo {
+  position: relative;
+  width: 5em;
+  height: 5em;
+  -webkit-box-shadow: 2px 2px 7px #141212;
+          box-shadow: 2px 2px 7px #141212;
+}
+
+.banner-container .banner .main-banner-text {
+  font-family: Poppins;
+  font-size: 2.3em;
+  margin-left: 0.7em;
+  color: #F2F2F2;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-shadow: 5px 3px 7px #000000;
+}
+
+h1 {
+  margin: 0;
+}
+/*# sourceMappingURL=main.css.map */
