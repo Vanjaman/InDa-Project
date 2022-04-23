@@ -31,7 +31,7 @@ function parseCSVData(text) {
     var s = [];
     for (let k = 0; k < splittedRows.length-1; k++) {
         if (isTime(splittedRows[k][0], splittedRows[k][1], date)) {
-            s.push(splittedRows[k][2]); // Premise name
+            s.push(premiseID(splittedRows[k][2])); // Premise name is splittedRows[k][2]
         }
     }
     return s.join(", ");
@@ -67,7 +67,18 @@ function getDate() {
     return new Date();
 }
 
-premiseNameToIDMap = {
+// Returns the premiseName ID (or IDs) as a string (seperated with commas if multiple IDs)
+function premiseID(premiseName) {
+    if (premiseNameToIDMap[premiseName].length == 1) {
+        return premiseNameToIDMap[premiseName][0];
+    } else if (premiseNameToIDMap[premiseName].length == 2) {
+        return premiseNameToIDMap[premiseName][0] + ", " + premiseNameToIDMap[premiseName][1];
+    } else if (premiseNameToIDMap[premiseName].length == 3) {
+        return premiseNameToIDMap[premiseName][0] + ", " + premiseNameToIDMap[premiseName][1] + ", " + premiseNameToIDMap[premiseName][2];
+    }
+}
+
+var premiseNameToIDMap = {
     "4618" : ["3416"],
     "3721" : ["3496"],
     "4523": ["3143"],
@@ -122,6 +133,3 @@ premiseNameToIDMap = {
     "E52": ["3249"],
     "E53": ["3240"],
 }
-
-
-console.log(fetchAndParseCSVData())
