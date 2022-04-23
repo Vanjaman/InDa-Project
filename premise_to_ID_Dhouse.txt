@@ -1,28 +1,28 @@
-4618,
-3721,
-4523,
-5O1Spe (Spelhallen),
-5O2Spo (Sporthallen),
-5O3Mus (Musiksalen),
-5O4Kons (Konsthallen),
-5O5Mat (Matsalen),
-D/LV5 (Ljusgård, D),
-D1,
-D2,
-D3,
-D31,
-D33,
-D34,
-D35,
-D36 (Gamla styrelserummet),
-D37,
-D41,
-D42,
-D4448,
-Haptik labb,
-Middla Design studio,
-Multi Studio,
-VIC-studion,
-1448,
-1537,
-1625,
+4618, 3416
+3721, 3496
+4523, 3143
+5O1Spe (Spelhallen), 3149
+5O2Spo (Sporthallen), 3151
+5O3Mus (Musiksalen), 3152
+5O4Kons (Konsthallen), 3155
+5O5Mat (Matsalen), 3159
+D/LV5 (Ljusgård D), 2743
+D1, 3453
+D2, 2775
+D3, 2782
+D31, 2785
+D33, 2732
+D34, 2734
+D35, 2735
+D36 (Gamla styrelserummet), 2758
+D37, 2738
+D41, 2929
+D42, 2936
+D4448, 2934
+Haptik labb, 3414
+Multi Studio, 3412, 3413
+Middla Design studio, 3409
+VIC-studion, 2930
+1448, 2869
+1537, 3063
+1625, 3427
