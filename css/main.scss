@@ -8,16 +8,19 @@ body {
     background: #F2F2F2;
 }
 
+.page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
 .banner-container {
     background: #2258A5;
-    width: 100%;
     padding: 0.5em;
-    margin-bottom: 1.5em;
     
     .banner {
+        max-width: 100%;
         display: flex;
         flex-direction: row;
-        width: 100%;
         margin-left: 0%;
         margin-right: 0%;
         justify-content: center;
@@ -43,6 +46,25 @@ body {
     }
 }
 
-h1 {
-    margin: 0;
+.content-container {
+    padding: 2em; 
+    .svg-image {
+        min-width: 30em;
+        min-height: 20em;
+        width: 60%;
+        height: 40%;
+    }
+}
+
+
+.footer {
+    background:#2258A5;
+    max-width: 100%;
+    position: relaitve;
+    bottom: 0;
+    padding: 2em;
+    
+    .made-by-text {
+        color: #F2F2F2;
+    }
 }

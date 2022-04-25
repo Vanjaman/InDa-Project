@@ -7,19 +7,27 @@
     <title>KTH Places Graphical Overview</title>
     <link rel="stylesheet" href="css/main.css">
 </head>
-<body>
-
-    <!-- Banner at top of page -->
+<body class="page-container">
+    <!-- Banner at the top of the page -->
     <div class="banner-container">
         <div class="banner">
             <object class="kth-logo" type="image/svg+xml" data="KTH-logo.svg"></object>
-            <h1 class="main-banner-text">KTH Places Overview</h1>
+            <h1 class="main-banner-text">KTH Booking Overview</h1>
         </div>
     </div>
-    <!-- SVG -->
-    <div id="imageDiv" align="middle">
-        <object type="image/svg+xml" data="mapEDfloor6.svg" width="800" height="600"></object>
+
+    <!-- Main content -->
+    <div class="content-container">
+        <!-- SVG -->
+        <div id="image-div" align="middle">
+            <object class="svg-image" type="image/svg+xml" data="mapEDfloor6.svg"></object>
+        </div>
     </div>
+
+    <!-- Footer at the bottom of the page-->
+    <footer class="footer">
+        <p class="made-by-text" align="center">Project made by <a class="made-by-text" href="#">Vincent Lindvall</a> & <a class="made-by-text" href="#" >Vanja Grigoriev</a></p>
+    </footer>
 </body>
 
 <script src="csvReader.js"></script>
