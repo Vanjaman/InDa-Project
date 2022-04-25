@@ -34,6 +34,7 @@ function parseCSVData(text) {
             s.push(premiseID(splittedRows[k][2])); // Premise name is splittedRows[k][2]
         }
     }
+    console.log(s.join(", "))
     return s.join(", ");
 }
 
@@ -69,6 +70,10 @@ function getDate() {
 
 // Returns the premiseName ID (or IDs) as a string (seperated with commas if multiple IDs)
 function premiseID(premiseName) {
+    if (premiseNameToIDMap[premiseName] == null) {
+        return "";
+    }
+
     if (premiseNameToIDMap[premiseName].length == 1) {
         return premiseNameToIDMap[premiseName][0];
     } else if (premiseNameToIDMap[premiseName].length == 2) {
