@@ -28,7 +28,7 @@ function colourRooms(data) {
 
 function colourRoom(name) {
     var room = SVGDocument.getElementById(name);
-    var newClass = 'room red';
+    var newClass = 'room booked';
     if (room != null) {
         room.setAttributeNS(null, 'class', newClass); 
     }
