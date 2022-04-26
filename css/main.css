@@ -61,6 +61,7 @@ body {
 
 .content-container {
   padding: 2em;
+  min-height: 26.5em;
 }
 
 .content-container .svg-image {
