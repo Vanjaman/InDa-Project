@@ -1,4 +1,3 @@
-// !!! THIS FILE NEEDS TESTING (tested 1 time(s) with success) !!!
 // The main function is 'fetchAndParseCSVData' below.
 // Author: Vincent Lindvall, Vanja Grigoriev
 // Date: 2022-04-23
@@ -49,7 +48,7 @@ function isTime(startTime, endTime, timeNow) {
 
 // Returns the current date as a Date object. Can later be modified to return dates in the future.
 function getDate() {
-    return new Date("2022-04-25T09:00");
+    return new Date();
 }
 
 // Returns the premiseName ID (or IDs) as a string (seperated with commas if multiple IDs)
