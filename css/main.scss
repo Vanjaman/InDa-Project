@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
 
 * {
     margin: 0;
+    padding: 0;
 }
 
 body {
@@ -46,14 +48,95 @@ body {
     }
 }
 
+#info-container {
+    width: 100%;
+
+    #return-to-map {
+        width: 5%;
+        height: 5%;
+        text-align: center;
+        display: inline-block;
+
+        .svg-go-back-icon {
+            width:2em;
+            height:2em;
+            min-width: 1.5em;
+            min-height: 1.5em;
+        }
+    }
+
+    #floor-info {
+        font-family: arimo;
+        font-size: 3em;
+        display: inline-block;
+        margin-left: 10%;
+        margin-right:10%;
+    }
+
+    #time-info {
+        font-family: arimo;
+        display: inline-block;
+    }
+
+    #time-picker {
+        font-family: poppins;
+        display: inline-block;
+        text-align: center;
+        width: 8%;
+
+        .svg-pick-time-icon {
+            width:2em;
+            height:2em;
+            min-width: 1em;
+            min-height: 1.5em;
+        }
+    }
+}
+
 .content-container {
     padding: 2em; 
     min-height: 26.5em;
-    .svg-image {
-        min-width: 30em;
-        min-height: 20em;
-        width: 60%;
-        height: 40%;
+
+    #maps-container {
+        display: inline-block;
+        width: 100%;
+
+        #main-image-div {
+            display: inline-block;
+            width: 65%;
+
+             .svg-image {
+                width: 100%;
+                height: 100%;
+             }
+        }
+
+        #preview-div-vertical-box {
+            display: inline-block;
+            flex-direction: column;
+            width: 29%;
+            height: 100%;
+            margin-top: 0;
+            margin-left: 5%;
+            top: 0;
+        }
+
+        .preview-div {
+           display: inline-block;  
+           border-style: solid;  
+           border-width: 0.1em;
+           width: 100%;
+           height: 100%;
+           text-align: center;
+           justify-content: space-around;
+           margin-bottom: 3%;
+        }
+
+        .svg-preview-image {
+            width: 100%;
+            height: 100%;
+        }
+
     }
 }
 

@@ -43,7 +43,7 @@ function parseCSVData(text) {
 and endTime is a Date object (created with "new Date()") */
 // Return True if 'timeNow' is between 'startTime' and 'endTime'
 function isTime(startTime, endTime, timeNow) {
-    return (startTime < endTime && timeNow < endTime);
+    return (timeNow > startTime && timeNow < endTime);
 }
 
 // Returns the current date as a Date object. Can later be modified to return dates in the future.

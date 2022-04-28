@@ -17,12 +17,48 @@
     </div>
 
     <!-- Main content -->
-    <div class="content-container">
-        <!-- SVG -->
-        <div id="image-div" align="middle">
-            <object id="svg-object" class="svg-image" type="image/svg+xml" data="mapEDfloor6.svg"></object>
+    <div id="info-container">
+        <div id="return-to-map">
+            <object id="svg-go-back" class="svg-go-back-icon" type="image/svg+xml" data="go-back-icon.svg"></object>
+            <p class="icon-text">Map</p>
+        </div>
+
+        <h1 id="floor-info">
+            D House - Floor 5
+        </h1>
+
+        <h1 id="time-info">
+            26 Apr 11:32
+        </h1>
+
+        <div id="time-picker">
+            <object id="svg-pick-time" class="svg-pick-time-icon" type="image/svg+xml" data="date.svg"></object>
+            <p class="icon-text">Pick time</p>
         </div>
     </div>
+
+    <div class="content-container">
+
+        <div id="maps-container">
+            <!-- SVG -->
+            <div id="main-image-div" align="middle">
+                <object id="svg-object" class="svg-image" type="image/svg+xml" data="mapEDfloor6.svg"></object>
+            </div>
+            <div id="preview-div-vertical-box">
+                <div id="floor-up" class="preview-div">
+                    <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml" data="mapEDfloor6.svg"></object>
+                    <p>Floor up</p>
+                </div>
+
+                <div id="floor-down" class="preview-div">
+                    <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml" data="mapEDfloor6.svg"></object>
+                    <p>Floor down</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
 
     <!-- Footer at the bottom of the page-->
     <footer class="footer">
