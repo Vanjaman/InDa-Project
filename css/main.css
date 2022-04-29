@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #F2F2F2;
+  background-color: #2258A5;
 }
 
 .icon-text {
@@ -15,7 +15,6 @@ body {
 
 .page-container {
   position: relative;
-  min-height: 100vh;
 }
 
 .banner-container {
@@ -28,17 +27,12 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
 }
 
 .banner-container .banner .kth-logo {
-  position: relative;
   width: 5.5vw;
   height: 5.5vw;
   -webkit-box-shadow: 0.15vw 0.15vw 0.8vw #141212;
@@ -63,13 +57,18 @@ body {
   text-shadow: 0.3vw 0.3vw 0.6vw #000000;
 }
 
+#info-container-extended {
+  background-color: #F2F2F2;
+  padding-bottom: 1vw;
+}
+
 #info-container {
   max-width: 100%;
   padding-right: 1vw;
   padding-left: 1vw;
   margin-right: 8vw;
   margin-top: 1.5vw;
-  margin-bottom: 1vw;
+  background-color: #F2F2F2;
 }
 
 #info-container #return-to-map {
@@ -104,7 +103,7 @@ body {
           transform: translate(-2.5%);
   width: 105%;
   margin-top: 2%;
-  height: 0.1em;
+  height: 0.1vw;
   background: black;
 }
 
@@ -116,10 +115,10 @@ body {
 }
 
 #info-container #time-picker {
+  cursor: pointer;
   font-family: poppins;
   display: inline-block;
   text-align: center;
-  margin-left: 2%;
   width: 8vw;
   height: 6vw;
   -webkit-transform: translateY(10%);
@@ -128,25 +127,27 @@ body {
 }
 
 #info-container #time-picker .svg-pick-time-icon {
+  pointer-events: none;
   width: 3vw;
   height: 3vw;
 }
 
 .content-container {
   padding: 0.25vw 1vw 0.5vw 1vw;
-  min-height: 6.5vw;
   max-width: 100%;
+  background: #F2F2F2;
 }
 
 .content-container #maps-container {
   display: inline-block;
   margin-left: 8vw;
   margin-right: 8vw;
+  background: #F2F2F2;
 }
 
 .content-container #maps-container #main-image-div {
   display: inline-block;
-  margin-right: 5vw;
+  margin-right: 4vw;
   width: 53vw;
 }
 
@@ -186,6 +187,7 @@ body {
 .footer {
   background: #2258A5;
   max-width: 100%;
+  width: 100%;
   position: relaitve;
   bottom: 0;
   padding: 2vw;
