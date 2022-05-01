@@ -51,6 +51,7 @@ body {
     padding-top: 1vw;
     background-color: #F2F2F2;
     padding-bottom: 1vw;
+    max-width: 100%;
 }
 
 #info-container {
@@ -172,8 +173,6 @@ body {
 
 .footer {
     background:#2258A5;
-    max-width: 100%;
-    width: 100%;
     position: relaitve;
     bottom: 0;
     padding: 2vw;
