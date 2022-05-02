@@ -33,15 +33,15 @@ body {
 }
 
 .banner-container .banner .kth-logo {
-  width: 5.5vw;
-  height: 5.5vw;
+  width: 4.95vw;
+  height: 4.95vw;
   -webkit-box-shadow: 0.15vw 0.15vw 0.8vw #141212;
           box-shadow: 0.15vw 0.15vw 0.8vw #141212;
 }
 
 .banner-container .banner .main-banner-text {
   font-family: Poppins;
-  font-size: 3.5vw;
+  font-size: 3.15vw;
   margin-left: 0.7em;
   color: #F2F2F2;
   text-align: center;
@@ -58,7 +58,7 @@ body {
 }
 
 #info-container-extended {
-  padding-top: 1vw;
+  padding-top: 0.5vw;
   background-color: #F2F2F2;
   padding-bottom: 1vw;
   max-width: 100%;
@@ -89,13 +89,13 @@ body {
 
 #info-container #info-header-underline-container {
   display: inline-block;
-  margin-left: 5.5vw;
+  margin-left: 8vw;
   margin-right: 3vw;
 }
 
 #info-container #info-header-underline-container #floor-info {
   font-family: arimo;
-  font-size: 4vw;
+  font-size: 3.5vw;
   display: inline-block;
 }
 
@@ -122,8 +122,9 @@ body {
   text-align: center;
   width: 8vw;
   height: 6vw;
-  -webkit-transform: translateY(10%);
-          transform: translateY(10%);
+  margin-right: 2vw;
+  -webkit-transform: translateY(11%);
+          transform: translateY(11%);
   float: right;
 }
 
@@ -148,8 +149,8 @@ body {
 
 .content-container #maps-container #main-image-div {
   display: inline-block;
-  margin-right: 4vw;
-  width: 53vw;
+  margin-left: 3vw;
+  width: 47.7vw;
 }
 
 .content-container #maps-container #main-image-div .svg-image {
@@ -174,7 +175,7 @@ body {
   display: inline-block;
   border-style: solid;
   border-width: 0.2vw;
-  width: 22vw;
+  width: 19.7vw;
   height: 100%;
   text-align: center;
   margin-bottom: 3%;
