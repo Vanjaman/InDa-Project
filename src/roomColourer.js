@@ -5,7 +5,15 @@
    up- or down-floor button is pressed, and rooms are re-colored.
 */
 // Author: Vanja Grigoriev, Vincent Lindvall
-// Date: 2022/05/05
+// Date: 2022/05/06
+
+
+// Get house name
+var house = sessionStorage.getItem("house");
+var houseName;
+if (house == "D-E-house") {
+    houseName = "D-E House";
+}
 
 // Class to be applied to booked premises in the SVG
 var bookedRoomClass = 'room booked';
@@ -26,6 +34,9 @@ var svgFloorDown = document.getElementById('floor-down-preview');
 // to set up the SVGs that should be shown in the entry-level of the building
 async function loadInitialSVGsAndColor() {
     svgNames = await fetchEntrySVGs().then(res => svgNames = res);
+
+    // Load correct floor title
+    document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
 
     svgMain.setAttribute('data', 'maps/ED/'.concat(svgNames[0], ".svg"))
     svgFloorUp.setAttribute('data', 'maps/ED/'.concat(svgNames[1], ".svg"))
@@ -65,6 +76,9 @@ async function switchFloors(direction) {
             }
         }
     }
+
+    // Switch floor title
+    document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
 
     // Switch the SVGs
     svgMain.setAttribute('data', 'maps/ED/'.concat(svgNames[0], ".svg"))
