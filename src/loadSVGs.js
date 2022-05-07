@@ -32,10 +32,10 @@ async function fetchEntrySVGs() {
     // D-E-house
     if (house == "D-E-house") {
         houseObject = floorStructuresJSON['D-E-house'];
-        mainSVG = houseObject['entry-floor'];
-        floorDownPreview = houseObject['entry-down-floor'];
-        floorUpPreview = houseObject['entry-up-floor'];
     }
+    mainSVG = houseObject['entry-floor'];
+    floorDownPreview = houseObject['entry-down-floor'];
+    floorUpPreview = houseObject['entry-up-floor'];
 
     return [mainSVG, floorUpPreview, floorDownPreview]
 }
