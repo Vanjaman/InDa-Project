@@ -71,6 +71,7 @@ async function switchFloors(direction) {
 
     svgMain.onload = function() {
         svgFloorUp.onload = function() {
+            colourRooms(roomsToColor)
             svgFloorDown.onload = function() {
                 colourRooms(roomsToColor)
             }
@@ -110,6 +111,7 @@ function colourRooms(data) {
 }
 
 function colourRoom(name) {
+    // getElementById will return  null if not found on that floor
     var svgMainRoom = svgMain.contentDocument.getElementById(name);
     var svgFloorUpRoom = svgFloorUp.contentDocument.getElementById(name);
     var svgFloorDownRoom = svgFloorDown.contentDocument.getElementById(name);
