@@ -114,18 +114,18 @@ async function switchFloors(direction) {
     // If null, the SVG should be hidden and not try to load in an undefined SVG
     // (will cause problems with the .onload functions)
     if (svgNames[1] != null) {
-        svgFloorUp.style.display = "block"; // Make visible
+        document.getElementById('floor-up').style.visibility = "visible"; // Make visible
         svgFloorUp.setAttribute('data', 'maps/ED/'.concat(svgNames[1], ".svg"))
     } else {
-        svgFloorUp.style.display = "none"; 
+        document.getElementById('floor-up').style.visibility = "hidden";
     }
     // If null, the SVG should be hidden and not try to load in an undefined SVG
     // (will cause problems with the .onload functions)
     if (svgNames[2] != null) {
-        svgFloorDown.style.display = "block"; // Make visible
+        document.getElementById('floor-down').style.visibility = "visible"; // Make visible
         svgFloorDown.setAttribute('data', 'maps/ED/'.concat(svgNames[2], ".svg"))
     } else {
-        svgFloorDown.style.display = "none";
+        document.getElementById('floor-down').style.visibility = "hidden";
     }
 }
 
