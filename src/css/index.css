@@ -27,14 +27,14 @@ body {
   .page-structure .content-container {
     background: #F2F2F2;
     display: grid;
-    grid-template-rows: 1fr 10fr; }
+    grid-template-rows: 1fr 14fr; }
     .page-structure .content-container .top-info {
       text-align: center;
       font-size: 3vh; }
-    .page-structure .content-container #map {
-      height: 75vh; }
-      .page-structure .content-container #map .svg-image {
-        max-height: 75vh; }
+    .page-structure .content-container #zoom {
+      height: 80vh; }
+      .page-structure .content-container #zoom .svg-image {
+        max-height: 80vh; }
   .page-structure .footer {
     background: #2258A5;
     display: flex;

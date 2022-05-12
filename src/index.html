@@ -6,12 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KTH Places Graphical Overview</title>
     <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
-    integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
-    crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
-    integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
-    crossorigin=""></script>
+    <script src="svg-pan-zoom.js"></script>
 </head>
 <body class="page-container">
     <div class="page-structure">
@@ -35,8 +30,8 @@
             -->
 
             <!-- SVG -->
-            <div id="map" align="middle">
-                <!--<object id="svg-object" class="svg-image" type="image/svg+xml" data="maps/campus/karta_KTH.svg"></object>-->
+            <div id="zoom" align="middle">
+                <object id="svg-object" class="svg-image" type="image/svg+xml" data="maps/campus/karta_KTH.svg"></object>
             </div>
         </div>
 
@@ -51,15 +46,20 @@
 
 <script src="csvReader.js"></script>
 <script>
-
-    var map = L.map('map', {
-        crs: L.CRS.Simple
-    });
-
-    var bounds = [[0,0], [650,1000]];
-    var image = L.imageOverlay('maps/campus/karta_KTH.svg', bounds).addTo(map);
-    map.fitBounds(bounds);
-
+    window.onload = function() {
+        // Expose to window namespase for testing purposes
+        window.zoomTiger = svgPanZoom('#svg-object', {
+            zoomEnabled: true,
+            controlIconsEnabled: true,
+            fit: true,
+            center: true,
+        });
+    };
 </script>
+<script type="text/javascript">
+    function buttonClick(evt) {
+        window.location.replace("http://www.w3schools.com");
+    }
+</script> 
 
 </html>
