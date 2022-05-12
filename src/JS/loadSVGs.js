@@ -25,7 +25,7 @@ var houseObject;
 // This file is run initially when the user enters a building view, and fetches the names of the
 // SVGs that should be loaded.
 async function fetchEntrySVGs() {
-    floorStructuresFile = await fetch('houseStructures.json');
+    floorStructuresFile = await fetch('../../houseStructures.json');
     floorStructuresText = await floorStructuresFile.text();
     floorStructuresJSON = JSON.parse(floorStructuresText);
 
