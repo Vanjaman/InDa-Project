@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KTH Places Graphical Overview</title>
-    <link rel="stylesheet" href="css/main.css">
-    <script src="svg-pan-zoom.js"></script>
+    <link rel="stylesheet" href="index.css">
+    <script src="../../JS/svg-pan-zoom.js"></script>
 </head>
 <body class="page-container">
     <div class="page-structure">
@@ -31,7 +31,7 @@
 
             <!-- SVG -->
             <div id="zoom" align="middle">
-                <object id="svg-object" class="svg-image" type="image/svg+xml" data="maps/campus/karta_KTH.svg"></object>
+                <object id="svg-object" class="svg-image" type="image/svg+xml" data="../../maps/campus/karta_KTH.svg"></object>
             </div>
         </div>
 
@@ -44,7 +44,8 @@
     </div>
 </body>
 
-<script src="csvReader.js"></script>
+<script src="../../JS/csvReader.js"></script>
+
 <script>
     window.onload = function() {
         // Expose to window namespase for testing purposes
@@ -56,10 +57,5 @@
         });
     };
 </script>
-<script type="text/javascript">
-    function buttonClick(evt) {
-        window.location.replace("http://www.w3schools.com");
-    }
-</script> 
 
 </html>

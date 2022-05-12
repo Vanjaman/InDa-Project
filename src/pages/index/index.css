@@ -17,12 +17,13 @@ body {
   grid-template-rows: 3fr 30fr 2fr; }
   .page-structure .banner {
     background: #2258A5;
-    padding: 0.5vh 0.5vw; }
+    display: flex;
+    justify-content: center;
+    align-items: center; }
     .page-structure .banner .main-banner-text {
       font-family: Poppins;
       font-size: 4vh;
       color: #F2F2F2;
-      text-align: center;
       text-shadow: 0.3vw 0.3vw 0.6vw #000000; }
   .page-structure .content-container {
     background: #F2F2F2;
@@ -44,4 +45,4 @@ body {
       color: #F2F2F2;
       font-size: 2vh; }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=index.css.map */
