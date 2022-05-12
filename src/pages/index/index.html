@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KTH Places Graphical Overview</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="../../JS/svg-pan-zoom.js"></script>
+</head>
+<body class="page-container">
+    <div class="page-structure">
+        <!-- Banner at the top of the page -->
+        <div class="banner">
+            <h1 class="main-banner-text">KTH Booking Overview</h1>
+        </div>
+
+        <div class="content-container">
+            <div class="top-info">
+                <h2 id="time-info">
+                    26 Apr 11:32
+                </h2>
+            </div>
+
+            <!--
+            <div id="time-picker">
+                <object id="svg-pick-time" class="svg-pick-time-icon" type="image/svg+xml" data="assets/date.svg"></object>
+                <p class="icon-text">Pick time</p>
+            </div>
+            -->
+
+            <!-- SVG -->
+            <div id="zoom" align="middle">
+                <object id="svg-object" class="svg-image" type="image/svg+xml" data="../../maps/campus/karta_KTH.svg"></object>
+            </div>
+        </div>
+
+        <!-- Footer at the bottom of the page-->
+        <footer class="footer">
+            <p class="made-by-text">
+                Project made by <a class="made-by-text" href="#">Vincent Lindvall</a> & <a class="made-by-text" href="#" >Vanja Grigoriev</a>
+                <br>We are in no way, shape, or form affiliated with KTH
+            </p>
+        </footer>
+    </div>
+</body>
+
+<script src="../../JS/csvReader.js"></script>
+
+<script>
+    window.onload = function() {
+        // Expose to window namespase for testing purposes
+        window.zoomTiger = svgPanZoom('#svg-object', {
+            zoomEnabled: true,
+            controlIconsEnabled: true,
+            fit: true,
+            center: true,
+        });
+    };
+</script>
+
+</html>

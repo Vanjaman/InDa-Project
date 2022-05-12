@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  viewBox="0 0 793.70135 1122.52" 
+  height="1122.52" 
+  width="793.70135" 
+  xml:space="preserve" 
+  id="campus map">
+  
+  <defs id="defs6">
+    <clipPath id="clipPath18" clipPathUnits="userSpaceOnUse">
+      <path id="path16" d="M 0,841.89 H 595.276 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath id="clipPath294" clipPathUnits="userSpaceOnUse">
+      <path id="path292" d="M -61.002,900.38 H 748.741 V -39.82 H -61.002 Z" />
+    </clipPath>
+  </defs>
+
+  <style type="text/css">
+    .house:hover {
+      opacity: 0.7
+    }
+    .house {fill: #ED047E;}
+    .background {fill: #EFEFEF}
+  </style>
+
+  <g transform="matrix(1.3333333,0,0,-1.3333333,0,1122.52)" id="g10">
+    <g clip-path="url(#clipPath18)" id="g14">
+      <path id="path20" class="background" d="m 620.033,-4.64 -648.798,-0.172 -0.267,853.682 648.8,0.175 z" />
+      <path id="path22" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 250.693,741.663 h 321" />
+      <path id="path24" style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 250.693,741.663 h 321" />
+      <path id="path26" style="fill:none;stroke:#c6c8ca;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 377.51,509.794 c 0,0 19.972,-5.833 34.685,3.109 14.713,8.942 36.873,26.29 47.518,38.595" />
+      <path id="path28" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 393.41,495.126 c -1.125,-1.084 -2.916,-1.053 -4.002,0.07 -1.086,1.124 -1.054,2.916 0.067,4.002 1.127,1.086 2.916,1.055 4.004,-0.07 1.087,-1.124 1.054,-2.915 -0.069,-4.002" />
+      <text id="text32" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,390.0909,494.9716)">
+        <tspan id="tspan30" y="0" x="0">
+          P
+        </tspan>
+      </text>
+      <path id="path34" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 348.191,545.661 c -1.123,-1.084 -2.916,-1.052 -4.002,0.071 -1.085,1.124 -1.054,2.916 0.069,4.002 1.125,1.086 2.916,1.054 4.002,-0.071 1.088,-1.124 1.054,-2.915 -0.069,-4.002" />
+      <text id="text38" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,344.874,545.5066)">
+        <tspan id="tspan36" y="0" x="0">
+          P
+        </tspan>
+      </text>
+      <path id="path40" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 269.867,552.097 c -1.124,-1.084 -2.916,-1.053 -4.002,0.07 -1.087,1.124 -1.054,2.916 0.069,4.002 1.126,1.086 2.916,1.055 4.002,-0.07 1.086,-1.124 1.054,-2.915 -0.069,-4.002" />
+      <text id="text44" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,266.5479,551.9413)">
+        <tspan id="tspan42" y="0" x="0">
+          P
+        </tspan>
+      </text>
+      <path id="path46" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 172.745,513.157 -9.03,-13.351 c 0,0 -6.536,-8.577 -0.024,-19.373 6.515,-10.794 15.014,-24.817 15.014,-24.817" />
+      <path id="path48" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 193.715,514.746 c 6.687,-13.852 5.984,-12.235 8.965,-17.418" />
+      <path id="path50" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 144.286,406.425 c -0.531,1.683 -9.037,-1.729 -6.636,15.892 3.204,23.515 2.267,41.435 -7.857,53.891 0,0 -11.85,13.978 -15.958,24.626 -4.106,10.648 -14.939,13.978 -15.46,14.092" />
+      <path id="path52" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 217.333,529.972 c 0,0 2.213,-0.162 -7.679,-6.01 -8.71,-5.148 -17.423,-10.238 -21.197,-10.591 -3.776,-0.352 -12.787,-0.545 -31.599,1.599 -18.811,2.143 -54.271,1.349 -54.271,1.349" />
+      <path id="path54" class="house " d="m 108.875,91.925 -23.69,0.019 0.011,11.846 23.691,-0.019 z" />
+      <path id="path56" style="fill:none;stroke:#c6c8ca;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" d="m 5.643,626.654 c 0,0 56.348,20.658 89.551,35.158 33.205,14.501 85.18,40.54 145.675,34.738" />
+      <path id="path58" style="fill:none;stroke:#c6c8ca;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 72.859,772.329 c 0,0 12.627,-1.372 2.457,-16.134 C 65.183,741.486 48.381,717.105 43.786,709.553 39.331,702.23 17.266,669.944 14.11,665.252 10.958,660.559 2.936,656.93 -0.993,655.881" />
+      <path id="path60" style="fill:none;stroke:#c6c8ca;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 516.756,184.071 c 0,0 13.228,7.903 16.598,8.961 3.369,1.057 18.316,9.594 28.263,11.444 3.213,0.597 15.904,5.271 23.678,10.652 3.746,2.594 16.062,16.336 20.439,19.189 0.477,0.311 1.221,0.758 2.176,1.317 7.848,4.595 29.963,16.812 34.559,23.455 5.154,7.449 13.388,23.082 23.967,29.182 10.576,6.097 27.378,24.792 29.443,31.181 2.068,6.385 10.971,12.512 11.685,13.479" />
+      <path id="path62" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 428.537,283.241 c 0,0 8.186,1.113 9.766,1.61 1.578,0.496 7.474,2.277 12.836,3.546 5.363,1.268 19.609,-4.531 20.763,-4.445 1.153,0.084 26.993,-1.324 30.549,-1.582 0,0 6.342,-0.599 7.608,-2.053 1.267,-1.453 0.746,-1.269 2.377,-1.822 1.63,-0.551 2.529,-0.988 3.572,-1.283 1.043,-0.299 2.265,-0.145 2.707,-0.816 0,0 4.094,-5.586 8.072,-7.577 3.979,-1.988 4.574,-1.892 4.574,-1.892" />
+      <path id="path64" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 436.854,261.839 13.615,4.82 c 0,0 4.015,2.002 5.92,1.346 1.91,-0.654 2.681,-2.209 4.377,-4.311 0,0 11.806,-14.205 16.021,-16.59 4.213,-2.384 13.729,-6.517 13.729,-6.517" />
+      
+      <a href="../../pages/building/building.html" target="_parent">
+        <path id="path66" class="house ED" d="m 507.682,212.083 -2.457,-4.844 4.357,-2.24 -4.932,-10.664 9.204,-4.699 1.507,2.418 2.983,-1.1 11.72,19.551 6.659,13.566 2.638,-0.883 2.828,6.026 -0.898,0.644 0.941,1.868 7.413,-3.27 3.484,7.617 -6.02,3.108 -0.8,-1.871 -6.37,3.043 1.301,2.49 -2.978,1.379 -5.086,-11.362 -0.629,-0.058 -2.315,-4.707 0.543,-0.846 -5.824,-13.723 -0.972,0.297 0.228,1.043 -1.303,1.35 -1.453,0.793 -3.137,0.263 -4.398,-7.951 z" />
+        <path id="path68" class="house ED" d="m 508.527,252.56 -5.322,2.955 -3.529,-6.153 -1.25,0.44 -3.59,-5.801 1.244,-0.721 -16.223,-33.504 3.385,-2.084 -1.021,-2.494 9.617,-4.984 5.285,10.867 4.57,-2.174 2.463,5.121 -5.398,2.748 3.781,8.592 -1.506,1.701 -2.279,1.506 -3.145,-0.295 7.358,13.694 0.635,0.199 1.082,2.006 -0.483,0.498 z" />
+      </a>
+      <path id="path70" class="house " d="m 523.08,258.378 2.34,6.103 -8.166,4.051 -6.371,3.045 -2.951,-5.185 0.894,-0.784 -3.246,-6.017 4.147,-2.445 0.574,0.966 0.904,-0.224 2.734,4.699 z" />
+      <path id="path72" class="house " d="m 534.492,260.204 -2.685,-5.887 8.923,-4.693 3.047,-1.311 6.164,-2.968 -0.515,-1.457 6.236,-2.623 1.229,2.423 3.959,-1.257 1.343,1.025 0.653,1.455 -0.323,1.471 -11.56,5.576 -0.195,0.771 z" />
+      <path id="path74" class="house " d="m 477.807,220.284 -1.942,0.731 -1.133,-0.957 -2.349,1.437 -15.514,43.065 -7.303,-2.385 16.303,-45.871 7.959,-3.981 z" />
+      <path id="path76" class="house " d="m 482.234,241.987 5.192,-2.533 -6.596,-13.918 -5.539,2.61 z" />
+      <path id="path78" class="house " d="m 489.529,243.954 -10.166,5.553 1.088,2.285 -19.138,15.412 0.443,1.389 -5.233,4.281 -5.894,2.266 0.943,-5.95 -4.205,-1.044 -0.736,1.898 -3.99,-0.697 -3.655,14.584 8.692,2.082 0.783,-3.086 1.67,-0.307 1.299,2.35 10.248,-4.785 1.15,1.793 32.006,-2.024 0.578,1.108 7.211,-2.918 -0.246,-2.022 3.375,-2.643 -2.684,-5.746 -2.574,0.534 -1.654,-2.832 1.447,-1.073 z" />
+      <path id="path80" class="house " d="m 516.404,277.833 3.442,-0.689 0.193,-1.049 5.527,-1.248 1.055,3.488 1.045,-0.123 3.678,15.697 17.742,-3.347 -3.348,-17.952 -0.351,-2.089 -1.403,-2.383 -0.642,-3.811 0.519,-3.205 9.334,-2.203 1.623,3.008 0.856,4.017 -0.381,2.205 1.102,0.034 0.974,4.853 -0.521,0.217 3.138,17.746 -11.269,2.293 1.072,7.52 -15.449,2.783 -1.639,-6.934 -12.318,2.203 z" />
+      <path id="path82" class="house " d="m 499.521,285.511 -6.166,0.736 2.526,18.699 6.223,-0.476 0.275,0.781 9.039,-1.047 -2.445,-17.078 -8.885,0.887 z" />
+      <path id="path84" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 497.875,311.298 5.328,-0.824 2.047,15.357 -4.955,1.082" />
+      <path id="path86" class="house " d="m 552.363,376.269 -1.695,-1.088 0.119,-1.258 1.822,0.385 z m 12.842,-48.256 -0.769,-0.057 -3.569,23.59 1.826,0.666 -5.562,33.328 -4.475,-0.482 -0.156,-0.834 -2.098,-0.381 -0.197,0.769 -25.131,-3.959 1.02,-5.463 1.824,0.387 0.67,-1.547 23.726,3.426 0.18,-1.529 0.793,-6.727 -27.377,-4.619 1.012,-6.021 27.711,3.847 0.693,-4.736 -1.762,-0.553 0.055,-0.908 1.822,0.387 0.004,0.265 0.561,-3.836 -30.168,-4.57 1.072,-6.51 28.416,4.112 1.875,-12.6 -4.342,-0.762 0.176,-2.027 4.826,0.545 0.381,-2.102 -0.635,-0.338 -0.232,-1.322 -31.881,5.303 -3.863,-25.274 6.197,-1.015 3.231,17.117 26.107,-4.156 -0.771,-16.252 7.388,-0.547 z" />
+      <path id="path88" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 505.195,421.702 1.826,-12.338 4.256,0.78 -1.74,12.317 z" />
+      <path id="path90" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 522.203,416.167 0.877,-5.738 4.406,0.41 -0.734,6.015 -4.473,-0.339" />
+      <path id="path92" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 532.375,411.034 -3.842,-0.144 1.127,-7.418 3.916,0.349 z" />
+      <path id="path94" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 534.613,403.175 1.77,-14.483 4.826,0.545 -2.047,14.627 z" />
+      <path id="path96" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 494.17,397.165 -0.951,5.01 10.73,1.347 0.826,-5.009 z" />
+      <path id="path98" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 495.445,394.993 9.727,1.295 0.103,1.885 4.061,0.767 0.24,-2.238 4.967,0.68 2.283,-17.283 -8.748,-1.313 -10.265,-0.172 z" />
+      <path id="path100" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 495.123,352.552 0.699,-0.01 0.977,0.121 -0.129,0.561 3.777,0.423 -0.181,1.538 2.025,0.175 0.906,-4.205 8.395,1.112 -3.514,26.519 7.068,1.063 3.782,-27.362 -0.633,-0.199 0.93,-6.787 -21.268,-2.563 -0.668,1.69 -8.115,-0.977 -4.418,30.864 1.973,1.082 -0.11,1.677 4.336,0.483 z" />
+      <path id="path102" style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 532.721,266.728 c 0,0 6.601,-5.702 15.183,-10.04 8.58,-4.337 12.93,-3.158 15.125,-5.429 2.192,-2.272 4.785,-5.807 3.619,-8.58 -1.166,-2.772 -8.628,-6.412 -9.394,-10.168 -0.762,-3.758 -1.231,-6.68 -3.361,-8.739 -2.131,-2.056 -12.034,-1.464 -14.752,-5.187 -2.719,-3.723 -15.85,-32.186 -22.385,-34.514 -5.785,-2.064 -27.799,15.145 -34.352,15.678 -6.424,0.522 -8.076,1.258 -12.861,-0.893" />
+      <path id="path104" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 535.143,264.538 c -1.323,-1.277 -3.434,-1.24 -4.711,0.082 -1.278,1.324 -1.241,3.432 0.082,4.711 1.324,1.279 3.433,1.242 4.713,-0.082 1.275,-1.322 1.238,-3.432 -0.084,-4.711" />
+      <path id="path106" style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 510.652,280.343 c 0,0 2.752,1.627 3.586,7.371 0.832,5.746 7.076,39.564 7.076,39.564 0,0 1.551,16.729 1.733,21.227 0.183,4.502 -0.115,11.416 -0.578,14.881 -0.465,3.463 -2.205,35.746 -6.535,39.592 -4.33,3.845 -13.039,2.843 -17.422,3.759 -4.383,0.914 -26.065,0.559 -31.014,-0.925 -4.947,-1.483 -43.021,-5.114 -44.068,-5.096" />
+      <path id="path108" style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 467.207,200.991 c 0,0 3.924,-2.527 9.004,8.09 5.078,10.619 12.291,25.203 12.291,25.203 0,0 3.326,9.348 6.248,14.92 2.924,5.574 12.949,19.789 13.979,23.02 1.203,3.785 1.189,6.037 1.189,6.037" />
+      <path id="path110" style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 417.938,330.024 c 0,0 7.353,1.338 8.898,5.918 1.547,4.58 0.016,6.807 -0.584,14.461 -0.6,7.655 -2.137,27.578 -2.137,27.578 0,0 -0.791,14.674 -0.435,23.045 0.355,8.371 1.767,23.321 0.929,29.305 -0.838,5.983 -1.875,12.598 -8.314,21.612 -6.44,9.013 -32.824,45.286 -34.154,47.09 -1.33,1.803 -14.211,26.479 -50.742,44.657 -27.475,13.673 -55.384,17.018 -59.706,18.472 l -19,3.5" />
+      <path id="path112" style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 274.776,521.996 c 0,0 -29.835,15.596 -38.671,21.335 -8.834,5.739 -21.139,12.795 -32.732,28.495 0,0 -16.635,19.349 -20.536,39.453 -2.69,13.87 1.881,29.271 9.873,53.722 5.9,18.048 1.095,38.657 0.203,43.558 -0.893,4.903 -3.519,22.402 -3.519,22.402" />
+      <path id="path114" style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 456.785,149.759 c 0,0 0.1,11.83 2.307,18.283 2.207,6.455 10.666,23.062 9.492,27.898 -0.697,2.879 -6.037,16.081 -10.508,26.52 -3.039,7.1 -5.678,12.922 -6.178,13.355 -1.238,1.069 -16.65,24.061 -19.181,29.028 -2.529,4.965 -6.137,8.275 -7.211,24.734 -1.076,16.459 0.689,15.485 0.121,19.055 0,0 -1.592,10.674 -7.131,21.242 -5.541,10.568 -41.053,71.783 -41.053,71.783 0,0 -2.267,6.324 -32.988,62.01 -12.858,23.262 -68.506,58.719 -71.406,60.584" />
+      <path id="path116" style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 427.398,336.005 c 0,0 0.497,-2.024 5.165,-1.686 4.669,0.336 41.511,4.426 41.511,4.426 0,0 11.906,2.322 16.561,1.813 4.654,-0.51 28.541,-4.344 30.668,-3.959" />
+      <path id="path118" class="house " d="m 491.318,322.53 -3.076,-0.224 -0.201,4.47 0.24,1.743 -2.099,-0.245 -0.563,3.711 2.033,0.453 -0.091,2.795 1.962,0.385 0.295,-3.008 1.049,0.053 0.49,-3.92 -1.263,-0.396 0.677,-1.129 z" />
+      <path id="path120" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 490.461,321.429 -4.92,2.109 -2.844,-7 4.85,-2.039 z" />
+      <path id="path122" class="house " d="m 482.826,335.874 -20.918,-2.498 5.408,-46.1 6.852,0.578 0.164,1.534 9.039,1.726 -1.113,8.258 2.453,0.586 -0.959,9.092 -2.025,-0.174 -0.448,2.451 -1.609,-0.181 -0.797,6.365 -3.217,-0.362 -0.689,8.53 8.674,0.965 z" />
+      <path id="path124" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 455.213,333.771 -5.108,-0.678 1.309,-8.889 5.115,0.959 z" />
+      <path id="path126" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 447.256,325.952 1.191,-3.791 1.893,0.457 0.859,-2.877 -9.195,-2.844 0.832,-4.273 -4.492,-1.457 -4.762,19.281 1.063,0.75 0.078,0.629 4.82,0.125 0.666,-1.828 -0.848,-0.684 1.104,-4.695 z" />
+      <path id="path128" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 455.939,291.384 -2.876,-0.858 -0.733,2.037 -1.959,-0.244 -0.019,-1.117 -3.157,-0.851 0.112,-1.539 -4.067,-1.045 -0.261,0.98 -1.614,-0.461 -0.588,2.315 2.875,0.718 0.125,-0.84 1.75,0.319 -3.099,14.435 4.627,1.176 0.019,0.975 5.182,1.029 0.262,-1.123 1.966,0.664 0.584,-2.453 -2.035,-0.594 z" />
+      <text id="text132" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76589298px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.07333358,-0.9973367,-0.99190225,-0.07293491,423.2384,373.6631)">
+        <tspan id="tspan130" y="0" x="0">b</tspan>
+      </text>
+      <text id="text136" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76589108px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.07446666,-0.99725319,-0.99181874,-0.074068,423.5001,370.4348)">
+        <tspan id="tspan134" y="0" x="0">r</tspan>
+      </text>
+      <text id="text140" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76588249px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.07528512,-0.99719207,-0.99175761,-0.07488645,423.6596,368.3008)">
+        <tspan id="tspan138" y="0" x="0">i</tspan>
+      </text>
+      <text id="text144" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76588345px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.07641815,-0.99710793,-0.99167347,-0.0759985,423.803,366.541)">
+        <tspan id="tspan142" y="0" x="0">n</tspan>
+      </text>
+      <text id="text148" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76586866px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.07801306,-0.99698509,-0.99155061,-0.07759341,424.0571,363.3474)">
+        <tspan id="tspan146" y="0" x="0">e</tspan>
+      </text>
+      <text id="text152" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76589012px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.07967032,-0.99685472,-0.99139928,-0.07925067,424.2982,360.4378)">
+        <tspan id="tspan150" y="0" x="0">l</tspan>
+      </text>
+      <text id="text156" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76583576px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.08111904,-0.99674018,-0.99130567,-0.0806784,424.4813,358.7388)">
+        <tspan id="tspan154" y="0" x="0">l</tspan>
+      </text>
+      <text id="text160" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76583052px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.08367901,-0.99653142,-0.9910969,-0.08321739,424.6133,357.0504)">
+        <tspan id="tspan158" y="0" x="0">v</tspan>
+      </text>
+      <text id="text164" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76579618px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.08873649,-0.99609801,-0.99066345,-0.08825388,424.7268,354.1899)">
+        <tspan id="tspan162" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text168" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76574087px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.09981659,-0.99506043,-0.98964679,-0.09927103,425.0089,351.2871)">
+        <tspan id="tspan166" y="0" x="0">g</tspan>
+      </text>
+      <text id="text172" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76571703px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.10672056,-0.99435194,-0.98893827,-0.10613303,425.3431,348.0782)">
+        <tspan id="tspan170" y="0" x="0">e</tspan>
+      </text>
+      <text id="text176" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76569176px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.10919716,-0.99408448,-0.98867078,-0.10860963,425.6918,345.1365)">
+        <tspan id="tspan174" y="0" x="0">n</tspan>
+      </text>
+      <text id="text180" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76384783px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99348264,0.11461324,0.11398349,-0.98806685,437.5836,400.714)">
+        <tspan id="tspan178" y="0" x="0">t</tspan>
+      </text>
+      <text id="text184" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76384783px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99348264,0.11461324,0.11398349,-0.98806685,439.6616,400.9537)">
+        <tspan id="tspan182" y="0" x="0">e</tspan>
+      </text>
+      <text id="text188" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76381063px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99351141,0.11436223,0.11373249,-0.98809558,442.6337,401.2933)">
+        <tspan id="tspan186" y="0" x="0">k</tspan>
+      </text>
+      <text id="text192" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76381874px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99353064,0.1141941,0.11356435,-0.98811482,445.5059,401.686)">
+        <tspan id="tspan190" y="0" x="0">n</tspan>
+      </text>
+      <text id="text196" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76386166px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99354275,0.11408812,0.11345838,-0.98812698,448.6656,402.0394)">
+        <tspan id="tspan194" y="0" x="0">i</tspan>
+      </text>
+      <text id="text200" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76387024px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99356194,0.11389899,0.11329024,-0.98812518,450.3741,402.2148)">
+        <tspan id="tspan198" y="0" x="0">k</tspan>
+      </text>
+      <text id="text204" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76386499px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99360493,0.11354225,0.11291251,-0.98818916,453.1759,402.4671)">
+        <tspan id="tspan202" y="0" x="0">r</tspan>
+      </text>
+      <text id="text208" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76387453px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99362403,0.11335312,0.11274437,-0.98820827,455.3687,402.8601)">
+        <tspan id="tspan206" y="0" x="0">i</tspan>
+      </text>
+      <text id="text212" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76385593px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.9937118,0.11257687,0.11196812,-0.98829602,456.9778,403.0081)">
+        <tspan id="tspan210" y="0" x="0">n</tspan>
+      </text>
+      <text id="text216" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7636714px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.9909794,0.13474902,0.13401429,-0.9855844,460.1813,403.3922)">
+        <tspan id="tspan214" y="0" x="0">g</tspan>
+      </text>
+      <text id="text220" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76367521px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.98911028,0.14797399,0.14717628,-0.98369429,463.4206,403.8318)">
+        <tspan id="tspan218" y="0" x="0">e</tspan>
+      </text>
+      <text id="text224" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76364708px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.98896913,0.1489405,0.1481218,-0.98355311,466.3779,404.2006)">
+        <tspan id="tspan222" y="0" x="0">n</tspan>
+      </text>
+      <text id="text228" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76353931px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.9878369,0.15635433,0.15549362,-0.98244175,456.1085,335.1231)">
+        <tspan id="tspan226" y="0" x="0">t</tspan>
+      </text>
+      <text id="text232" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76358795px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.98891848,0.14927824,0.14845953,-0.98352339,458.2637,335.5075)">
+        <tspan id="tspan230" y="0" x="0">e</tspan>
+      </text>
+      <text id="text236" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76366663px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.98984679,0.14291513,0.14213841,-0.98445179,461.1565,335.9406)">
+        <tspan id="tspan234" y="0" x="0">k</tspan>
+      </text>
+      <text id="text240" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7636776px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99076811,0.13632324,0.13556752,-0.98537312,464.0715,336.3633)">
+        <tspan id="tspan238" y="0" x="0">n</tspan>
+      </text>
+      <text id="text244" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76378393px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99148071,0.13098831,0.1302536,-0.98606485,467.2496,336.8239)">
+        <tspan id="tspan242" y="0" x="0">i</tspan>
+      </text>
+      <text id="text248" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76374292px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99214001,0.12582543,0.1251327,-0.98672411,468.8331,337.0249)">
+        <tspan id="tspan246" y="0" x="0">k</tspan>
+      </text>
+      <text id="text252" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76379156px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99290661,0.11956863,0.11889689,-0.98749075,471.7425,337.3897)">
+        <tspan id="tspan250" y="0" x="0">r</tspan>
+      </text>
+      <text id="text256" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76381063px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99351141,0.11434124,0.11373249,-0.98809558,473.8452,337.6208)">
+        <tspan id="tspan254" y="0" x="0">i</tspan>
+      </text>
+      <text id="text260" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76390553px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.9942892,0.10730691,0.10671916,-0.98885249,475.5667,337.8086)">
+        <tspan id="tspan258" y="0" x="0">n</tspan>
+      </text>
+      <text id="text264" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76393795px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.995374,0.09660075,0.09607598,-0.98993732,478.6971,338.2388)">
+        <tspan id="tspan262" y="0" x="0">g</tspan>
+      </text>
+      <text id="text268" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7640295px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99753788,0.07052853,0.07012971,-0.99210131,481.9243,338.5213)">
+        <tspan id="tspan266" y="0" x="0">e</tspan>
+      </text>
+      <text id="text272" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76415014px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99914991,0.04145545,0.04122456,-0.99369248,484.8789,338.7301)">
+        <tspan id="tspan270" y="0" x="0">n</tspan>
+      </text>
+      <path id="path274" style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 427.523,335.161 c 0,0 1.498,-6.098 2.416,-9.467 0.92,-3.365 6.594,-22.312 6.594,-22.312" />
+      <path id="path276" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 509.229,269.399 0.941,-0.42" />
+      <path id="path278" style="fill:none;stroke:#c6c8ca;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" d="m 509.229,269.399 0.941,-0.42" />
+      <path id="path280" class="house " d="m 384.283,58.89 -6.48,-3.239 3.357,-7.738 4.998,2.356 0.883,2.638 -2.832,5.774 m -4.688,19.349 10.42,-10.933 5.717,-12.453 -4.529,-11.512 -25.104,-10.383 -3.83,8.514 1.41,0.814 -2,5.34 3.942,1.885 -1.336,3.515 4.861,2.498 -1.468,3.795 4.296,2.229 -1.4,3.863 4.928,2.287 2.031,-3.525 2.746,1.279 -6.293,7.371 z" />
+      <path id="path282" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 449.656,131.347 413.02,64.13 c 0,0 -3.823,-6.893 -8.079,-14.938 C 399.6,39.093 374.594,30.126 370.936,28.515" />
+      <path id="path284" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 378.047,85.386 29.674,-30.832 c 0,0 8.619,-11.112 25.523,-1.703" />
+      <path id="path286" style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 362.287,101.706 402.23,60.253" />
+      <g id="g288">
+        <g clip-path="url(#clipPath294)" id="g290">
+          <path id="path296" style="fill:none;stroke:#c6c8ca;stroke-width:11;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 266.942,274.364 c 11.327,-11.728 15.897,-2.394 21.013,2.571 3.881,3.769 10.076,-3.045 10.076,-3.045 0,0 54.567,-53.633 60.127,-58.569 5.559,-4.935 32.729,-26.092 42.405,-33.646 9.671,-7.557 44.853,-27.571 52.466,-32.17 7.614,-4.6 46.504,-28.451 46.504,-28.451 l 90.363,-54.356 c 0,0 155.286,-90.461 156.764,-89.857" />
+        </g>
+      </g>
+      <path id="path298" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 438.813,300.985 c -1.325,-1.279 -3.436,-1.242 -4.713,0.082 -1.278,1.323 -1.241,3.432 0.082,4.709 1.324,1.28 3.435,1.243 4.713,-0.082 1.277,-1.322 1.24,-3.431 -0.082,-4.709" />
+      <path id="path300" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 512.428,276.978 c -1.323,-1.28 -3.434,-1.243 -4.713,0.082 -1.277,1.324 -1.24,3.433 0.082,4.709 1.326,1.279 3.435,1.242 4.713,-0.082 1.277,-1.323 1.24,-3.432 -0.082,-4.709" />
+      <path id="path302" class="house " d="m 427.461,255.179 3.037,-2.008 -1.227,-2.283 9.223,-11.539 4.291,1.81 4.436,-13.832 -0.426,-0.271 1.117,-4.139 -2.666,-0.791 -3.754,9.002 -12.207,-3.418 2.154,-8.623 -2.345,-2.264 -16.412,19.555 -1.061,-0.889 -4.779,6.227 5.381,4.373 1.853,-1.916 0.92,0.752 2.692,-1.793 z" />
+      <path id="path304" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 443.822,209.009 -1.877,4.5 9.555,3.465 10.184,-24.473 -3.483,-7.619 -6.51,3.047 2.102,4.5 -7.158,17.787 z" />
+      <path id="path306" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 453.307,176.452 -7.735,4.881 -1.437,-2.348 1.31,-0.931 -3.67,-6.289 -13.685,7.918 -4.01,-5.793 20.383,-12.155 2.293,3.452 1.123,0.257 0.871,1.942 0.973,-0.297 1.086,2.285 -0.407,0.705 0.94,1.867 -0.553,0.289 z" />
+      <path id="path308" class="house " d="m 35.807,588.952 0.174,4.011 -1.045,0.088 0.157,2.964 1.115,-0.089 0.04,0.314 4.913,-0.54 0.183,0.521 1.532,-0.166 -0.043,-0.454 4.565,-0.463 0.115,0.522 3.208,-0.196 0.128,-0.631 4.602,-0.359 0.041,0.383 1.533,-0.097 0.134,-0.421 5.961,-0.418 0.089,-2.794 1.362,-0.059 -0.07,-1.918 -1.776,0.135 0.163,-0.666 -1.326,0.023 -0.177,-2.091 -4.254,0.283 -0.132,0.352 -2.44,0.182 -0.112,-0.382 -11.707,1.181 -0.202,0.423 -2.195,0.283 -0.32,-0.309 z" />
+      <path id="path310" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 453.613,180.938 c -1.736,-1.613 -4.457,-1.517 -6.07,0.219 -1.617,1.737 -1.52,4.455 0.217,6.069 1.738,1.619 4.455,1.521 6.072,-0.215 1.613,-1.737 1.516,-4.453 -0.219,-6.073" />
+      <path id="path312" style="fill:none;stroke:#231f20;stroke-width:0.43399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 453.613,180.938 c -1.736,-1.613 -4.457,-1.517 -6.07,0.219 -1.617,1.737 -1.52,4.455 0.217,6.069 1.738,1.619 4.455,1.521 6.072,-0.215 1.613,-1.737 1.516,-4.453 -0.219,-6.073" />
+      <path id="path314" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 453.369,368.151 433,365.155 l -0.689,5.405 9.929,1.869 -1.314,8.82 -9.865,-1.295 -0.846,5.565 11.974,2.095 0.022,1.256 6.619,1.246 2.113,-16.896 1.33,0.115 0.313,-2.027 c 0,0 3.443,-0.69 0.783,-3.157" />
+      <path id="path316" class="house Fysikcentrum" d="m 111.294,601.248 -0.98,-2.129 c 0,0 -4.257,-0.973 -4.404,-4.923 -0.147,-3.951 2.435,-5.434 3.509,-5.873 1.986,-0.812 5.624,-0.282 6.945,1.868 1.321,2.15 1.497,3.333 0.421,6.118 -0.016,0.042 0.053,0.104 0.053,0.104 l 0.924,1.869 c 0,0 7.747,-3.119 22.827,-16.498 l 4.256,3.8 3.829,-1.088 6.172,4.107 c 0,0 -8.113,9.2 -18.518,15.978 l -0.715,-0.484 -0.493,0.244 0.432,0.777 c 0,0 -10.077,6.119 -13.635,7.778 l -0.639,-0.617 -1.427,0.679 0.17,0.835 c 0,0 -7.604,3.824 -19.154,6.46 l -0.273,-0.624 -0.496,0.035 -0.012,0.917 c 0,0 -3.989,0.881 -8.4,1.665 l -0.195,-0.704 -0.55,0.036 -0.038,0.838 c 0,0 -5.38,0.723 -8.725,0.99 l -0.221,-0.624 -0.419,-0.045 -0.12,0.709 c 0,0 -16.491,1.57 -19.107,1.616 l 2.068,-7.418 c 0,0 2.117,-1.765 3.284,-2.388 l -0.04,-0.811 -1.208,-0.188 -0.44,-2.741 1.329,-0.312 0.127,-1.73 c 0,0 16.61,-0.787 25.029,-2.844 8.42,-2.059 18.3,-4.509 18.834,-5.382" />
+      <path id="path318" class="house " d="m 76.992,576.715 -0.638,-6.482 4.074,-0.594 0.215,0.311 2.979,-0.314 0.045,-0.367 7.999,-0.716 0.164,0.363 2.768,-0.414 0.201,-0.423 4.29,-0.179 0.639,6.586 -4.34,0.337 -0.221,-0.624 -2.614,0.15 -0.188,1.26 -7.891,0.819 -0.437,-1.04 -2.772,0.205 0.015,0.837 z" />
+      <path id="path320" class="house " d="m 113.84,573.088 -0.636,-6.482 4.072,-0.594 0.216,0.311 2.98,-0.315 0.045,-0.367 7.999,-0.715 0.163,0.363 2.768,-0.414 0.201,-0.423 4.29,-0.18 0.64,6.586 -4.34,0.338 -0.221,-0.624 -2.616,0.15 -0.187,1.26 -7.891,0.819 -0.437,-1.041 -2.772,0.206 0.013,0.837 z" />
+      <path id="path322" class="house " d="m 75.063,556.224 -0.637,-6.481 4.074,-0.595 0.213,0.311 2.98,-0.315 0.047,-0.366 7.998,-0.716 0.162,0.364 2.768,-0.415 0.203,-0.422 4.291,-0.18 0.637,6.586 -4.34,0.337 -0.219,-0.624 -2.615,0.151 -0.188,1.259 -7.893,0.818 -0.437,-1.039 -2.771,0.205 0.016,0.837 z" />
+      <path id="path324" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 150.167,569.574 -0.635,-6.481 4.072,-0.595 0.215,0.31 2.979,-0.313 0.047,-0.368 7.998,-0.715 0.163,0.364 2.767,-0.415 0.204,-0.423 4.29,-0.179 0.638,6.586 -4.341,0.337 -0.219,-0.624 -2.616,0.15 -0.187,1.26 -7.893,0.818 -0.437,-1.039 -2.771,0.205 0.015,0.838 z" />
+      <path id="path326" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 148.19,549.241 -0.636,-6.481 4.072,-0.594 0.215,0.309 2.98,-0.313 0.046,-0.367 7.998,-0.716 0.162,0.363 2.769,-0.414 0.202,-0.422 4.291,-0.18 0.639,6.586 -4.342,0.338 -0.219,-0.625 -2.616,0.151 -0.188,1.259 -7.891,0.818 -0.437,-1.039 -2.772,0.205 0.016,0.838 z" />
+      <path id="path328" class="house " d="m 147.052,528.998 22.115,-1.799 -0.65,-7.319 -21.96,1.745 z" />
+      <path id="path330" class="house Byggnad-1" d="m 134.143,530.323 -0.535,-6.587 -23.316,1.977 0.088,2.145 -1.776,0.241 c 0,0 -1.978,0.663 0.098,2.563 l 2.041,-0.087 0.243,1.985 16.154,-1.486 0.435,0.935 1.464,-0.131 0.086,-1.049 5.018,-0.506" />
+      <path id="path332" class="house " d="m 112.023,553.013 c 0,0 11.841,0.422 21.851,-2.056 l -0.061,-3.455 0.783,-0.17 -0.191,-1.934 -0.786,-0.038 -0.172,-0.888 c 0,0 -6.818,-0.614 -10.003,-0.087 l -0.113,-0.522 -1.779,0.031 -0.302,0.739 c 0,0 -4.291,0.179 -9.759,1.793 l -0.09,0.944 -0.729,0.222 0.036,2.094 0.84,0.09 0.475,3.237" />
+      <path id="path334" class="house " d="m 185.064,544.095 -0.868,-7.838 4.912,-0.505 0.663,8.052 z" />
+      <path id="path336" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 176.742,526.177 0.094,-6.599 17.228,0.171 14.165,10.591 -4.926,5.74 -12.836,-9.514 -13.617,-0.182" />
+      <path id="path338" class="house " d="m 262.332,598.299 -6.624,-27.53 40.808,-9.857 7.705,33.515 -2.713,0.536 -0.895,-3.195 -13.834,3.243 -0.651,-1.176 -5.147,1.068 -1.215,-5.704 4.934,-1.273 -1.755,-8.557 -7.23,1.803 2.95,13.003 z" />
+      <path id="path340" class="house " d="m 261.198,605.3 21.133,-5.116 0.882,2.638 21.836,-4.849 0.293,0.693 20.652,-4.758 0.387,2.296 1.324,-0.092 0.836,3.825 -22.381,5.556 -0.363,-0.761 -41.368,9.727 -0.83,-3.546 -1.256,0.022 z" />
+      <path id="path342" class="house " d="m 310.379,595.297 -1.438,-6.328 -0.628,-0.059 -0.231,-1.182 0.416,-0.148 -1.734,-7.439 -0.422,-0.132 -0.231,-1.183 0.418,-0.147 -1.742,-7.858 4.164,-1.329 -0.244,-2.02 0.761,-0.362 0.628,-0.082 -1.736,-7.439 8.546,-2.313 2.032,8.411 -1.461,0.236 3.726,17.456 0.976,-0.016 3.385,6.015 -2.281,1.226 0.102,1.883 z" />
+      <path id="path344" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 329.148,590.781 -6.947,-30.177 39.973,-9.563 5.881,24.89 -6.674,1.652 0.316,2.089 -5.775,1.148 -0.453,-1.947 -0.766,0.083 0.246,2.02 -3.06,0.751 -3.405,-15.089 -7.09,1.659 4.088,18.359 z" />
+      <path id="path346" class="house " d="m 398.264,498.89 8.34,5.719 13.98,-18.884 -8.492,-6.553 1.088,-1.695 -1.129,-0.677 -4.377,5.242 -1.481,-0.882 -13.757,19.647 2.757,2.116 z" />
+      <path id="path348" class="house " d="m 422.092,464.128 1.498,-14.198 49.242,5.423 -1.432,13.989 z" />
+      <path id="path350" class="house " d="m 372.416,497.806 1.986,-2.199 2.684,1.768 24.133,-33.233 -2.969,-2.041 7.229,-9.9 2.535,1.352 3.619,-4.74 -17.035,-12.059 -12,16.405 1.134,0.957 -0.271,0.564 6.295,4.706 0.549,-0.568 0.853,0.823 -4.023,5.585 -8.834,-6.197 -20.17,28.275 z" />
+      <path id="path352" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 350.381,479.272 11.373,-20.305 3.379,1.617 4.68,-7.97 -5.432,-3.187 -3.055,4.871 -3.172,-1.691 -12.849,23.821 z" />
+      <path id="path354" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 377.105,442.503 4.143,-6.704 -10.435,-5.822 -3.786,7.048 z" />
+      <path id="path356" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 372.08,402.521 -9.078,15.935 -5.645,-3.531 8.94,-15.654 z" />
+      <path id="path358" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 346.01,448.84 -8.438,-3.483 2.195,-6.251 9.563,3.882 2.203,-5.833 -9.561,-3.743 4.602,-12.296 -6.609,-2.678 -4.602,12.297 -14.76,-5.746 -1.873,4.78 2.958,1.484 -2.257,6.603 5.412,2.069 2.612,-6.399 7.021,2.391 -4.589,12.995 -2.473,2.416 c 0,0 7.597,7.199 13.348,8.774 l 1.992,-5.899 1.193,0.329 2.063,-5.692" />
+      <path id="path360" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 322.552,448.691 1.344,-2.955 -8.855,-3.337 -1.533,4.146 1.619,0.74 0.537,-1.266 z" />
+      <path id="path362" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 309.463,450.734 -6.026,-1.291 7.073,-38.727 1.68,0.25 3.379,-14.301 3.365,0.639 -0.512,2.8 16.242,6.629 -5.56,13.432 -7.735,-3.217 1.272,-3.164 -4.075,-1.465 -2.581,16.171 -2.249,-0.937 z" />
+      <path id="path364" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 301.168,455.487 2.168,-3.809 -2.047,-1.29 -2.23,4.159 z" />
+      <path id="path366" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 322.523,467.052 -10.193,-12.039 6.537,-5.49 9.475,10.935 -2.135,1.643 0.926,1.031 z" />
+      <path id="path368" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 306.963,491.548 16.576,-14.322 -4.067,-5.025 1.311,-0.93 -11.547,-13.482 -6.676,5.352 11.684,13.619 -3.713,3.136 -3.056,-3.087 -7.99,6.282 z" />
+      <path id="path370" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 293.809,477.745 5.575,-4.495 -2.851,-3.441 -5.783,4.708 z" />
+      <path id="path372" class="house " d="m 373.672,393.837 -4.596,-3.483 2.149,-4.783 1.755,0.598 10.768,-19.107 6.344,3.519 -10.83,19.457 -1.967,-0.664 z" />
+      <path id="path374" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 365.531,383.296 10.901,-19.389 -6.338,-3.24 -10.623,19.383 z" />
+      <path id="path376" class="house " d="m 347.49,381.519 -6.063,-3.387 -1.222,1.976 -10.148,-5.408 -2.305,3.949 14.186,8.76 -1.084,1.971 8.746,5.156 0.55,-0.57 2.887,1.416 1.434,-1.77 2.043,1.012 1.636,-2.264 2.459,0.866 1.432,-1.911 1.691,0.948 c 0,0 2.225,7.502 -7.709,14.238 -9.935,6.734 -20.201,-1.533 -21.646,-4.299 l 0.127,-0.701 2.305,-3.951 -0.424,-0.272 -1.092,1.555 -14.741,-8.748 0.735,-1.898 -2.474,-1.702 0.892,-0.923 -0.047,-2.651 0.616,-0.779 -0.235,-1.463 -1.56,-1.369 1.355,-2.397 2.74,0.998 3.394,-5.504 -0.427,-0.41 0.869,-2.179 -2.332,-1.705 0.879,-1.622 -0.664,-2.013 0.746,-1.338 -0.092,-1.186 -1.068,-1.168 0.936,-2.39 6.556,3.586 1.359,-2.118 14.184,8.758 -1.289,2.049 2.332,1.703 -0.744,1.338 c 0,0 1.213,1.445 -0.084,3.213 0,0 0.85,0.684 0.309,1.67 l 1.205,1.025 -1.153,1.909" />
+      <path id="path378" class="house " d="m 427.16,418.384 1.244,-8.68 1.811,-0.172 0.504,-3.08 20.429,2.438 0.186,2.648 1.83,0.945 -1.656,9.106 z" />
+      <path id="path380" class="house " d="m 488.256,441.159 -18.258,-2.195 -0.332,-0.938 -18.463,-1.981 -0.682,3.05 -7.025,-0.612 0.408,-6.603 6.92,0.507 0.567,-3.571 13.423,1.232 1.592,-10.813 2.936,0.157 0.088,-0.944 2.828,0.057 -1.643,13.851 13.539,1.753 2.057,-14.067 3.152,0.572 -0.226,-1.043 2.937,0.367 -1.728,15.006 -1.565,0.34 z" />
+      <path id="path382" style="fill:#cbdac4;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 368.797,334.44 3.01,-3.541 3.394,2.313 -0.271,0.564 0.847,0.543 -2.732,3.399 -0.711,-0.686 -0.41,0.567 -1.061,-0.891 0.477,-0.637 z" />
+      <path id="path384" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 400.521,348.06 -11.498,-6.852 3.475,-4.877 4.863,2.637 1.553,-3.03 -8.953,-4.939 2.779,-4.725 6.205,3.522 2.58,-4.233 -12.841,-7.736 6.154,-11.346 10.801,6.864 1.533,-4.147 -14.477,-13.57 5.219,-4.979 18.734,17.407 -4.591,5.037 -1.631,-1.438 -1.473,3.516 6.777,4.35 z" />
+      <path id="path386" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 358.998,320.858 27.621,-13.396 -5.34,-9.961 -22.98,11.434 0.744,2.638 -3.383,2.084 z" />
+      <path id="path388" class="house " d="m 386.221,288.794 3.261,-3.902 -8.193,-6.748 -6.008,7.701 4.727,3.843 2.976,-3.507 z" />
+      <path id="path390" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 399.336,280.224 -3.688,0.552 -5.3,-3.605 14.34,-22.383 0.988,0.682 0.822,-0.992 7.272,4.689 -3.196,4.873 -3.951,-2.443 -1.092,1.554 -1.056,-0.609 -6.799,10.59 1.207,1.166 -2.574,4.373 2.935,0.228 z" />
+      <path id="path392" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 407.822,278.401 -4.068,-5.027 14.939,-12.197 4.211,5.301 z" />
+      <path id="path394" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 435.23,351.765 0.889,-6.676 19.678,3.246 -1.109,6.338 z" />
+      <path id="path396" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 456.414,353.595 -0.262,1.549 14.061,1.64 -0.192,0.945 5.559,0.532 0.037,-0.785 2.151,0.222 0.761,-7.394 -1,-0.35 0.241,-1.209 c 0,0 -2.391,-2 -14.446,-2.732 l -0.191,1.156 -5.436,0.564 -0.437,1.895 -1.975,-0.229 -0.525,3.954 1.654,0.242" />
+      <path id="path398" style="fill:none;stroke:#bbbdc0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 470.232,163.327 3.516,-1.648 2.752,-0.225 4.982,-2.529 1.504,-1.842 3.444,-1.717" />
+      <path id="path400" style="fill:none;stroke:#bbbdc0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 470.717,164.104 3.359,-1.558 2.754,-0.225 4.983,-2.529 1.501,-1.84 3.463,-1.666" />
+      <path id="path402" style="fill:none;stroke:#bbbdc0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 471.063,164.884 3.445,-1.578 2.754,-0.223 4.982,-2.531 1.504,-1.84 3.479,-1.686" />
+      <path id="path404" style="fill:none;stroke:#bbbdc0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 471.443,165.628 3.289,-1.49 2.754,-0.221 4.981,-2.529 1.504,-1.842 3.617,-1.721" />
+      <path id="path406" style="fill:none;stroke:#bbbdc0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 490.713,163.896 -3.604,1.818 -2.742,0.348 -4.861,2.753 -1.418,1.909 -3.299,1.67" />
+      <path id="path408" style="fill:none;stroke:#bbbdc0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 490.297,163.118 -3.692,1.822 -2.74,0.35 -4.861,2.752 -1.42,1.91 -3.193,1.68" />
+      <path id="path410" style="fill:none;stroke:#bbbdc0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 489.918,162.339 -3.645,1.783 -2.738,0.35 -4.863,2.754 -1.418,1.908 -3.277,1.72" />
+      <path id="path412" style="fill:none;stroke:#bbbdc0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 489.451,161.509 -3.439,1.791 -2.739,0.347 -4.863,2.756 -1.418,1.907 -3.379,1.714" />
+      <path id="path414" style="fill:none;stroke:#c6c8ca;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 573.574,79.479 48.332,57.379 16.973,20.51 c 0,0 7.453,11.037 -1.981,30.471 0,0 -9.531,21.808 -8.377,31.98 0.756,6.659 1.168,14.989 7.69,20.739 4.271,3.765 12.715,-3.502 15.478,-5.227" />
+      <path id="path416" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 87.271,630.662 6.723,11.496" />
+      <path id="path418" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 299.736,274.438 c 0,0 -15.381,13.725 -15.291,26.709 0.07,10.504 1.055,12.547 -12.47,29.54 -13.526,16.99 -25.096,33.445 -28.004,36.457 -8.023,8.308 -17.509,18.839 -19.846,20.976 l -25.266,25.311" />
+      <path id="path420" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 103.346,512.623 c -1.737,-1.676 -4.501,-1.628 -6.178,0.108 -1.675,1.734 -1.627,4.499 0.108,6.177 1.736,1.674 4.5,1.626 6.177,-0.109 1.674,-1.735 1.627,-4.501 -0.107,-6.176" />
+      <path id="path422" style="fill:none;stroke:#c6c8ca;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 103.346,512.623 c -1.737,-1.676 -4.501,-1.628 -6.178,0.108 -1.675,1.734 -1.627,4.499 0.108,6.177 1.736,1.674 4.5,1.626 6.177,-0.109 1.674,-1.735 1.627,-4.501 -0.107,-6.176 z" />
+      <path id="path424" style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 424.717,286.483 c 0,0 -17.047,-1.709 -22.502,-2.312 -5.455,-0.604 -22.108,-1.797 -12.166,-16.072 9.943,-14.276 14.451,-20.077 14.451,-20.077" />
+      <path id="path426" style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 377.443,401.657 -22.279,-20.414 c 0,0 -2.123,-1.498 -0.916,-4.453 1.205,-2.953 5.664,-11.547 5.664,-11.547" />
+      <path id="path428" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 406.525,245.071 c -1.322,-1.279 -3.433,-1.242 -4.711,0.082 -1.279,1.323 -1.242,3.432 0.082,4.709 1.323,1.28 3.434,1.242 4.711,-0.08 1.278,-1.324 1.241,-3.433 -0.082,-4.711" />
+      <path id="path430" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 361.979,362.642 c -1.323,-1.28 -3.434,-1.241 -4.711,0.082 -1.278,1.324 -1.241,3.433 0.082,4.711 1.322,1.277 3.433,1.242 4.711,-0.082 1.277,-1.325 1.24,-3.432 -0.082,-4.711" />
+      <path id="path432" style="fill:none;stroke:#c6c8ca;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" d="m 445.678,187.474 c 0,0 -25.666,27.431 -30.764,33.279 -4.93,5.658 -11.633,13.467 -19.387,25.191 -7.754,11.723 -20.17,28.276 -28.644,38.754 -8.473,10.481 -28.342,34.649 -38.01,46.182 -9.028,10.769 -14.076,23.373 -16.369,30.023 -2.394,6.938 -12.006,40.284 -14.01,69.359 -1.738,25.172 -11.209,45.712 -14.923,54.887 -3.675,9.076 -10.501,28.352 -31.605,39.333 -25.911,13.484 -27.062,12.301 -52.352,40.287 -19.999,22.131 -33.088,56.145 -33.477,81.843 -0.377,24.901 11.194,65.426 17.287,102.599" />
+      <path id="path434" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 288.863,406.415 14.454,-1.824 c 0,0 5.013,-0.715 5.746,-0.832 0.73,-0.117 2.163,-2.028 2.795,-7.799 0.632,-5.77 9.826,-1.008 9.826,-1.008 0,0 9.429,6.223 13.052,9.93 3.627,3.707 5.977,6.389 10.109,9.144" />
+      <path id="path436" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 218.439,530.371 13.075,14.155" />
+      <path id="path438" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 254.979,562.896 c -1.322,-1.278 -3.434,-1.241 -4.71,0.082 -1.278,1.324 -1.242,3.432 0.082,4.711 1.323,1.278 3.433,1.241 4.711,-0.082 1.277,-1.324 1.241,-3.433 -0.083,-4.711" />
+      <path id="path440" style="fill:#d8d9db;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 181.434,749.351 0.314,1.951 3.919,-0.633 -0.314,-1.949 z" />
+      <path id="path442" style="fill:#e3e1e1;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 115.833,734.043 -0.674,0.829 1.803,1.467 0.675,-0.829 z" />
+      <path id="path444" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 283.416,418.308 c 0,0 -12.717,-8.713 -19.681,-7.616" />
+      <path id="path446" style="fill:none;stroke:#c6c8ca;stroke-width:11;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 732.211,-35.056 -64.07,36.932 c 0,0 -90.586,53.728 -91.834,54.17 -1.25,0.441 -83.944,50.262 -83.944,50.262 -1.865,1.08 -9.33,5.398 -17,9.931 -7.67,4.532 -79.175,47.455 -95.103,58.834 -15.928,11.379 -63.581,53.047 -85.239,72.065 -21.658,19.019 -71.398,73.082 -71.398,73.082 l -89.465,93.92 c 0,0 -53.869,57.487 -67.235,71.752 -13.362,14.265 -70.265,77.878 -70.671,78.723 -0.403,0.845 -29.866,36.753 -9.549,72.84 20.316,36.086 57.478,93.382 57.478,93.382 l 31.534,46.922" />
+      <path id="path448" style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 363.381,426.164 -18,-11.415" />
+      <path id="path450" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 348.297,412.831 c -1.322,-1.279 -3.432,-1.242 -4.709,0.082 -1.278,1.324 -1.241,3.432 0.082,4.711 1.324,1.277 3.434,1.24 4.709,-0.082 1.279,-1.324 1.242,-3.434 -0.082,-4.711" />
+      <path id="path452" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 366.641,426.839 c 0,0 13.185,5.529 17.027,3.682 3.842,-1.848 7.951,-6.525 11.932,-6.386 3.98,0.14 10.515,2.538 14.175,2.161 3.657,-0.378 10.272,0.66 14.323,-1.192" />
+      <path id="path454" class="house " d="m 405.287,367.21 2.537,1.422 -0.303,0.529 2.961,1.623 4.873,3.266 -3.957,7.295 2.85,1.31 0.133,1.571 2.617,0.058 -3.377,28.436 0.84,0.195 -0.58,8.701 -8.496,-0.793 0.857,-10.906 -3.787,-0.982 1.328,-7.981 3.557,-0.062 1.726,-15.215 -3.486,-1.717 -5.496,9.102 -1.057,-0.61 -3.054,5.078 -2.215,-0.904 -0.926,0.959 -2.861,-1.939 z" />
+      <path id="path456" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 235.457,548.4 9.891,8.728" />
+      <path id="path458" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 285.68,518.988 -2.049,8.727 c 0,0 -1.29,4.107 -15.979,14.416 -14.246,9.998 -18.38,11.892 -21.344,16.028 -2.019,2.816 -2.854,4.447 -0.977,6.98 1.277,1.726 3.926,1.63 7.362,0.523" />
+      <path id="path460" style="fill:none;stroke:#c6c8ca;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 103.146,519.362 c 0,0 0.902,1.695 3.271,21.41 1.683,14.005 -2.195,18.189 -0.998,30.875 1.201,12.684 3.203,15.441 3.203,15.441" />
+      <path id="path462" style="fill:none;stroke:#d4d1d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 633.379,238.233 -1.135,10.981" />
+      <path id="path464" style="fill:none;stroke:#c6c8ca;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 613.635,238.927 c 0,0 -18.272,41.09 -26.19,67.476 -7.916,26.385 -21.273,77.162 -22.242,85.557 -0.971,8.393 -16.924,86.303 -16.387,85.176" />
+      <path id="path466" style="fill:none;stroke:#c6c8ca;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 502.158,119.61 -8.789,-15.625" />
+      <path id="path468" style="fill:none;stroke:#c6c8ca;stroke-width:11;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 572.932,78.724 564.143,63.099" />
+      <path id="path470" style="fill:none;stroke:#c6c8ca;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 319.955,249.397 -13.691,-11.57" />
+      <path id="path472" style="fill:none;stroke:#d1d3d4;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 533.447,76.009 510.313,30.843" />
+      <path id="path474" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 530.365,70.007 512.428,34.976" />
+      <path id="path476" style="fill:none;stroke:#ffffff;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 530.365,70.007 512.428,34.976" />
+      <path id="path478" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 405.404,156.376 -12.5,-26.848" />
+      <path id="path480" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 379.852,173.507 361.498,150.269" />
+      <path id="path482" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 364.174,187.185 345.818,163.946" />
+      <path id="path484" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 344.121,206.243 325.766,183.005" />
+      <path id="path486" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 304.144,235.136 277.101,223.067" />
+      <path id="path488" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 275.988,261.876 247.814,249.13" />
+      <path id="path490" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 215.65,324.782 188.607,312.714" />
+      <path id="path492" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 147.638,395.778 129.031,387.37" />
+      <path id="path494" style="fill:none;stroke:#c6c8ca;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 572.852,80.087 c 0,0 -4.784,7.935 -2.795,13.975 1.992,6.039 12.642,17.386 15.558,21.404 7.485,10.314 25.448,36.103 25.448,36.103 0,0 8.005,14.731 -7.274,21.174 0,0 -10.226,2.065 -14.377,-1.738" />
+      <path id="path496" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 592.852,169.042 c -1.323,-1.277 -3.434,-1.242 -4.713,0.082 -1.276,1.324 -1.239,3.434 0.084,4.711 1.324,1.279 3.433,1.242 4.711,-0.082 1.277,-1.324 1.24,-3.432 -0.082,-4.711" />
+      <path id="path498" style="fill:none;stroke:#c6c8ca;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 37.955,518.021 c 0,0 47.483,-39.363 3.664,-54.098 0,0 9.315,5.703 24.316,1.252 15.001,-4.451 28.96,-8.673 39.024,-19.948 10.066,-11.276 18.525,-42.628 20.545,-46.853 2.021,-4.225 12.315,-26.395 12.315,-26.395" />
+      <path id="path500" style="fill:none;stroke:#c6c8ca;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 492.762,103.122 478.072,77.411" />
+      <text id="text504" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75728083px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.58007926,-0.81681113,-0.8123548,-0.57690518,254.0211,352.1883)">
+        <tspan id="tspan502" y="0" x="0">k</tspan>
+      </text>
+      <text id="text508" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75686693px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.59381521,-0.80698072,-0.80256605,-0.59057778,255.6409,349.9036)">
+        <tspan id="tspan506" y="0" x="0">ö</tspan>
+      </text>
+      <text id="text512" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75648308px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.60580476,-0.79813174,-0.79377978,-0.60248297,257.5173,347.4333)">
+        <tspan id="tspan510" y="0" x="0">r</tspan>
+      </text>
+      <text id="text516" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75625896px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.6139279,-0.79196699,-0.78763585,-0.61056391,258.8691,345.7062)">
+        <tspan id="tspan514" y="0" x="0">s</tspan>
+      </text>
+      <text id="text520" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7561245px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.6185288,-0.78841502,-0.78410478,-0.61514369,260.2651,343.7657)">
+        <tspan id="tspan518" y="0" x="0">b</tspan>
+      </text>
+      <text id="text524" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7561903px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.61671205,-0.78981277,-0.78548157,-0.61334801,262.38,341.1989)">
+        <tspan id="tspan522" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text528" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75614929px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.61631793,-0.79013501,-0.7858248,-0.61293283,264.091,338.8211)">
+        <tspan id="tspan526" y="0" x="0">r</tspan>
+      </text>
+      <text id="text532" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75624657px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.61542226,-0.79081267,-0.78648152,-0.61205827,265.4633,337.26)">
+        <tspan id="tspan530" y="0" x="0">s</tspan>
+      </text>
+      <text id="text536" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75633049px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.61244691,-0.79309036,-0.78875929,-0.60910399,266.883,335.2559)">
+        <tspan id="tspan534" y="0" x="0">v</tspan>
+      </text>
+      <text id="text540" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75648642px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.60866355,-0.79596567,-0.79161371,-0.60534177,268.6784,333.0319)">
+        <tspan id="tspan538" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text544" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75657177px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.60507865,-0.79866345,-0.79429055,-0.60177795,270.441,330.7659)">
+        <tspan id="tspan542" y="0" x="0">g</tspan>
+      </text>
+      <text id="text548" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7566638px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.60224982,-0.80077131,-0.79639849,-0.59897021,272.411,328.1852)">
+        <tspan id="tspan546" y="0" x="0">e</tspan>
+      </text>
+      <text id="text552" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75669622px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.6001434,-0.80234256,-0.79794875,-0.59686382,274.1319,325.8497)">
+        <tspan id="tspan550" y="0" x="0">n</tspan>
+      </text>
+      <path id="path554" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 216.864,530.084 c 0,0 10.045,-6.51 19.358,-15.835 9.314,-9.326 18.827,-22.268 19.028,-22.795 0.2,-0.526 10.455,-15.942 21.128,-49.375 10.674,-33.433 10.926,-31.029 6.929,-41.064 -3.998,-10.036 -13.258,-18.567 -15.401,-21.461 -2.145,-2.895 -16.205,-20.557 -16.312,-20.658" />
+      <path id="path556" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 217.573,529.688 c 0,0 -3.792,6.768 -17.369,20.828 -13.579,14.06 -29.865,32.914 -49.651,51.13 -19.788,18.217 -41.181,24.454 -58.427,28.385 -17.244,3.931 -31.246,1.662 -31.246,1.662 0,0 -2.415,-0.411 -9.257,-2.492" />
+      <path id="path558" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 283.703,510.803 4.372,-5.522 -5.527,-4.651 -4.791,5.529 z" />
+      <path id="path560" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 290.263,502.59 -6.565,-4.144 4.291,-6.149 6.146,4.151 z" />
+      <path id="path562" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 289.14,490.253 3.586,-6.554 6.553,3.584 -3.654,6.627 z" />
+      <path id="path564" style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 293.811,509.858 c 0,0 -8.984,9.302 -9.374,14.963 -0.391,5.662 -4.288,6.428 -7.001,2.845 -2.715,-3.582 -1.909,-5.272 -1.909,-5.272" />
+      <text id="text568" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,112.0338,92.1517)">
+        <tspan id="tspan566" y="0" x="0">K</tspan>
+      </text>
+      <text id="text572" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,117.0919,92.1473)">
+        <tspan id="tspan570" y="0" x="0 4.4729519 10.340889 12.248868">TH –</tspan>
+      </text>
+      <text id="text576" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,135.7577,92.1303)">
+        <tspan id="tspan574" y="0" x="0">R</tspan>
+      </text>
+      <text id="text580" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,140.5995,92.1261)">
+        <tspan id="tspan578" y="0" x="0">o</tspan>
+      </text>
+      <text id="text584" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,145.4773,92.1219)">
+        <tspan id="tspan582" y="0" x="0 4.2389545 8.5769081 10.700885">yal </tspan>
+      </text>
+      <text id="text588" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,158.0861,92.1111)">
+        <tspan id="tspan586" y="0" x="0">I</tspan>
+      </text>
+      <text id="text592" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,160.318,92.1092)">
+        <tspan id="tspan590" y="0" x="0 4.9949465 8.5589085 11.537876 13.643853 16.622822">nstitu</tspan>
+      </text>
+      <text id="text596" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,181.8993,92.0906)">
+        <tspan id="tspan594" y="0" x="0">t</tspan>
+      </text>
+      <text id="text600" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,184.8246,92.0881)">
+        <tspan id="tspan598" y="0" x="0 4.5089517 6.4169312 11.357878">e of</tspan>
+      </text>
+      <text id="text604" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,200.3581,92.0747)">
+        <tspan id="tspan602" y="0" x="0">T</tspan>
+      </text>
+      <text id="text608" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,204.1921,92.0714)">
+        <tspan id="tspan606" y="0" x="0 4.5089517 8.5409079 13.535854 18.530802 23.471748 25.595724 30.536673 35.567619">echnology</tspan>
+      </text>
+      <path id="path610" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 108.863,76.919 -23.692,0.019 0.012,11.848 23.69,-0.021 z" />
+      <text id="text614" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,112.0209,77.1469)">
+        <tspan id="tspan612" y="0" x="0">O</tspan>
+      </text>
+      <text id="text618" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,118.3749,77.1415)">
+        <tspan id="tspan616" y="0" x="0 2.9789679 7.9739141 12.482866 15.425835">ther </tspan>
+      </text>
+      <text id="text622" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,135.7082,77.1266)">
+        <tspan id="tspan620" y="0" x="0">K</tspan>
+      </text>
+      <text id="text626" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99990368px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999963,-8.5556475e-4,-8.5556475e-4,-0.99999963,140.7663,77.1222)">
+        <tspan id="tspan624" y="0" x="0 4.4729519 10.340889 12.248868 17.189816 22.31076 26.819712 29.76268 34.100632 37.079601 39.185577 44.126526 49.121471 52.685432">TH operations </tspan>
+      </text>
+      <path id="path628" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 490.482,293.097 c -1.125,-1.084 -2.916,-1.053 -4.002,0.07 -1.085,1.123 -1.056,2.916 0.067,4.002 1.127,1.086 2.916,1.055 4.002,-0.07 1.088,-1.125 1.056,-2.916 -0.067,-4.002" />
+      <text id="text632" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,487.1624,292.9439)">
+        <tspan id="tspan630" y="0" x="0">P</tspan>
+      </text>
+      <text id="text636" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76134777px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.42219137,0.90757912,0.90262254,-0.4198811,480.2776,214.1656)">
+        <tspan id="tspan634" y="0" x="0">o</tspan>
+      </text>
+      <text id="text640" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76129436px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.42620762,0.90572008,0.90078445,-0.42387632,481.68,217.0077)">
+        <tspan id="tspan638" y="0" x="0">s</tspan>
+      </text>
+      <text id="text644" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7611804px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.43161566,0.90317939,0.89824364,-0.4292633,482.6516,219.3567)">
+        <tspan id="tspan642" y="0" x="0">q</tspan>
+      </text>
+      <text id="text648" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7610898px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.43599261,0.90109621,0.89618137,-0.43361921,484.0802,222.1988)">
+        <tspan id="tspan646" y="0" x="0">u</tspan>
+      </text>
+      <text id="text652" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76099825px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.43850047,0.8998953,0.89500137,-0.43610601,485.4632,225.0792)">
+        <tspan id="tspan650" y="0" x="0">a</tspan>
+      </text>
+      <text id="text656" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76104021px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.43925275,0.89953033,0.89461543,-0.43685832,486.7356,227.6515)">
+        <tspan id="tspan654" y="0" x="0">r</tspan>
+      </text>
+      <text id="text660" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76101494px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.43824688,0.90001814,0.89510323,-0.43585243,487.6884,229.5875)">
+        <tspan id="tspan658" y="0" x="0">s</tspan>
+      </text>
+      <text id="text664" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76190042px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.39765638,0.91847787,0.91345887,-0.39547238,489.4308,233.2021)">
+        <tspan id="tspan662" y="0" x="0">b</tspan>
+      </text>
+      <text id="text668" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76276731px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.35300907,0.93634643,0.93124436,-0.35107742,490.7014,236.2556)">
+        <tspan id="tspan666" y="0" x="0">a</tspan>
+      </text>
+      <text id="text672" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76325655px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.32435792,0.94653729,0.94137276,-0.32259442,491.7258,238.9303)">
+        <tspan id="tspan670" y="0" x="0">c</tspan>
+      </text>
+      <text id="text676" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76328468px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.32427203,0.94657371,0.9414092,-0.32248755,492.6025,241.5213)">
+        <tspan id="tspan674" y="0" x="0">k</tspan>
+      </text>
+      <text id="text680" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76029062px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.4699293,0.88406369,0.87923206,-0.46736644,493.6032,244.1003)">
+        <tspan id="tspan678" y="0" x="0">e</tspan>
+      </text>
+      <path id="path682" class="house " d="m 362.959,329.239 -2.484,-4.842 9.287,-4.718 2.578,4.804 z" />
+      <path id="path684" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 181.632,452.37 c -1.322,-1.277 -3.431,-1.24 -4.711,0.083 -1.277,1.323 -1.24,3.433 0.082,4.711 1.325,1.278 3.434,1.241 4.711,-0.082 1.279,-1.324 1.242,-3.432 -0.082,-4.712" />
+      <path id="path686" style="fill:none;stroke:#c6c8ca;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 181.632,452.37 c -1.322,-1.277 -3.431,-1.24 -4.711,0.083 -1.277,1.323 -1.24,3.433 0.082,4.711 1.325,1.278 3.434,1.241 4.711,-0.082 1.279,-1.324 1.242,-3.432 -0.082,-4.712 z" />
+      <path id="path688" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 200.885,411.405 c -1.324,-1.277 -3.433,-1.24 -4.712,0.082 -1.278,1.325 -1.24,3.434 0.082,4.711 1.325,1.278 3.433,1.242 4.711,-0.08 1.279,-1.324 1.242,-3.433 -0.081,-4.713" />
+      <path id="path690" style="fill:none;stroke:#c6c8ca;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 200.885,411.405 c -1.324,-1.277 -3.433,-1.24 -4.712,0.082 -1.278,1.325 -1.24,3.434 0.082,4.711 1.325,1.278 3.433,1.242 4.711,-0.08 1.279,-1.324 1.242,-3.433 -0.081,-4.713 z" />
+      <path id="path692" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 222.119,390.144 c 0,0 -4.482,4.162 -0.465,8.609" />
+      <path id="path694" style="fill:none;stroke:#c6c8ca;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 180.949,451.231 c 0,0 6.801,-10.256 7.445,-13.394 1.481,-7.216 -0.635,-12.415 7.104,-20.996" />
+      <path id="path696" style="fill:none;stroke:#c6c8ca;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 539.271,129.993 c 0,0 9.793,-8.861 14.874,-11.777 5.078,-2.916 14.662,-5.807 15.746,-9.701 1.086,-3.893 0.836,-12.162 0.836,-12.162" />
+      <path id="path698" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 521.369,172.261 5.779,-2.787 -1.154,-2.213 2.944,-1.276 0.978,2.114 2.838,-1.446 -2.061,-4.117 0.83,-0.433 -1.666,-3.393 0.366,-1.02 -1.09,-0.433 -0.862,0.539 -1.912,-3.563 -1.589,0.934 0.507,1.041 -4.916,2.389 -0.611,-0.932 -1.764,0.832 2.387,4.848 -0.414,0.215 0.908,1.974 0.588,-0.185 1.52,3.047 -0.729,0.185 0.252,0.449 -2.287,1.018 z" />
+      <path id="path700" style="fill:none;stroke:#c6c8ca;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 151.513,648.681 c 0,0 -7.283,-9.227 -22.223,-9.385 -14.943,-0.158 -25.727,-2.065 -34.436,2.975 -8.708,5.038 -13.475,11.963 -21.645,23.834 -8.169,11.87 -12.467,16.571 -30.25,26.777 -6.773,3.887 -6.361,3.461 -6.361,3.461" />
+      <path id="path702" style="fill:none;stroke:#c6c8ca;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 198.114,734.854 c 0,0 -17.362,-2.769 -36.649,-3.828 -19.285,-1.06 -37.156,-1.028 -48.509,4.476 -11.353,5.504 -20.655,16.556 -26.939,24.485 -6.285,7.929 -10.824,11.008 -10.824,11.008" />
+      <path id="path704" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 385.162,303.106 -2.906,-5.738 4.805,-2.514 2.982,5.866 z" />
+      <path id="path706" class="house " d="m 510.809,271.298 2.437,5.648 4.592,-0.849 -0.192,-1.076 0.866,-0.333 -1.782,-6.111 z" />
+      <path id="path708" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 496.756,194.124 18.166,36.891" />
+      <path id="path710" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 521.297,232.231 c -2.078,-2.007 -5.391,-1.949 -7.399,0.129 -2.005,2.078 -1.947,5.391 0.131,7.399 2.078,2.006 5.389,1.947 7.397,-0.131 2.008,-2.078 1.949,-5.391 -0.129,-7.397 z" />
+      <path id="path712" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 520.486,241.739 11.426,22.699" />
+      <path id="path714" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 511.846,238.747 -7.131,3.406" />
+      <path id="path716" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 530.752,229.972 -7.131,3.404" />
+      <text id="text720" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00000525px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Italic;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999911,0.00133333,0.00133333,-0.99999911,453.9427,163.9737)">
+        <tspan id="tspan718" y="0" x="0">T</tspan>
+      </text>
+      <text id="text724" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00000525px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Italic;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999911,0.00133333,0.00133333,-0.99999911,456.5462,163.9772)">
+        <tspan id="tspan722" y="0" x="0 2.8920026 5.6700048">axi</tspan>
+      </text>
+      <text id="text728" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,410.1864,187.1015)">
+        <tspan id="tspan726" y="0" x="0 4.1339998 6.5100002">Öst</tspan>
+      </text>
+      <text id="text732" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,418.6825,187.1023)">
+        <tspan id="tspan730" y="0" x="0">r</tspan>
+      </text>
+      <text id="text736" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,420.6141,187.1025)">
+        <tspan id="tspan734" y="0" x="0 2.892 4.164 6.54 8.526 11.418 13.404 14.808 18.101999">a station</tspan>
+      </text>
+      <path id="path738" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 453.754,360.86 1.035,-6.845 -2.5,-0.377 -0.996,6.883 z" />
+      <path id="path740" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 452.566,369.286 1.032,-6.848 -2.498,-0.375 -0.995,6.881 z" />
+      <path id="path742" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 328.531,543.251 c 0,0 -1.076,-13.664 0.774,-19.561 1.853,-5.897 0.76,-12.44 1.246,-16.637 0.486,-4.197 -0.651,-13.252 1.359,-18.175 2.008,-4.921 4.534,-4.127 7.512,-9.485 2.343,-4.213 2.094,-8.135 2.094,-8.135" />
+      <path id="path744" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" d="m 372.371,511.21 c 0,0 -7.131,-0.573 -11.744,-0.912 -4.615,-0.338 -44.485,3.151 -48.414,2.102 -3.926,-1.049 -9.838,-3.739 -11.254,-4.83" />
+      <path id="path746" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 153.399,645.7 c -1.323,-1.279 -3.433,-1.242 -4.711,0.082 -1.277,1.323 -1.241,3.432 0.083,4.711 1.323,1.277 3.433,1.241 4.71,-0.083 1.279,-1.324 1.242,-3.433 -0.082,-4.71" />
+      <path id="path748" class="house " d="m 477.596,190.233 5.191,-2.603 -12.574,-24.492 -5.195,2.394 z" />
+      <path id="path750" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 498.102,179.091 9.896,-4.852 -10.855,-22.15 -4.848,2.318 -1.145,-1.654 -4.912,2.529 z" />
+      <text id="text754" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76403427px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.07657375,-0.99709607,-0.9916595,-0.07615394,521.7777,358.9058)">
+        <tspan id="tspan752" y="0" x="0">t</tspan>
+      </text>
+      <text id="text758" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76418543px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.0532515,-0.99859676,-0.99313937,-0.05295764,521.9239,356.7536)">
+        <tspan id="tspan756" y="0" x="0">e</tspan>
+      </text>
+      <text id="text762" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76421309px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.00235086,-0.99999729,-0.99453993,0.00232987,522.0914,353.8411)">
+        <tspan id="tspan760" y="0" x="0">k</tspan>
+      </text>
+      <text id="text766" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76422787px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.01874386,-0.99982628,-0.99436894,0.01863891,522.0908,350.9482)">
+        <tspan id="tspan764" y="0" x="0">n</tspan>
+      </text>
+      <text id="text770" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76410532px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.06983472,-0.99758495,-0.99214847,0.0694569,521.9448,347.7252)">
+        <tspan id="tspan768" y="0" x="0">i</tspan>
+      </text>
+      <text id="text774" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76410341px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.07396985,-0.99729153,-0.99183405,0.07355004,521.8109,346.0051)">
+        <tspan id="tspan772" y="0" x="0">k</tspan>
+      </text>
+      <text id="text778" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7640276px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.07793826,-0.99699255,-0.99155597,0.07749745,521.5598,343.1243)">
+        <tspan id="tspan776" y="0" x="0">r</tspan>
+      </text>
+      <text id="text782" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76407957px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.08278619,-0.99660385,-0.99116733,0.08234539,521.4315,340.9292)">
+        <tspan id="tspan780" y="0" x="0">i</tspan>
+      </text>
+      <text id="text786" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7640276px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.07980642,-0.99684557,-0.991409,0.07936562,521.3246,339.3253)">
+        <tspan id="tspan784" y="0" x="0">n</tspan>
+      </text>
+      <text id="text790" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76402378px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.08058314,-0.99678343,-0.99134685,0.08014234,521.0215,336.1033)">
+        <tspan id="tspan788" y="0" x="0">g</tspan>
+      </text>
+      <text id="text794" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76401138px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.09319877,-0.99569455,-0.99025796,0.092695,520.7886,332.8616)">
+        <tspan id="tspan792" y="0" x="0">e</tspan>
+      </text>
+      <text id="text798" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76368237px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(-0.15066076,-0.98870994,-0.98329397,0.14984207,520.4725,329.9379)">
+        <tspan id="tspan796" y="0" x="0">n</tspan>
+      </text>
+      <path id="path800" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 482.588,150.8 c -0.309,-0.299 -0.799,-0.289 -1.098,0.019 -0.299,0.309 -0.289,0.801 0.018,1.098 0.308,0.299 0.803,0.291 1.101,-0.02 0.297,-0.308 0.289,-0.8 -0.021,-1.097" />
+      <path id="path802" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 482.617,147.946 c -0.308,-0.299 -0.801,-0.291 -1.097,0.018 -0.301,0.308 -0.291,0.803 0.017,1.099 0.309,0.299 0.801,0.29 1.1,-0.019 0.299,-0.309 0.289,-0.801 -0.02,-1.098" />
+      <path id="path804" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 482.621,145.118 c -0.308,-0.299 -0.801,-0.289 -1.1,0.02 -0.298,0.308 -0.289,0.799 0.02,1.097 0.309,0.301 0.801,0.291 1.098,-0.017 0.299,-0.309 0.289,-0.803 -0.018,-1.1" />
+      <path id="path806" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 482.674,142.237 c -0.307,-0.299 -0.801,-0.289 -1.098,0.02 -0.299,0.308 -0.289,0.801 0.018,1.099 0.31,0.297 0.801,0.29 1.101,-0.019 0.297,-0.309 0.289,-0.801 -0.021,-1.1" />
+      <path id="path808" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 482.598,139.28 c -0.309,-0.297 -0.803,-0.289 -1.1,0.02 -0.297,0.308 -0.291,0.801 0.02,1.099 0.308,0.297 0.8,0.289 1.099,-0.019 0.297,-0.309 0.289,-0.801 -0.019,-1.1" />
+      <path id="path810" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 485.104,149.315 c -0.311,-0.296 -0.803,-0.289 -1.102,0.02 -0.297,0.309 -0.289,0.801 0.019,1.1 0.309,0.296 0.803,0.289 1.102,-0.02 0.295,-0.309 0.289,-0.801 -0.019,-1.1" />
+      <path id="path812" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 485.131,146.462 c -0.309,-0.299 -0.801,-0.289 -1.098,0.019 -0.299,0.309 -0.291,0.801 0.018,1.1 0.308,0.297 0.803,0.289 1.099,-0.019 0.299,-0.309 0.289,-0.801 -0.019,-1.1" />
+      <path id="path814" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 485.133,143.634 c -0.307,-0.299 -0.799,-0.289 -1.098,0.019 -0.299,0.311 -0.289,0.801 0.02,1.1 0.308,0.297 0.8,0.289 1.099,-0.02 0.297,-0.308 0.289,-0.8 -0.021,-1.099" />
+      <path id="path816" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 485.188,140.753 c -0.309,-0.297 -0.801,-0.289 -1.098,0.019 -0.299,0.309 -0.291,0.803 0.019,1.1 0.307,0.299 0.799,0.291 1.098,-0.019 0.299,-0.309 0.291,-0.801 -0.019,-1.1" />
+      <path id="path818" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 485.111,137.796 c -0.31,-0.297 -0.802,-0.289 -1.099,0.019 -0.299,0.309 -0.291,0.801 0.019,1.1 0.309,0.299 0.801,0.289 1.098,-0.019 0.299,-0.309 0.289,-0.801 -0.018,-1.1" />
+      <path id="path820" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 487.566,147.938 c -0.31,-0.298 -0.802,-0.291 -1.101,0.02 -0.297,0.309 -0.289,0.799 0.021,1.098 0.307,0.297 0.799,0.289 1.098,-0.02 0.299,-0.307 0.289,-0.801 -0.018,-1.098" />
+      <path id="path822" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 487.594,145.083 c -0.309,-0.297 -0.801,-0.289 -1.1,0.02 -0.297,0.308 -0.289,0.8 0.02,1.099 0.308,0.299 0.8,0.289 1.099,-0.019 0.299,-0.309 0.291,-0.803 -0.019,-1.1" />
+      <path id="path824" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 487.598,142.257 c -0.311,-0.299 -0.803,-0.291 -1.1,0.017 -0.297,0.311 -0.291,0.803 0.018,1.1 0.31,0.299 0.802,0.291 1.101,-0.02 0.297,-0.306 0.289,-0.8 -0.019,-1.097" />
+      <path id="path826" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 487.652,139.374 c -0.31,-0.297 -0.802,-0.289 -1.101,0.02 -0.297,0.31 -0.289,0.8 0.021,1.099 0.307,0.299 0.801,0.291 1.098,-0.017 0.299,-0.309 0.291,-0.803 -0.018,-1.102" />
+      <path id="path828" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 487.574,136.417 c -0.31,-0.297 -0.801,-0.287 -1.099,0.02 -0.299,0.308 -0.289,0.802 0.019,1.099 0.307,0.299 0.801,0.291 1.098,-0.017 0.299,-0.309 0.291,-0.803 -0.018,-1.102" />
+      <path id="path830" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 489.949,146.483 c -0.31,-0.298 -0.803,-0.291 -1.099,0.018 -0.299,0.311 -0.289,0.803 0.019,1.1 0.307,0.298 0.801,0.289 1.098,-0.02 0.299,-0.309 0.289,-0.801 -0.018,-1.098" />
+      <path id="path832" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 489.977,143.628 c -0.309,-0.297 -0.801,-0.289 -1.1,0.019 -0.297,0.309 -0.289,0.801 0.019,1.1 0.309,0.297 0.801,0.289 1.102,-0.019 0.295,-0.309 0.289,-0.801 -0.021,-1.1" />
+      <path id="path834" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 489.98,140.8 c -0.308,-0.297 -0.802,-0.287 -1.099,0.021 -0.299,0.309 -0.289,0.799 0.019,1.098 0.309,0.299 0.801,0.289 1.098,-0.02 0.299,-0.308 0.291,-0.8 -0.018,-1.099" />
+      <path id="path836" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 490.035,137.921 c -0.31,-0.299 -0.801,-0.289 -1.099,0.019 -0.299,0.309 -0.29,0.801 0.019,1.098 0.307,0.299 0.801,0.291 1.1,-0.019 0.297,-0.309 0.289,-0.801 -0.02,-1.098" />
+      <path id="path838" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 492.488,144.972 c -0.31,-0.299 -0.8,-0.289 -1.101,0.019 -0.297,0.309 -0.289,0.801 0.021,1.098 0.307,0.299 0.801,0.291 1.098,-0.018 0.299,-0.308 0.291,-0.8 -0.018,-1.099" />
+      <path id="path840" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 492.516,142.118 c -0.309,-0.299 -0.801,-0.291 -1.1,0.018 -0.297,0.31 -0.289,0.802 0.022,1.101 0.308,0.299 0.798,0.289 1.097,-0.019 0.299,-0.309 0.291,-0.803 -0.019,-1.1" />
+      <path id="path842" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 465.445,149.526 c -0.308,-0.297 -0.8,-0.289 -1.099,0.022 -0.299,0.308 -0.289,0.801 0.021,1.098 0.307,0.298 0.799,0.291 1.098,-0.02 0.297,-0.307 0.289,-0.799 -0.02,-1.1" />
+      <path id="path844" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 480.076,152.282 c -0.308,-0.297 -0.801,-0.289 -1.099,0.02 -0.299,0.308 -0.291,0.802 0.019,1.099 0.307,0.299 0.799,0.291 1.098,-0.019 0.299,-0.309 0.289,-0.801 -0.018,-1.1" />
+      <path id="path846" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 480.104,149.429 c -0.309,-0.297 -0.801,-0.289 -1.1,0.019 -0.299,0.309 -0.289,0.801 0.021,1.1 0.307,0.297 0.801,0.289 1.098,-0.02 0.299,-0.308 0.289,-0.8 -0.019,-1.099" />
+      <path id="path848" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 480.107,146.603 c -0.31,-0.299 -0.802,-0.291 -1.099,0.017 -0.299,0.309 -0.289,0.803 0.019,1.1 0.309,0.299 0.801,0.289 1.098,-0.018 0.299,-0.31 0.291,-0.803 -0.018,-1.099" />
+      <path id="path850" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 480.162,143.722 c -0.308,-0.299 -0.803,-0.289 -1.099,0.017 -0.299,0.311 -0.29,0.803 0.017,1.1 0.311,0.299 0.803,0.289 1.1,-0.02 0.299,-0.308 0.289,-0.8 -0.018,-1.097" />
+      <path id="path852" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 480.084,140.765 c -0.309,-0.299 -0.801,-0.289 -1.098,0.019 -0.3,0.309 -0.291,0.801 0.018,1.098 0.309,0.299 0.801,0.291 1.1,-0.02 0.298,-0.308 0.287,-0.8 -0.02,-1.097" />
+      <path id="path854" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 477.51,153.819 c -0.307,-0.297 -0.801,-0.289 -1.098,0.02 -0.299,0.308 -0.289,0.801 0.018,1.099 0.31,0.299 0.8,0.29 1.099,-0.019 0.299,-0.309 0.289,-0.801 -0.019,-1.1" />
+      <path id="path856" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 477.539,150.966 c -0.309,-0.299 -0.801,-0.289 -1.098,0.017 -0.3,0.311 -0.291,0.803 0.018,1.102 0.309,0.297 0.801,0.289 1.098,-0.02 0.3,-0.308 0.291,-0.8 -0.018,-1.099" />
+      <path id="path858" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 477.543,148.138 c -0.311,-0.297 -0.801,-0.289 -1.1,0.019 -0.298,0.309 -0.289,0.801 0.018,1.1 0.31,0.299 0.801,0.291 1.102,-0.02 0.296,-0.308 0.289,-0.8 -0.02,-1.099" />
+      <path id="path860" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 477.596,145.259 c -0.309,-0.299 -0.801,-0.289 -1.098,0.017 -0.299,0.309 -0.291,0.803 0.02,1.1 0.308,0.299 0.8,0.289 1.097,-0.02 0.299,-0.308 0.289,-0.798 -0.019,-1.097" />
+      <path id="path862" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 477.52,142.302 c -0.311,-0.299 -0.803,-0.289 -1.1,0.017 -0.299,0.311 -0.291,0.803 0.019,1.1 0.309,0.299 0.801,0.289 1.1,-0.02 0.297,-0.306 0.289,-0.8 -0.019,-1.097" />
+      <path id="path864" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 475.178,155.222 c -0.307,-0.297 -0.801,-0.289 -1.098,0.019 -0.297,0.309 -0.291,0.801 0.018,1.1 0.31,0.297 0.802,0.289 1.099,-0.02 0.299,-0.308 0.291,-0.8 -0.019,-1.099" />
+      <path id="path866" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 475.207,152.366 c -0.307,-0.297 -0.801,-0.289 -1.098,0.022 -0.298,0.308 -0.289,0.8 0.018,1.099 0.311,0.297 0.801,0.289 1.1,-0.019 0.298,-0.309 0.291,-0.803 -0.02,-1.102" />
+      <path id="path868" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 475.209,149.54 c -0.307,-0.297 -0.799,-0.289 -1.096,0.02 -0.3,0.308 -0.291,0.8 0.018,1.099 0.308,0.297 0.801,0.289 1.099,-0.019 0.299,-0.309 0.29,-0.801 -0.021,-1.1" />
+      <path id="path870" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 475.264,146.661 c -0.307,-0.301 -0.801,-0.291 -1.098,0.018 -0.299,0.308 -0.289,0.8 0.02,1.099 0.308,0.299 0.8,0.289 1.099,-0.019 0.297,-0.307 0.289,-0.801 -0.021,-1.098" />
+      <path id="path872" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 475.188,143.702 c -0.309,-0.299 -0.803,-0.289 -1.1,0.02 -0.299,0.308 -0.289,0.8 0.019,1.099 0.309,0.299 0.801,0.289 1.098,-0.019 0.299,-0.309 0.291,-0.801 -0.017,-1.1" />
+      <path id="path874" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 472.615,156.759 c -0.31,-0.299 -0.802,-0.289 -1.101,0.019 -0.297,0.309 -0.289,0.801 0.019,1.1 0.309,0.297 0.801,0.289 1.1,-0.02 0.297,-0.308 0.289,-0.8 -0.018,-1.099" />
+      <path id="path876" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 472.643,153.905 c -0.309,-0.299 -0.801,-0.289 -1.1,0.02 -0.297,0.308 -0.289,0.799 0.02,1.097 0.308,0.299 0.8,0.291 1.099,-0.017 0.297,-0.309 0.289,-0.803 -0.019,-1.1" />
+      <path id="path878" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 472.646,151.077 c -0.31,-0.297 -0.802,-0.289 -1.099,0.02 -0.299,0.308 -0.291,0.8 0.019,1.099 0.307,0.299 0.801,0.289 1.098,-0.019 0.299,-0.309 0.289,-0.801 -0.018,-1.1" />
+      <path id="path880" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 472.701,148.196 c -0.31,-0.297 -0.803,-0.289 -1.099,0.02 -0.301,0.308 -0.289,0.801 0.019,1.099 0.307,0.297 0.799,0.289 1.098,-0.019 0.297,-0.309 0.289,-0.801 -0.018,-1.1" />
+      <path id="path882" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 472.623,145.239 c -0.309,-0.299 -0.803,-0.287 -1.1,0.02 -0.298,0.308 -0.289,0.801 0.02,1.099 0.309,0.297 0.801,0.289 1.098,-0.019 0.298,-0.309 0.289,-0.801 -0.018,-1.1" />
+      <path id="path884" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 470.307,158.081 c -0.309,-0.297 -0.801,-0.289 -1.1,0.02 -0.297,0.31 -0.289,0.8 0.02,1.101 0.308,0.297 0.8,0.289 1.099,-0.021 0.297,-0.307 0.289,-0.801 -0.019,-1.1" />
+      <path id="path886" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 470.334,155.228 c -0.307,-0.297 -0.799,-0.29 -1.096,0.019 -0.3,0.309 -0.291,0.801 0.018,1.1 0.308,0.297 0.799,0.289 1.099,-0.02 0.299,-0.308 0.29,-0.801 -0.021,-1.099" />
+      <path id="path888" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 470.338,152.399 c -0.307,-0.296 -0.801,-0.289 -1.098,0.02 -0.299,0.309 -0.289,0.801 0.018,1.1 0.31,0.298 0.803,0.291 1.099,-0.018 0.299,-0.311 0.291,-0.803 -0.019,-1.102" />
+      <path id="path890" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 470.393,149.521 c -0.309,-0.299 -0.801,-0.292 -1.098,0.017 -0.299,0.309 -0.291,0.803 0.019,1.1 0.309,0.299 0.799,0.289 1.098,-0.02 0.299,-0.308 0.289,-0.799 -0.019,-1.097" />
+      <path id="path892" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 470.316,146.563 c -0.31,-0.298 -0.802,-0.289 -1.099,0.018 -0.299,0.311 -0.291,0.803 0.019,1.1 0.307,0.298 0.801,0.291 1.098,-0.02 0.299,-0.308 0.289,-0.799 -0.018,-1.098" />
+      <path id="path894" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 467.766,159.54 c -0.309,-0.299 -0.801,-0.289 -1.098,0.02 -0.299,0.308 -0.291,0.8 0.02,1.099 0.308,0.297 0.8,0.289 1.099,-0.019 0.297,-0.311 0.289,-0.801 -0.021,-1.1" />
+      <path id="path896" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 467.795,156.687 c -0.307,-0.299 -0.799,-0.291 -1.098,0.019 -0.299,0.309 -0.291,0.799 0.018,1.1 0.308,0.297 0.801,0.289 1.101,-0.02 0.297,-0.308 0.289,-0.803 -0.021,-1.099" />
+      <path id="path898" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 467.799,153.858 c -0.309,-0.298 -0.801,-0.289 -1.1,0.02 -0.297,0.309 -0.289,0.801 0.02,1.098 0.31,0.298 0.801,0.291 1.099,-0.018 0.297,-0.309 0.289,-0.801 -0.019,-1.1" />
+      <path id="path900" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 467.854,150.978 c -0.309,-0.297 -0.803,-0.29 -1.1,0.019 -0.299,0.309 -0.291,0.801 0.019,1.1 0.307,0.297 0.801,0.289 1.1,-0.02 0.297,-0.308 0.289,-0.801 -0.019,-1.099" />
+      <path id="path902" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 467.775,148.021 c -0.308,-0.299 -0.8,-0.29 -1.099,0.019 -0.299,0.309 -0.291,0.801 0.019,1.1 0.307,0.298 0.801,0.289 1.1,-0.02 0.297,-0.308 0.289,-0.801 -0.02,-1.099" />
+      <text id="text906" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61533165px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.42627488,-0.79294407,-0.90459368,-0.48629223,112.1944,501.3672)">
+        <tspan id="tspan904" y="0" x="0">r</tspan>
+      </text>
+      <text id="text910" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64381695px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.3725599,-0.81349028,-0.92800815,-0.42501675,113.0245,499.7892)">
+        <tspan id="tspan908" y="0" x="0">o</tspan>
+      </text>
+      <text id="text914" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.65104389px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.35787665,-0.81852592,-0.93376887,-0.40827394,114.0231,497.4276)">
+        <tspan id="tspan912" y="0" x="0">s</tspan>
+      </text>
+      <text id="text918" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.64478016px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.37067415,-0.81416122,-0.92876298,-0.42284024,114.887,495.534)">
+        <tspan id="tspan916" y="0" x="0">l</tspan>
+      </text>
+      <text id="text922" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.62821341px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.40272558,-0.80236142,-0.91532077,-0.45942132,115.4728,494.1931)">
+        <tspan id="tspan920" y="0" x="0">a</tspan>
+      </text>
+      <text id="text926" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.59848785px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.45538883,-0.78040871,-0.89029266,-0.51949686,116.6268,492.0129)">
+        <tspan id="tspan924" y="0" x="0">g</tspan>
+      </text>
+      <text id="text930" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.57717705px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.49012743,-0.76407357,-0.87165079,-0.55914376,117.9522,489.684)">
+        <tspan id="tspan928" y="0" x="0">s</tspan>
+      </text>
+      <text id="text934" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.56350422px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.51140527,-0.75330272,-0.85933966,-0.58341134,119.0819,487.9536)">
+        <tspan id="tspan932" y="0" x="0">t</tspan>
+      </text>
+      <text id="text938" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.55058432px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.5309428,-0.74282768,-0.84740766,-0.60568046,120.0446,486.4805)">
+        <tspan id="tspan936" y="0" x="0">u</tspan>
+      </text>
+      <text id="text942" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54080963px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.54536527,-0.7347588,-0.8381985,-0.62215774,121.6947,484.3483)">
+        <tspan id="tspan940" y="0" x="0">l</tspan>
+      </text>
+      <text id="text946" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53500938px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.55382465,-0.72989925,-0.83263333,-0.63177377,122.474,483.2146)">
+        <tspan id="tspan944" y="0" x="0">l</tspan>
+      </text>
+      <text id="text950" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52875948px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.56278103,-0.72459134,-0.82660602,-0.64200802,123.3466,482.0702)">
+        <tspan id="tspan948" y="0" x="0">s</tspan>
+      </text>
+      <text id="text954" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.52132463px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.57337179,-0.71817449,-0.8192953,-0.65407823,124.6306,480.4721)">
+        <tspan id="tspan952" y="0" x="0">b</tspan>
+      </text>
+      <text id="text958" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5148077px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.58246114,-0.7125442,-0.81285855,-0.66445799,126.3393,478.2892)">
+        <tspan id="tspan956" y="0" x="0">a</tspan>
+      </text>
+      <text id="text962" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.51003695px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.58906388,-0.70835337,-0.80808647,-0.6720122,127.954,476.3998)">
+        <tspan id="tspan960" y="0" x="0">c</tspan>
+      </text>
+      <text id="text966" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50644636px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.59399354,-0.70518981,-0.80446981,-0.67762929,129.3059,474.6498)">
+        <tspan id="tspan964" y="0" x="0">k</tspan>
+      </text>
+      <text id="text970" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.54669905px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53676306,-0.73961353,-0.84373303,-0.61233437,130.9386,472.8724)">
+        <tspan id="tspan968" y="0" x="0">e</tspan>
+      </text>
+      <text id="text974" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61522055px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.42645849,-0.7928765,-0.90450714,-0.48649895,132.3511,470.8353)">
+        <tspan id="tspan972" y="0" x="0">n</tspan>
+      </text>
+      <path id="path976" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 220.393,529.787 -2.469,2.556 -2.635,-2.545 2.467,-2.557 z" />
+      <path id="path978" style="fill:#cbdac4;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 577.932,195.255 -0.803,1.969 1.197,0.607 -0.74,1.619 2.25,0.938 0.531,-1.545 1.125,0.398 0.869,-2.178 z" />
+      <path id="path980" style="fill:#cbdac4;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 588.246,204.185 0.943,-1.901 2.854,1.451 -0.945,1.868 z" />
+      <path id="path982" style="fill:#cbdac4;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 603.109,211.815 4.686,-0.414 -0.184,-2.65 -4.722,0.451 z" />
+      <path id="path984" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 572.629,186.394 5.926,-3.471 -5.16,-8.725 -5.944,3.455 1.744,2.953 c 0,0 -0.156,1.016 1.03,0.995 l 0.468,0.83 -0.238,0.388 2.174,3.575" />
+      <path id="path986" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 582.586,182.903 -0.002,-0.068 -6.926,-11.869 -0.629,-0.094 -0.363,-0.726 0.063,-0.456 5.771,-3.207 2.287,3.991 -0.291,0.232 5.483,9.172 -1.936,1.115 0.344,0.711 -1.381,0.826 -0.465,-0.586 z" />
+      <path id="path988" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 565.777,174.731 -1.476,-2.451 -0.918,0.383 -0.576,-1.037 0.777,-0.484 -1.387,-2.473 6.067,-3.44 1.888,3.231 -1.035,0.646 1.617,2.766 -4.957,2.932" />
+      <path id="path990" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 586.301,167.726 16.172,-9.323 -5.035,-8.603 -1.247,0.58 -1.099,-1.953 2.83,-1.795 -1.619,-2.731 0.623,-0.289 -0.844,-1.433 -5.287,3.058 0.844,1.399 -1.397,0.916 0.506,0.969 -1.002,0.576 1.668,2.674 1.039,-0.542 0.559,1.02 -11.729,6.959 z" />
+      <path id="path992" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 574.082,149.685 9.854,-5.549 1.058,1.709 2.248,-1.26 -0.543,-1.004 1.123,-0.734 -3.092,-5.184 -3.683,2.004 -0.703,-1.193 -9.662,5.353 z" />
+      <path id="path994" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 566.771,149.688 0.344,0.674 -1.746,1.026 5.307,9.07 -0.33,0.197 0.902,1.625 0.451,-0.181 2.285,3.922 4.354,-2.485 -8.959,-15.342 z" />
+      <path id="path996" style="fill:#cbdac4;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 582.473,158.509 -1.633,-2.574 2.039,-1.223 1.652,2.625" />
+      <path id="path998" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 535.648,184.438 -2.209,-4.568 2.094,-1.031 0.252,-0.477 0.778,-0.449 0.58,0.182 3.841,-1.848 2.315,4.568 z" />
+      <path id="path1000" style="fill:#a2bd94;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 545.654,174.753 -1.656,-1.805 c 0,0 -1.25,0.389 -0.746,-0.771 l -1.707,-1.803 6.029,-5.551 -0.295,-0.439 1.159,-1.147 -0.893,-1.58 7.045,-4.312 -3.078,-5.444 -1.219,0.676 0.516,1.012 -0.176,0.449 -1.711,1.024 -0.449,-0.229 -0.832,0.381 0.138,0.287 -2.285,1.139 -1.129,-1.709 c 0,0 -1.146,0.439 -1.781,0.031 -0.635,-0.408 -0.754,-1.348 -0.754,-1.348 0,0 -0.017,-0.994 0.756,-1.531 l -0.406,-0.805 2.281,-1.297 0.512,0.75 3.732,-2.158 -1.187,-2.021 4.795,-2.78 1.185,1.915 3.109,-1.782 -2.535,-4.301 -0.261,0.004 -0.731,-1.269 -1.738,0.894 -1.803,-2.822 -1.684,0.945 c 0,0 0.569,1.116 -0.597,1.842 -1.166,0.729 -1.684,-0.441 -1.684,-0.441 l -1.607,0.92 0.41,0.908 -3.627,2.211 0.164,0.467 -4.928,2.652 -0.754,-1.244 -1.15,0.072 -0.541,-0.931 0.668,-0.747 -0.785,-1.478 4.74,-2.936 -0.35,-0.595 3.758,-2.186 0.401,0.49 7.074,-4.181 -2.565,-4.485 4.379,-2.562 0.321,0.465 6.429,-3.725 -0.593,-0.984 5.752,-3.399 0.673,1.008 6.401,-3.697 -0.324,-0.571 3.238,-1.916 2.724,4.534 1.116,-0.516 1.39,3.143 -2.927,1.701 -0.969,-1.397 -5.647,3.344 0.621,1.115 -0.416,0.112 1.457,2.488 c 0,0 0.682,0.199 0.952,0.611 0.269,0.414 -0.145,0.737 -0.145,0.737 l 0.486,0.828 -8.398,4.806 -0.457,-0.699 c 0,0 -0.602,-0.014 -0.793,-0.404 -0.189,-0.389 -0.014,-0.889 -0.014,-0.889 l -0.406,-0.699 2.254,-1.428 -0.461,-0.855 0.725,-0.537 -1.811,-3.241 -1.92,1.028 -0.111,-0.313 -1.762,0.975 0.971,1.658 -5.649,3.293 0.811,1.504 0.754,-0.301 2.771,4.27 -0.752,0.459 -0.011,0.863 -0.725,0.484 -0.25,0.633 -0.672,0.432 2.129,3.549 0.469,-0.114 1.916,3.239 -0.363,0.216 3.234,5.336 -0.293,1.209 -2.67,1.487 1.484,2.566 -0.234,0.135 3.643,6.14 -4.069,2.401 -1.078,-1.76 -4.666,2.594 -0.504,-0.436 -8.838,8.139" />
+      <path id="path1002" style="fill:#cbdac4;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 573.293,93.411 -0.938,-1.728 0.313,-0.039 -0.758,-1.491 2.803,-1.408 1.557,3.219 z" />
+      <path id="path1004" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 543.408,126.028 c -1.324,-1.277 -3.431,-1.242 -4.711,0.082 -1.279,1.325 -1.242,3.434 0.082,4.711 1.325,1.28 3.434,1.241 4.711,-0.082 1.28,-1.324 1.242,-3.433 -0.082,-4.711" />
+      <text id="text1008" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75548744px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.63789464,-0.77300171,-0.76877502,-0.63440394,87.4998,756.5898)">
+        <tspan id="tspan1006" y="0" x="0">b</tspan>
+      </text>
+      <text id="text1012" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75492048px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.65426962,-0.75933973,-0.75519665,-0.65069438,89.5913,754.0536)">
+        <tspan id="tspan1010" y="0" x="0">j</tspan>
+      </text>
+      <text id="text1016" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75444794px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.67015143,-0.74551245,-0.74145309,-0.6664917,90.7575,752.718)">
+        <tspan id="tspan1014" y="0" x="0">ö</tspan>
+      </text>
+      <text id="text1020" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7538619px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.68708346,-0.73010111,-0.72610436,-0.68333913,92.8651,750.3076)">
+        <tspan id="tspan1018" y="0" x="0">r</tspan>
+      </text>
+      <text id="text1024" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75322866px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.70446853,-0.71353605,-0.70964396,-0.70061852,94.3243,748.8149)">
+        <tspan id="tspan1022" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1028" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75367594px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.72617486,-0.69127556,-0.68751005,-0.72222003,96.6308,746.475)">
+        <tspan id="tspan1026" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1032" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75436401px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.74270714,-0.67327619,-0.66961639,-0.73864771,98.9487,744.2968)">
+        <tspan id="tspan1030" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text1036" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75538492px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.76999027,-0.64154641,-0.63805563,-0.76580554,101.0927,742.366)">
+        <tspan id="tspan1034" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1040" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75670433px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.80192075,-0.60071001,-0.59743043,-0.79754797,102.9936,740.8666)">
+        <tspan id="tspan1038" y="0" x="0">v</tspan>
+      </text>
+      <text id="text1044" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75811386px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.83486865,-0.55345461,-0.55044922,-0.83030802,105.3086,739.1158)">
+        <tspan id="tspan1042" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text1048" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75957966px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.86736647,-0.50040131,-0.49766998,-0.86263916,107.6725,737.5541)">
+        <tspan id="tspan1046" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1052" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7609334px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.89694596,-0.44457668,-0.44214019,-0.89205196,110.4702,735.9725)">
+        <tspan id="tspan1050" y="0" x="0">e</tspan>
+      </text>
+      <text id="text1056" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76217747px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.92287613,-0.38721782,-0.38509694,-0.91783642,113.0849,734.7033)">
+        <tspan id="tspan1054" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1060" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75895643px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.52162697,0.85491433,0.85024944,-0.5187692,35.9746,714.6192)">
+        <tspan id="tspan1058" y="0" x="0">r</tspan>
+      </text>
+      <text id="text1064" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75873184px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53121293,0.84904969,0.8444056,-0.528313,37.1442,716.3708)">
+        <tspan id="tspan1062" y="0" x="0">o</tspan>
+      </text>
+      <text id="text1068" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75844669px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.54091182,0.84296418,0.83836184,-0.53796969,38.7875,719.047)">
+        <tspan id="tspan1066" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1072" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75823879px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.54793383,0.83848251,0.83390098,-0.54492851,40.1232,721.0908)">
+        <tspan id="tspan1070" y="0" x="0">l</tspan>
+      </text>
+      <text id="text1076" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75805187px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.55489099,0.83393377,0.8293941,-0.55186454,40.9906,722.5043)">
+        <tspan id="tspan1074" y="0" x="0">a</tspan>
+      </text>
+      <text id="text1080" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75782537px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.56256792,0.82884502,0.82430513,-0.55947827,42.7193,724.8917)">
+        <tspan id="tspan1078" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1084" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75771379px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.5661963,0.82638428,0.82186531,-0.56310658,44.432,727.572)">
+        <tspan id="tspan1082" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1088" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75773621px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.56388161,0.82795678,0.82343783,-0.56079191,45.8294,729.5471)">
+        <tspan id="tspan1086" y="0" x="0">v</tspan>
+      </text>
+      <text id="text1092" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75794554px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.55889669,0.83128317,0.8267434,-0.55584916,47.4272,731.9343)">
+        <tspan id="tspan1090" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text1096" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75812387px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.55160398,0.83608587,0.83152525,-0.5485986,49.0557,734.3361)">
+        <tspan id="tspan1094" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1100" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75836182px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.54304402,0.84161316,0.83703175,-0.54008082,50.8066,737.0795)">
+        <tspan id="tspan1098" y="0" x="0">e</tspan>
+      </text>
+      <text id="text1104" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75865126px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53384872,0.84740394,0.84278078,-0.53094874,52.437,739.4997)">
+        <tspan id="tspan1102" y="0" x="0">n</tspan>
+      </text>
+      <path id="path1106" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 91.1,523.098 -6.068,4.295 c 0,0 -7.959,-10.855 -1.219,-21.76 8.301,-13.427 23.016,-9.337 23.02,-9.058 0.004,0.279 -2.249,7.16 -2.249,7.16 0,0 -8.293,-3.171 -13.906,5.199 -5.038,7.513 0.422,14.164 0.422,14.164" />
+      <path id="path1108" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 35.359,576.306 -0.296,-3.801 1.461,-0.116 -0.066,-0.84 2.23,-0.175 -0.122,-1.536 1.464,-0.115 -0.173,-2.193 12.649,-0.992 0.285,3.619 -1.426,0.112 0.083,1.059 -1.281,0.102 0.125,1.572 -2.414,0.19 0.166,2.119 z" />
+      <path id="path1110" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 46.718,559.323 -0.283,-3.62 1.423,-0.11 -0.068,-0.878 2.25,-0.177 -0.125,-1.589 1.424,-0.113 -0.172,-2.194 16.505,-1.295 0.276,3.51 -1.699,0.134 0.085,1.097 -1.315,0.102 0.116,1.481 -2.194,0.171 0.174,2.209 z" />
+      <path id="path1112" style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 61.723,542.063 -0.289,-3.674 1.589,-0.125 -0.071,-0.932 2.166,-0.17 -0.116,-1.453 1.371,-0.108 -0.18,-2.303 16.424,-1.287 0.283,3.618 -1.616,0.126 0.076,0.988 -1.125,0.089 0.128,1.617 -2.289,0.18 0.174,2.138 z" />
+      <path id="path1114" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 512.107,317.784 c -1.125,-1.084 -2.916,-1.053 -4.002,0.07 -1.085,1.124 -1.056,2.917 0.067,4.002 1.127,1.086 2.916,1.055 4.002,-0.07 1.088,-1.125 1.056,-2.916 -0.067,-4.002" />
+      <text id="text1118" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,508.7873,317.6305)">
+        <tspan id="tspan1116" y="0" x="0">P</tspan>
+      </text>
+      <text id="text1122" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49998474px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBold-Expert;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99984783,-0.0174445,-0.0174445,-0.99984783,517.0816,314.1052)">
+        <tspan id="tspan1120" y="0" x="0 2.3084922">30</tspan>
+      </text>
+      <text id="text1126" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,270.1934,704.8027)">
+        <tspan id="tspan1124" y="0" x="0">K</tspan>
+      </text>
+      <text id="text1130" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,294.9648,704.8027)">
+        <tspan id="tspan1128" y="0" x="0 21.868 50.556">TH </tspan>
+      </text>
+      <text id="text1134" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,354.8481,704.8027)">
+        <tspan id="tspan1132" y="0" x="0">C</tspan>
+      </text>
+      <text id="text1138" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,380.103,704.8027)">
+        <tspan id="tspan1136" y="0" x="0 21.208 57.903999 82.940002 107.184">ampus</tspan>
+      </text>
+      <text id="text1142" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Italic;writing-mode:lr-tb;fill:#0059a2;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,272.1934,751.4209)">
+        <tspan id="tspan1140" y="0" x="0">W</tspan>
+      </text>
+      <text id="text1146" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Italic;writing-mode:lr-tb;fill:#0059a2;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,289.2871,751.4209)">
+        <tspan id="tspan1144" y="0" x="0 10.521">el</tspan>
+      </text>
+      <text id="text1150" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Italic;writing-mode:lr-tb;fill:#0059a2;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,304.7637,751.4209)">
+        <tspan id="tspan1148" y="0" x="0">c</tspan>
+      </text>
+      <text id="text1154" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Italic;writing-mode:lr-tb;fill:#0059a2;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,314.0669,751.4209)">
+        <tspan id="tspan1152" y="0" x="0 11.529 29.042999 39.563999">ome </tspan>
+      </text>
+      <text id="text1158" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Italic;writing-mode:lr-tb;fill:#0059a2;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,358.0825,751.4209)">
+        <tspan id="tspan1156" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1162" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Italic;writing-mode:lr-tb;fill:#0059a2;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,364.9077,751.4209)">
+        <tspan id="tspan1160" y="0" x="0">o</tspan>
+      </text>
+      <path id="path1164" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 450.326,161.89 c -1.707,-1.645 -4.43,-1.598 -6.072,0.107 -1.65,1.707 -1.604,4.426 0.103,6.072 1.707,1.651 4.428,1.602 6.075,-0.103 1.646,-1.707 1.599,-4.426 -0.106,-6.076" />
+      <path id="path1166" style="fill:none;stroke:#231f20;stroke-width:0.43399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 450.326,161.89 c -1.707,-1.645 -4.43,-1.598 -6.072,0.107 -1.65,1.707 -1.604,4.426 0.103,6.072 1.707,1.651 4.428,1.602 6.075,-0.103 1.646,-1.707 1.599,-4.426 -0.106,-6.076" />
+      <text id="text1170" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99993515px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#303996;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999649,0.00265002,0.00265002,-0.99999649,445.0491,161.3215)">
+        <tspan id="tspan1168" y="0" x="0">T</tspan>
+      </text>
+      <text id="text1174" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99993515px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#303996;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999649,0.00265002,0.00265002,-0.99999649,448.789,180.9476)">
+        <tspan id="tspan1172" y="0" x="0">J</tspan>
+      </text>
+      <text id="text1178" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,409.4926,155.1642)">
+        <tspan id="tspan1176" y="0" x="0">T</tspan>
+      </text>
+      <text id="text1182" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,412.0541,155.1645)">
+        <tspan id="tspan1180" y="0" x="0">e</tspan>
+      </text>
+      <text id="text1186" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,415.0609,155.1648)">
+        <tspan id="tspan1184" y="0" x="0">k</tspan>
+      </text>
+      <text id="text1190" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,417.9701,155.1651)">
+        <tspan id="tspan1188" y="0" x="0 3.3299999 4.7340002">nis</tspan>
+      </text>
+      <text id="text1194" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,425.0805,155.1658)">
+        <tspan id="tspan1192" y="0" x="0">k</tspan>
+      </text>
+      <text id="text1198" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,1e-4,1e-4,-1,428.0023,155.1661)">
+        <tspan id="tspan1196" y="0" x="0 2.892 4.164 8.0760002 11.37 14.724 17.1 19.914 23.208 24.624001 27.516001">a Högskolan</tspan>
+      </text>
+      <text id="text1202" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73999929px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.91544315,0.40244731,0.40244731,-0.91544315,540.7099,218.0294)">
+        <tspan id="tspan1200" y="0" x="0">l</tspan>
+      </text>
+      <text id="text1206" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73996162px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.93576703,0.35261887,0.35261887,-0.93576703,542.3111,218.6314)">
+        <tspan id="tspan1204" y="0" x="0">i</tspan>
+      </text>
+      <text id="text1210" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74004459px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.95423152,0.29906891,0.29906891,-0.95423152,543.8458,219.2624)">
+        <tspan id="tspan1208" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1214" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74004221px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.96937951,0.24556742,0.24556742,-0.96937951,546.9347,220.199)">
+        <tspan id="tspan1212" y="0" x="0">d</tspan>
+      </text>
+      <text id="text1218" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74003124px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.97765181,0.21023069,0.21023069,-0.97765181,550.014,220.9587)">
+        <tspan id="tspan1216" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1222" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74001503px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.90392119,0.42769907,0.42769907,-0.90392119,552.4218,221.5401)">
+        <tspan id="tspan1220" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1226" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73994875px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.70720171,0.70701184,0.70701184,-0.70720171,554.3063,222.4423)">
+        <tspan id="tspan1224" y="0" x="0">e</tspan>
+      </text>
+      <text id="text1230" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74000931px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.40980932,0.91217121,0.91217121,-0.40980932,556.3417,224.6189)">
+        <tspan id="tspan1228" y="0" x="0">d</tspan>
+      </text>
+      <text id="text1234" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73998833px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.27048591,0.96272393,0.96272393,-0.27048591,557.5595,227.5531)">
+        <tspan id="tspan1232" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1238" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73997545px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.26424187,0.96445645,0.96445645,-0.26424187,558.1293,229.7277)">
+        <tspan id="tspan1236" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1242" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73999214px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.43658302,0.89966397,0.89966397,-0.43658302,558.6805,232.0518)">
+        <tspan id="tspan1240" y="0" x="0">v</tspan>
+      </text>
+      <text id="text1246" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74003744px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.69820125,0.71590154,0.71590154,-0.69820125,560.0613,234.5533)">
+        <tspan id="tspan1244" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text1250" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7399416px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.82368103,0.5670534,0.5670534,-0.82368103,562.0974,236.5295)">
+        <tspan id="tspan1248" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1254" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74001694px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.81828825,0.57480809,0.57480809,-0.81828825,564.8582,238.3031)">
+        <tspan id="tspan1252" y="0" x="0">e</tspan>
+      </text>
+      <text id="text1258" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74003363px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.40408996,0.91471925,0.91471925,-0.40408996,567.0231,240.2269)">
+        <tspan id="tspan1256" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1262" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75999355px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.4826057,-0.87729112,-0.87250119,-0.47995864,196.5458,579.9036)">
+        <tspan id="tspan1260" y="0" x="0">d</tspan>
+      </text>
+      <text id="text1266" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75874949px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53158923,-0.84881542,-0.84417134,-0.52868931,198.1304,577.1004)">
+        <tspan id="tspan1264" y="0" x="0">r</tspan>
+      </text>
+      <text id="text1270" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75766659px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.56803058,-0.82513142,-0.82063341,-0.56494083,199.252,575.3581)">
+        <tspan id="tspan1268" y="0" x="0">o</tspan>
+      </text>
+      <text id="text1274" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75671387px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.59946848,-0.80284418,-0.7984504,-0.59618891,201.1474,572.7267)">
+        <tspan id="tspan1272" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1278" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75601339px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.62161306,-0.78601546,-0.78172615,-0.61820684,202.3258,570.9651)">
+        <tspan id="tspan1276" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1282" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75525427px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.64637973,-0.76599478,-0.76180993,-0.64284679,203.6724,569.2814)">
+        <tspan id="tspan1280" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1286" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75446939px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.66665691,-0.74862188,-0.74454151,-0.66299719,205.7998,566.7979)">
+        <tspan id="tspan1284" y="0" x="0">i</tspan>
+      </text>
+      <text id="text1290" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75393915px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.68513709,-0.73189832,-0.72790163,-0.68141387,206.9588,565.6208)">
+        <tspan id="tspan1288" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1294" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75309849px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.7071808,-0.71088364,-0.70699145,-0.70330964,209.1537,563.2411)">
+        <tspan id="tspan1292" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1298" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75395775px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.73465101,-0.68216842,-0.67844521,-0.73065434,212.5916,559.8698)">
+        <tspan id="tspan1296" y="0" x="0">k</tspan>
+      </text>
+      <text id="text1302" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75448036px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.74681139,-0.6686956,-0.66503589,-0.74273103,214.6984,557.8932)">
+        <tspan id="tspan1300" y="0" x="0">r</tspan>
+      </text>
+      <text id="text1306" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75487137px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.75665558,-0.65740999,-0.65381368,-0.75251246,216.285,556.422)">
+        <tspan id="tspan1304" y="0" x="0">i</tspan>
+      </text>
+      <text id="text1310" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75523186px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.76507314,-0.64747634,-0.64394339,-0.76088827,217.5346,555.4075)">
+        <tspan id="tspan1308" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1314" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75555944px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.7739573,-0.63670741,-0.63323779,-0.76973067,219.4956,553.8242)">
+        <tspan id="tspan1312" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1318" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75581932px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.78112722,-0.62779928,-0.6243719,-0.77685876,221.1325,552.4408)">
+        <tspan id="tspan1316" y="0" x="0">i</tspan>
+      </text>
+      <text id="text1322" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75623512px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.78993151,-0.61655909,-0.61319508,-0.78562138,222.3872,551.3768)">
+        <tspan id="tspan1320" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1326" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75662088px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.80035809,-0.60282291,-0.59952224,-0.79598524,224.8901,549.3915)">
+        <tspan id="tspan1324" y="0" x="0">a</tspan>
+      </text>
+      <text id="text1330" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75700903px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.80918492,-0.59077037,-0.58755406,-0.80477038,227.29,547.7271)">
+        <tspan id="tspan1328" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1334" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75760317px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.82249399,-0.57188461,-0.5687738,-0.81799593,230.5768,545.3452)">
+        <tspan id="tspan1332" y="0" x="0">v</tspan>
+      </text>
+      <text id="text1338" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75789165px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.8311665,-0.55907118,-0.55602361,-0.82662667,232.875,543.6845)">
+        <tspan id="tspan1336" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text1342" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75833702px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.84027256,-0.54512743,-0.54216421,-0.83569113,235.22,542.0945)">
+        <tspan id="tspan1340" y="0" x="0">g</tspan>
+      </text>
+      <path id="path1344" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 545.695,211.175 c -1.123,-1.084 -2.916,-1.053 -4.002,0.07 -1.086,1.123 -1.054,2.916 0.069,4.002 1.125,1.086 2.916,1.055 4.002,-0.07 1.088,-1.125 1.054,-2.916 -0.069,-4.002" />
+      <text id="text1348" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,542.3773,211.0209)">
+        <tspan id="tspan1346" y="0" x="0">P</tspan>
+      </text>
+      <path id="path1350" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 461.197,298.675 c -1.123,-1.084 -2.916,-1.053 -4.002,0.07 -1.086,1.123 -1.054,2.916 0.069,4.002 1.125,1.086 2.916,1.055 4.002,-0.07 1.088,-1.125 1.054,-2.916 -0.069,-4.002" />
+      <text id="text1354" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,457.8806,298.5214)">
+        <tspan id="tspan1352" y="0" x="0">P</tspan>
+      </text>
+      <path id="path1356" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 414.91,277.376 c -1.125,-1.084 -2.916,-1.053 -4.002,0.07 -1.086,1.123 -1.054,2.916 0.067,4.002 1.127,1.086 2.916,1.055 4.004,-0.07 1.087,-1.125 1.054,-2.916 -0.069,-4.002" />
+      <text id="text1360" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,411.5917,277.2222)">
+        <tspan id="tspan1358" y="0" x="0">P</tspan>
+      </text>
+      <path id="path1362" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 362.41,351.126 c -1.125,-1.084 -2.916,-1.053 -4.002,0.07 -1.086,1.123 -1.054,2.916 0.067,4.002 1.127,1.086 2.916,1.055 4.004,-0.07 1.087,-1.125 1.054,-2.916 -0.069,-4.002" />
+      <text id="text1366" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,359.0916,350.9723)">
+        <tspan id="tspan1364" y="0" x="0">P</tspan>
+      </text>
+      <path id="path1368" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 389.41,401.376 c -1.125,-1.084 -2.916,-1.053 -4.002,0.07 -1.086,1.123 -1.054,2.916 0.067,4.002 1.127,1.086 2.916,1.055 4.004,-0.07 1.087,-1.125 1.054,-2.916 -0.069,-4.002" />
+      <text id="text1372" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,386.0911,401.2209)">
+        <tspan id="tspan1370" y="0" x="0">P</tspan>
+      </text>
+      <path id="path1374" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 475.41,396.626 c -1.125,-1.084 -2.916,-1.053 -4.002,0.07 -1.086,1.123 -1.054,2.916 0.067,4.002 1.127,1.086 2.916,1.055 4.004,-0.07 1.087,-1.125 1.054,-2.916 -0.069,-4.002" />
+      <text id="text1378" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,472.0909,396.4724)">
+        <tspan id="tspan1376" y="0" x="0">P</tspan>
+      </text>
+      <path id="path1380" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 437.174,438.856 c -1.123,-1.084 -2.916,-1.053 -4.002,0.07 -1.086,1.124 -1.053,2.916 0.07,4.002 1.125,1.086 2.916,1.055 4.002,-0.07 1.086,-1.124 1.053,-2.915 -0.07,-4.002" />
+      <text id="text1384" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,433.8567,438.7024)">
+        <tspan id="tspan1382" y="0" x="0">P</tspan>
+      </text>
+      <path id="path1386" style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 72.481,626.096 c -1.124,-1.084 -2.916,-1.053 -4.002,0.07 -1.085,1.124 -1.055,2.916 0.068,4.002 1.126,1.086 2.916,1.055 4.002,-0.07 1.089,-1.124 1.055,-2.915 -0.068,-4.002" />
+      <text id="text1390" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99993086px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBlack-Caps;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999483,0.0032167,0.0032167,-0.99999483,69.1641,624.9398)">
+        <tspan id="tspan1388" y="0" x="0">P</tspan>
+      </text>
+      <path id="path1396" style="fill:#dedfe0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 181.996,752.632 0.315,1.951 3.918,-0.633 -0.313,-1.949 z" />
+      <path id="path1398" class="house " d="m 499.318,46.163 2.625,5.125 9.375,-4.875 -2.625,-4.875 z" />
+      <text id="text1402" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75620222px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.79018925,-0.61622693,-0.61286291,-0.78587909,347.2593,532.9836)">
+        <tspan id="tspan1400" y="0" x="0">b</tspan>
+      </text>
+      <text id="text1406" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75605774px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.78644965,-0.62103955,-0.61765439,-0.78213936,349.9354,530.9695)">
+        <tspan id="tspan1404" y="0" x="0">r</tspan>
+      </text>
+      <text id="text1410" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75593424px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.78379975,-0.62441992,-0.62101365,-0.77951037,351.5239,529.6144)">
+        <tspan id="tspan1408" y="0" x="0">i</tspan>
+      </text>
+      <text id="text1414" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75572824px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.78017494,-0.62900987,-0.6255614,-0.77592743,352.8753,528.6453)">
+        <tspan id="tspan1412" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1418" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75551414px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.77474276,-0.63574622,-0.63227656,-0.77051609,355.3811,526.6206)">
+        <tspan id="tspan1416" y="0" x="0">e</tspan>
+      </text>
+      <text id="text1422" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75537539px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.76946604,-0.64217851,-0.63868773,-0.76526027,357.6651,524.6829)">
+        <tspan id="tspan1420" y="0" x="0">l</tspan>
+      </text>
+      <text id="text1426" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75515509px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.76472793,-0.64790735,-0.64435331,-0.760543,358.9959,523.6538)">
+        <tspan id="tspan1424" y="0" x="0">l</tspan>
+      </text>
+      <text id="text1430" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75476122px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.75604219,-0.65811929,-0.65452289,-0.75192,360.2272,522.4899)">
+        <tspan id="tspan1428" y="0" x="0">v</tspan>
+      </text>
+      <text id="text1434" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75416899px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.73994007,-0.67637481,-0.67267279,-0.73590151,362.396,520.6858)">
+        <tspan id="tspan1432" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text1438" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75308371px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.7076038,-0.71044407,-0.70657289,-0.70375367,364.5234,518.7174)">
+        <tspan id="tspan1436" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1442" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75397491px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.68182943,-0.73496391,-0.73094622,-0.67810623,366.7913,516.3972)">
+        <tspan id="tspan1440" y="0" x="0">e</tspan>
+      </text>
+      <text id="text1446" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75465775px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.66177213,-0.75288279,-0.74878155,-0.65815462,368.8069,514.2284)">
+        <tspan id="tspan1444" y="0" x="0">n</tspan>
+      </text>
+      <path id="path1448" style="fill:none;stroke:#231f20;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 109.847,163.62 0.488,76.451" />
+      <path id="path1450" style="fill:none;stroke:#231f20;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 120.525,229.8 -10.167,10.527 -10.109,-9.764" />
+      <path id="path1452" style="fill:#bbbdc0;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 119.173,190.884 c -4.848,-4.688 -12.578,-4.549 -17.26,0.299 -4.684,4.849 -4.549,12.58 0.299,17.261 4.851,4.684 12.58,4.547 17.263,-0.3 4.683,-4.85 4.546,-12.579 -0.302,-17.26" />
+      <text id="text1456" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.81525993px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99999683,-0.00251923,-0.00251923,-0.99999683,104.3631,193.1195)">
+        <tspan id="tspan1454" y="0" x="0">N</tspan>
+      </text>
+      <path id="path1458" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 54.007,626.766 c -1.322,-1.279 -3.431,-1.241 -4.71,0.082 -1.278,1.323 -1.241,3.432 0.081,4.711 1.324,1.278 3.434,1.241 4.711,-0.083 1.28,-1.323 1.242,-3.433 -0.082,-4.71" />
+      <path id="path1460" style="fill:#9d1b2f;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 108.471,62.454 84.78,62.474 84.791,74.321 108.48,74.3 Z" />
+      <text id="text1464" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,112.3208,62.3828)">
+        <tspan id="tspan1462" y="0" x="0 4.4910002 6.651 11.736 16.785 21.177 23.355 25.316999 30.159 33.155998 38.151001 42.237 46.799999 50.417999 54.035999 56.195999 61.244999 66.330002 68.247002 70.209">Signal Processing, S</tspan>
+      </text>
+      <text id="text1468" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,187.0195,62.3828)">
+        <tspan id="tspan1466" y="0" x="0 4.0320001 9.0270004 13.968 18.909 21.033001 22.941 27.882 30.51 32.417999 36.846001 38.970001">chool of Ele</tspan>
+      </text>
+      <text id="text1472" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,230.498,62.3828)">
+        <tspan id="tspan1470" y="0" x="0">c</tspan>
+      </text>
+      <text id="text1476" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,234.6377,62.3828)">
+        <tspan id="tspan1474" y="0" x="0 2.9790001 5.9219999 8.0279999 12.06 16.398001 18.521999 20.43 24.858">trical En</tspan>
+      </text>
+      <text id="text1480" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,264.4902,62.3828)">
+        <tspan id="tspan1478" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1484" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,269.4673,62.3828)">
+        <tspan id="tspan1482" y="0" x="0 2.1059999 7.1009998 11.61 16.118999 19.062 21.167999 26.163">ineering</tspan>
+      </text>
+      <text id="text1504" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76474953px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.22448189,-0.97476268,-0.96943186,-0.22324363,426.5386,285.1632)">
+        <tspan id="tspan1502" y="0" x="0">d</tspan>
+      </text>
+      <text id="text1508" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76438761px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.25063032,-0.96843505,-0.96314581,-0.24926603,427.2321,282.0103)">
+        <tspan id="tspan1506" y="0" x="0">r</tspan>
+      </text>
+      <text id="text1512" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7640214px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.2760273,-0.96158254,-0.95633487,-0.27451597,427.7809,279.9504)">
+        <tspan id="tspan1510" y="0" x="0">o</tspan>
+      </text>
+      <text id="text1516" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76358509px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.30504336,-0.95287476,-0.9476686,-0.30336395,428.7005,276.8311)">
+        <tspan id="tspan1514" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1520" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76312923px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.3324285,-0.94377028,-0.9386266,-0.33060197,429.3756,274.8786)">
+        <tspan id="tspan1518" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1524" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76242685px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.37531286,-0.92772031,-0.92263886,-0.37327608,430.0335,272.8814)">
+        <tspan id="tspan1522" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1528" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76130009px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.42786635,-0.90494194,-0.90000632,-0.42553505,431.2782,269.907)">
+        <tspan id="tspan1526" y="0" x="0">i</tspan>
+      </text>
+      <text id="text1532" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75947618px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.50341676,-0.8656415,-0.86091409,-0.50066435,431.9567,268.2897)">
+        <tspan id="tspan1530" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1536" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75839186px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.54301957,-0.84162884,-0.83704746,-0.54005638,433.7,265.5338)">
+        <tspan id="tspan1534" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1540" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75849152px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53804868,-0.84478456,-0.84018226,-0.53510658,436.2422,261.5763)">
+        <tspan id="tspan1538" y="0" x="0">k</tspan>
+      </text>
+      <text id="text1544" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75855589px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53617107,-0.84597094,-0.84134769,-0.533229,437.8049,259.1153)">
+        <tspan id="tspan1542" y="0" x="0">r</tspan>
+      </text>
+      <text id="text1548" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75861263px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.535198,-0.84657027,-0.84194707,-0.53227698,439.0161,257.2736)">
+        <tspan id="tspan1546" y="0" x="0">i</tspan>
+      </text>
+      <text id="text1552" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75859594px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53475856,-0.84684641,-0.8422232,-0.53183753,439.8976,255.8038)">
+        <tspan id="tspan1550" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1556" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75863695px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53540539,-0.84643982,-0.84181665,-0.53248439,441.1659,253.8219)">
+        <tspan id="tspan1554" y="0" x="0">t</tspan>
+      </text>
+      <text id="text1560" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75854492px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.53806365,-0.84477506,-0.8401518,-0.53512157,442.3807,251.9723)">
+        <tspan id="tspan1558" y="0" x="0">i</tspan>
+      </text>
+      <text id="text1564" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75817585px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.55046308,-0.83683334,-0.83225175,-0.54745772,443.2665,250.5172)">
+        <tspan id="tspan1562" y="0" x="0">n</tspan>
+      </text>
+      <text id="text1568" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75802422px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.55766846,-0.83208909,-0.82754939,-0.55464199,445.0252,247.8743)">
+        <tspan id="tspan1566" y="0" x="0">a</tspan>
+      </text>
+      <text id="text1572" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75795126px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.55946351,-0.83090388,-0.82636411,-0.55641598,446.5623,245.5015)">
+        <tspan id="tspan1570" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1576" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75796938px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.55729657,-0.83235088,-0.82781113,-0.55424905,448.8852,242.1328)">
+        <tspan id="tspan1574" y="0" x="0">v</tspan>
+      </text>
+      <text id="text1580" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75819302px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.54957838,-0.83739772,-0.83283717,-0.54659405,450.4046,239.7273)">
+        <tspan id="tspan1578" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text1584" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76086378px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.44817498,-0.8951737,-0.89027963,-0.44571744,452.1075,237.3617)">
+        <tspan id="tspan1582" y="0" x="0">g</tspan>
+      </text>
+      <text id="text1588" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75363445px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.72557115,0.69191269,0.68814715,-0.72161628,352.863,381.3801)">
+        <tspan id="tspan1586" y="0" x="0">o</tspan>
+      </text>
+      <text id="text1592" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75384378px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.73062982,0.68651814,0.68277381,-0.72665409,355.2097,383.6206)">
+        <tspan id="tspan1590" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1596" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75399733px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.73479215,0.68201552,0.67829233,-0.73077448,357.076,385.2069)">
+        <tspan id="tspan1594" y="0" x="0">q</tspan>
+      </text>
+      <text id="text1600" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75416327px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.73949924,0.67685941,0.67315739,-0.73546068,359.4326,387.4677)">
+        <tspan id="tspan1598" y="0" x="0">u</tspan>
+      </text>
+      <text id="text1604" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75434732px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.74323558,0.67271065,0.6690298,-0.73917613,361.7979,389.6884)">
+        <tspan id="tspan1602" y="0" x="0">l</tspan>
+      </text>
+      <text id="text1608" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75448704px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.7471679,0.668274,0.66463534,-0.74308754,363.0716,390.7771)">
+        <tspan id="tspan1606" y="0" x="0">d</tspan>
+      </text>
+      <text id="text1612" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75470448px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.75239166,0.66233349,0.65871602,-0.74826943,365.4483,393.0236)">
+        <tspan id="tspan1610" y="0" x="0">a</tspan>
+      </text>
+      <text id="text1616" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75487328px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.75745443,0.65646331,0.65288803,-0.75333235,367.6486,394.8303)">
+        <tspan id="tspan1614" y="0" x="0">s</tspan>
+      </text>
+      <text id="text1620" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75530243px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.76832124,0.64357629,0.64006442,-0.76411541,370.7599,397.4872)">
+        <tspan id="tspan1618" y="0" x="0">v</tspan>
+      </text>
+      <text id="text1624" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75605488px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.78567221,0.62202817,0.61864301,-0.78138294,372.8777,399.364)">
+        <tspan id="tspan1622" y="0" x="0">ä</tspan>
+      </text>
+      <text id="text1628" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.75665712px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.80237018,0.6001063,0.59682668,-0.79799736,375.1552,401.1003)">
+        <tspan id="tspan1626" y="0" x="0">g</tspan>
+      </text>
+      <path id="path1630" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M -0.896,-73.677 H -93.891 V 964.271 h 92.995 z" />
+      <path id="path1632" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 824.102,-137.558 H 597.61 V 900.389 h 226.492 z" />
+    </g>
+  </g>
+</svg>
