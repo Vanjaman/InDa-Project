@@ -7,179 +7,60 @@
 }
 
 body {
-    background-color: #2258A5;
-}
-
-.icon-text {
-    font-size: 1.5vw;
+    background-color: #F258A5;
 }
 
 .page-container {
-    position: relative;
+    height: 100vh;
+    width: 100vw;
 }
 
-.banner-container {
-    background: #2258A5;
-    padding: 0.5vw;
-    
-    .banner {
-        max-width: 100%;
-        display: flex;
-        justify-content: center;
+.page-structure {
+    height: 100%;
+    display: grid;
+    grid-template-rows: 3fr 30fr 2fr;
 
-        .kth-logo {
-            width: 5.5vw;
-            height: 5.5vw;
-            box-shadow: 0.15vw 0.15vw 0.8vw rgb(20, 18, 18);
-        }
+    .banner {
+        background: #2258A5;
+        padding: 0.5vh 0.5vw;
 
         .main-banner-text {
             font-family: Poppins;
-            font-size: 3.5vw;
-            margin-left:0.7em;
+            font-size: 4vh;
             color: #F2F2F2;
             text-align: center;
-            display: flex;
-            justify-content: center;
-            align-items: center;
             text-shadow: 0.3vw 0.3vw 0.6vw #000000;
         }
     }
-}
 
-#info-container-extended {
-    padding-top: 1vw;
-    background-color: #F2F2F2;
-    padding-bottom: 1vw;
-}
-
-#info-container {
-    max-width: 100%;
-    padding-right: 1vw;
-    padding-left: 1vw;
-    margin-right: 8vw;
-    background-color: #F2F2F2;
-
-    #return-to-map {
-        margin-left: 2vw;
-        width: 2.5vw;
-        height: 2.5vw;
-        text-align: center;
-        display: inline-block;
-        transform: translateY(40%);
-
-        .svg-go-back-icon {
-            width: 2.5vw;
-            height: 2.5vw;
-        }
-    }
-
-    #info-header-underline-container {
-        display: inline-block;
-        margin-left: 5.5vw;
-        margin-right: 3vw;
-
-        #floor-info {
-            font-family: arimo;
-            font-size: 4vw;
-            display: inline-block;
-        }
-
-        .underline {
-            transform: translate(-2.5%);
-            width: 105%;
-            margin-top: 2%;
-            height: 0.1vw;
-            background: black;
-        }
-    }
-
-    #time-info {
-        font-family: arimo;
-        display: inline-block;
-        font-size: 2.5vw;
-        color:#646262;
-    }
-
-    #time-picker {
-        cursor: pointer;
-        font-family: poppins;
-        display: inline-block;
-        text-align: center;
-        width: 8vw;
-        height: 6vw;
-        transform: translateY(10%);
-        float: right;
-
-        .svg-pick-time-icon {
-            pointer-events: none;
-            width: 3vw;
-            height: 3vw;
-        }
-    }
-}
-
-.content-container {
-    padding: 0.25vw 1vw 0.5vw 1vw;    
-    max-width: 100%; 
-    background:#F2F2F2;
-
-    #maps-container {
-        display: inline-block;
-        margin-left: 8vw;
-        margin-right: 8vw;
+    .content-container {
         background:#F2F2F2;
+        display: grid;
+        grid-template-rows: 1fr 10fr;
 
-        #main-image-div {
-            display: inline-block;
-            margin-right: 4vw;
-            width: 53vw;
-
-             .svg-image {
-                width: 100%;
-                height: 100%;
-             }
+        .top-info {
+            text-align: center;
+            font-size: 3vh;
         }
 
-        #preview-div-vertical-box {
-            display: inline-block;
-            flex-direction: column;
-            width: 24%;
-            height: 100%;
-            margin-right: 3vw;
-            top: 0;
-            float: right;
+        #map {
+            height: 75vh;
+            .svg-image {
+                max-height: 75vh;
+            }
         }
-
-        .preview-div {
-           display: inline-block;  
-           border-style: solid;  
-           border-width: 0.2vw;
-           width: 22vw;
-           height: 100%;
-           text-align: center;
-           margin-bottom: 3%;
-        }
-
-        .svg-preview-image {
-            width: 100%;
-            height: 100%;
-        }
-
     }
-}
-
-
-.footer {
-    background:#2258A5;
-    max-width: 100%;
-    width: 100%;
-    position: relaitve;
-    bottom: 0;
-    padding: 2vw;
     
-    .made-by-text {
-        color: #F2F2F2;
-        font-size: 1.5vw;
+    .footer {
+        background:#2258A5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        .made-by-text {
+            color: #F2F2F2;
+            font-size: 2vh;
+        }
     }
 }
+

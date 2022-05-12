@@ -6,46 +6,60 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KTH Places Graphical Overview</title>
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+    integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+    integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+    crossorigin=""></script>
 </head>
 <body class="page-container">
-    <!-- Banner at the top of the page -->
-    <div class="banner-container">
+    <div class="page-structure">
+        <!-- Banner at the top of the page -->
         <div class="banner">
-            <object class="kth-logo" type="image/svg+xml" data="assets/KTH-logo.svg"></object>
             <h1 class="main-banner-text">KTH Booking Overview</h1>
         </div>
-    </div>
 
-        <h1 id="time-info">
-            26 Apr 11:32
-        </h1>
+        <div class="content-container">
+            <div class="top-info">
+                <h2 id="time-info">
+                    26 Apr 11:32
+                </h2>
+            </div>
 
-        <div id="time-picker">
-            <object id="svg-pick-time" class="svg-pick-time-icon" type="image/svg+xml" data="assets/date.svg"></object>
-            <p class="icon-text">Pick time</p>
-        </div>
-    </div>
-    </div>
+            <!--
+            <div id="time-picker">
+                <object id="svg-pick-time" class="svg-pick-time-icon" type="image/svg+xml" data="assets/date.svg"></object>
+                <p class="icon-text">Pick time</p>
+            </div>
+            -->
 
-    <div class="content-container">
-
-        <div id="maps-container">
             <!-- SVG -->
-            <div id="main-image-div" align="middle">
-                <object id="svg-object" class="svg-image" type="image/svg+xml" data="maps/campus/karta_KTH.svg"></object>
+            <div id="map" align="middle">
+                <!--<object id="svg-object" class="svg-image" type="image/svg+xml" data="maps/campus/karta_KTH.svg"></object>-->
             </div>
         </div>
+
+        <!-- Footer at the bottom of the page-->
+        <footer class="footer">
+            <p class="made-by-text">
+                Project made by <a class="made-by-text" href="#">Vincent Lindvall</a> & <a class="made-by-text" href="#" >Vanja Grigoriev</a>
+            </p>
+        </footer>
     </div>
-
-    
-
-    <!-- Footer at the bottom of the page-->
-    <footer class="footer">
-        <p class="made-by-text" align="center">Project made by <a class="made-by-text" href="#">Vincent Lindvall</a> & <a class="made-by-text" href="#" >Vanja Grigoriev</a></p>
-    </footer>
 </body>
 
 <script src="csvReader.js"></script>
-<script src="roomColourer.js"></script>
+<script>
+
+    var map = L.map('map', {
+        crs: L.CRS.Simple
+    });
+
+    var bounds = [[0,0], [650,1000]];
+    var image = L.imageOverlay('maps/campus/karta_KTH.svg', bounds).addTo(map);
+    map.fitBounds(bounds);
+
+</script>
 
 </html>
