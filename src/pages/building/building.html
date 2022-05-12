@@ -26,19 +26,15 @@
 
         <div id="info-header-underline-container">
             <h1 id="floor-info">
-                D House - Floor 5
+                D House - Floor 3
             </h1>
             <div class="underline"></div>
         </div>
         
         <h1 id="time-info">
-            26 Apr 11:32
+            2022 / 5 / 2 &nbsp; 13:30
         </h1>
 
-        <div id="time-picker">
-            <object id="svg-pick-time" class="svg-pick-time-icon" type="image/svg+xml" data="../../assets/date.svg"></object>
-            <p class="icon-text">Pick time</p>
-        </div>
     </div>
     </div>
 
@@ -47,23 +43,24 @@
         <div id="maps-container">
             <!-- SVG -->
             <div id="main-image-div" align="middle">
-                <object id="svg-object" class="svg-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
+                <!-- The data of this SVG object changes when the floor is switched-->
+                <object id="svg-main-object" class="svg-image" type="image/svg+xml" data="maps/ED/ED2.svg"></object>
             </div>
             <div id="preview-div-vertical-box">
-                <div id="floor-up" class="preview-div">
-                    <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
-                    <p class="icon-text">Floor up</p>
+                <div id="floor-up" onclick="switchFloors(1)" class="preview-div">
+                    <!-- The data of this SVG object changes when the floor is switched-->
+                    <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml" data="maps/ED/ED6.svg"></object>
+                    <p class="icon-text" id="floor-up-text">Floor up</p>
                 </div>
 
-                <div id="floor-down" class="preview-div">
-                    <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
-                    <p class="icon-text">Floor down</p>
+                <div id="floor-down" onclick="switchFloors(2)" class="preview-div">
+                    <!-- The data of this SVG object changes when the floor is switched-->
+                    <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml" data="maps/ED/ED6.svg"></object>
+                    <p class="icon-text" id="floor-down-text">Floor down</p>
                 </div>
             </div>
         </div>
     </div>
-
-    
 
     <!-- Footer at the bottom of the page-->
     <footer class="footer">
@@ -74,7 +71,8 @@
     </footer>
 </body>
 
+<script src="../../JS/loadSVGs.js"></script>
 <script src="../../JS/csvReader.js"></script>
-<script src="../../JS/roomColourer.js"></script>
+<script src="../../JS/SVGDrawer.js"></script>
 
 </html>

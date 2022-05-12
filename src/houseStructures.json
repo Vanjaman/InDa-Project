@@ -1,0 +1,33 @@
+{
+    "comment": "This file describes how floors are connected in different houses at KTH",
+
+    "D-E-house": {
+        "entry-floor": "ED3",
+        "entry-down-floor": "ED2",
+        "entry-up-floor": "ED4",
+
+        "ED2": {
+            "floorName": "ED2",
+            "floorUp": "ED3"
+        },
+        "ED3": {
+            "floorName": "ED3",
+            "floorDown": "ED2",
+            "floorUp": "ED4"
+        },
+        "ED4": {
+            "floorName": "ED4",
+            "floorDown": "ED3",
+            "floorUp": "ED5"
+        },
+        "ED5": {
+            "floorName": "ED5",
+            "floorDown": "ED4",
+            "floorUp": "ED6"
+        },
+        "ED6": {
+            "floorName": "ED6",
+            "floorDown": "ED5"
+        }
+    }
+}
