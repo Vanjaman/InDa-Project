@@ -24,14 +24,9 @@ body {
     max-width: 100%;
     display: flex;
     justify-content: center; }
-    .banner-container .banner .kth-logo {
-      width: 4.95vw;
-      height: 4.95vw;
-      box-shadow: 0.15vw 0.15vw 0.8vw #141212; }
     .banner-container .banner .main-banner-text {
       font-family: Poppins;
       font-size: 3.15vw;
-      margin-left: 0.7em;
       color: #F2F2F2;
       text-align: center;
       display: flex;
@@ -52,6 +47,7 @@ body {
   margin-right: 8vw;
   background-color: #F2F2F2; }
   #info-container #return-to-map {
+    cursor: pointer;
     margin-left: 2vw;
     width: 2.5vw;
     height: 2.5vw;
@@ -60,7 +56,8 @@ body {
     transform: translateY(50%); }
     #info-container #return-to-map .svg-go-back-icon {
       width: 2.1vw;
-      height: 2.1vw; }
+      height: 2.1vw;
+      pointer-events: none; }
   #info-container #info-header-underline-container {
     display: inline-block;
     margin-left: 9vw;

@@ -39,9 +39,9 @@ async function loadInitialSVGsAndColor() {
     document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
 
     // Load SVGs
-    svgMain.setAttribute('data', 'maps/ED/'.concat(svgNames[0], ".svg"))
-    svgFloorUp.setAttribute('data', 'maps/ED/'.concat(svgNames[1], ".svg"))
-    svgFloorDown.setAttribute('data', 'maps/ED/'.concat(svgNames[2], ".svg"))
+    svgMain.setAttribute('data', '../../maps/ED/'.concat(svgNames[0], ".svg"))
+    svgFloorUp.setAttribute('data', '../../maps/ED/'.concat(svgNames[1], ".svg"))
+    svgFloorDown.setAttribute('data', '../../maps/ED/'.concat(svgNames[2], ".svg"))
 
     // Wait for SVGs to load before coloring them
     loadedSVGs = 0; // Will work because Javascript is single threaded
@@ -110,12 +110,12 @@ async function switchFloors(direction) {
     document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
 
     // Switch the SVGs
-    svgMain.setAttribute('data', 'maps/ED/'.concat(svgNames[0], ".svg"))
+    svgMain.setAttribute('data', '../../maps/ED/'.concat(svgNames[0], ".svg"))
     // If null, the SVG should be hidden and not try to load in an undefined SVG
     // (will cause problems with the .onload functions)
     if (svgNames[1] != null) {
         document.getElementById('floor-up').style.visibility = "visible"; // Make visible
-        svgFloorUp.setAttribute('data', 'maps/ED/'.concat(svgNames[1], ".svg"))
+        svgFloorUp.setAttribute('data', '../../maps/ED/'.concat(svgNames[1], ".svg"))
     } else {
         document.getElementById('floor-up').style.visibility = "hidden";
     }
@@ -123,7 +123,7 @@ async function switchFloors(direction) {
     // (will cause problems with the .onload functions)
     if (svgNames[2] != null) {
         document.getElementById('floor-down').style.visibility = "visible"; // Make visible
-        svgFloorDown.setAttribute('data', 'maps/ED/'.concat(svgNames[2], ".svg"))
+        svgFloorDown.setAttribute('data', '../../maps/ED/'.concat(svgNames[2], ".svg"))
     } else {
         document.getElementById('floor-down').style.visibility = "hidden";
     }
@@ -152,4 +152,4 @@ function colourRoom(name) {
             room.setAttributeNS(null, 'class', bookedRoomClass); 
         }
     })
-}
+} 

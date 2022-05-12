@@ -11,7 +11,6 @@
     <!-- Banner at the top of the page -->
     <div class="banner-container">
         <div class="banner">
-            <object class="kth-logo" type="image/svg+xml" data="../../assets/KTH-logo.svg"></object>
             <h1 class="main-banner-text">KTH Booking Overview</h1>
         </div>
     </div>
@@ -19,8 +18,8 @@
     <!-- Main content -->
     <div id="info-container-extended">
     <div id="info-container">
-        <div id="return-to-map">
-            <object id="svg-go-back" class="svg-go-back-icon" type="image/svg+xml" data="../../assets/go-back-icon.svg"></object>
+        <div id="return-to-map" onclick="location.href='../index/index.html';" style="cursor: pointer;">
+            <object id="svg-go-back" class="svg-go-back-icon" type="image/svg+xml" data="../../assets/go-back-icon.svg" style="cursor: pointer;"></object>
             <p class="icon-text">Map</p>
         </div>
 
@@ -32,7 +31,7 @@
         </div>
         
         <h1 id="time-info">
-            2022 / 5 / 2 &nbsp; 13:30
+            2022 / 5 / 2 &nbsp; 13:37
         </h1>
 
     </div>
@@ -44,18 +43,18 @@
             <!-- SVG -->
             <div id="main-image-div" align="middle">
                 <!-- The data of this SVG object changes when the floor is switched-->
-                <object id="svg-main-object" class="svg-image" type="image/svg+xml" data="maps/ED/ED2.svg"></object>
+                <object id="svg-main-object" class="svg-image" type="image/svg+xml" data="../../maps/ED/ED2.svg"></object>
             </div>
             <div id="preview-div-vertical-box">
                 <div id="floor-up" onclick="switchFloors(1)" class="preview-div">
                     <!-- The data of this SVG object changes when the floor is switched-->
-                    <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml" data="maps/ED/ED6.svg"></object>
+                    <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
                     <p class="icon-text" id="floor-up-text">Floor up</p>
                 </div>
 
                 <div id="floor-down" onclick="switchFloors(2)" class="preview-div">
                     <!-- The data of this SVG object changes when the floor is switched-->
-                    <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml" data="maps/ED/ED6.svg"></object>
+                    <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
                     <p class="icon-text" id="floor-down-text">Floor down</p>
                 </div>
             </div>

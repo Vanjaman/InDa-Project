@@ -6,7 +6,7 @@
 // return a comma seperated string with the IDs correspondening 
 // to the premises in the SVG that should be colored.
 async function fetchAndParseCSVData() {
-    const response = await fetch('bookings.csv');
+    const response = await fetch('../../bookings.csv');
     const rawText = await response.text();
     return parseCSVData(rawText);
 }
