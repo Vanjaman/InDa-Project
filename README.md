@@ -6,7 +6,7 @@ This project isn't hosted online (yet). To run:
  1. Clone repo
  2. Open in VSCode
  3. Install plugin `live server`
- 4. Navigate to `src/pages/index.html`
+ 4. Navigate to `src/website.html`
  4. Press the `Go Live`-button in the lower right
  4. Try clicking on the E or D houses..?
  5. ...
