@@ -5,13 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KTH Places Graphical Overview</title>
-    <link rel="stylesheet" href="building.css">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body class="page-container">
     <!-- Banner at the top of the page -->
     <div class="banner-container">
         <div class="banner">
-            <object class="kth-logo" type="image/svg+xml" data="../../assets/KTH-logo.svg"></object>
+            <object class="kth-logo" type="image/svg+xml" data="assets/KTH-logo.svg"></object>
             <h1 class="main-banner-text">KTH Booking Overview</h1>
         </div>
     </div>
@@ -20,7 +20,7 @@
     <div id="info-container-extended">
     <div id="info-container">
         <div id="return-to-map">
-            <object id="svg-go-back" class="svg-go-back-icon" type="image/svg+xml" data="../../assets/go-back-icon.svg"></object>
+            <object id="svg-go-back" class="svg-go-back-icon" type="image/svg+xml" data="assets/go-back-icon.svg"></object>
             <p class="icon-text">Map</p>
         </div>
 
@@ -34,7 +34,12 @@
         <h1 id="time-info">
             2022 / 5 / 2 &nbsp; 13:30
         </h1>
-
+        <!-- Time picker
+        <div id="time-picker">
+            <object id="svg-pick-time" class="svg-pick-time-icon" type="image/svg+xml" data="assets/date.svg"></object>
+            <p class="icon-text time-pick-text">Pick time</p>
+        </div>
+        -->
     </div>
     </div>
 
@@ -64,15 +69,12 @@
 
     <!-- Footer at the bottom of the page-->
     <footer class="footer">
-        <p class="made-by-text" align="center">
-            Project made by <a class="made-by-text" href="#">Vincent Lindvall</a> & <a class="made-by-text" href="#" >Vanja Grigoriev</a>
-            <br>We are in no way, shape, or form affiliated with KTH
-        </p>
+        <p class="made-by-text" align="center">Project made by <a class="made-by-text" href="#">Vincent Lindvall</a> & <a class="made-by-text" href="#" >Vanja Grigoriev</a></p>
     </footer>
 </body>
 
-<script src="../../JS/loadSVGs.js"></script>
-<script src="../../JS/csvReader.js"></script>
-<script src="../../JS/SVGDrawer.js"></script>
+<script src="loadSVGs.js"></script>
+<script src="csvReader.js"></script>
+<script src="SVGDrawer.js"></script>
 
 </html>
