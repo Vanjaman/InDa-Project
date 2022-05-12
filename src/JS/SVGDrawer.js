@@ -39,9 +39,9 @@ async function loadInitialSVGsAndColor() {
     document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
 
     // Load SVGs
-    svgMain.setAttribute('data', 'maps/ED/'.concat(svgNames[0], ".svg"))
-    svgFloorUp.setAttribute('data', 'maps/ED/'.concat(svgNames[1], ".svg"))
-    svgFloorDown.setAttribute('data', 'maps/ED/'.concat(svgNames[2], ".svg"))
+    svgMain.setAttribute('data', '../../maps/ED/'.concat(svgNames[0], ".svg"))
+    svgFloorUp.setAttribute('data', '../../maps/ED/'.concat(svgNames[1], ".svg"))
+    svgFloorDown.setAttribute('data', '../../maps/ED/'.concat(svgNames[2], ".svg"))
 
     // Wait for SVGs to load before coloring them
     loadedSVGs = 0; // Will work because Javascript is single threaded
