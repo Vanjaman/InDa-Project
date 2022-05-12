@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F258A5;
+}
+
+.page-container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.page-structure {
+    height: 100%;
+    display: grid;
+    grid-template-rows: 3fr 30fr 2fr;
+
+    .banner {
+        background: #2258A5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .main-banner-text {
+            font-family: Poppins;
+            font-size: 4vh;
+            color: #F2F2F2;
+            text-shadow: 0.3vw 0.3vw 0.6vw #000000;
+        }
+    }
+
+    .content-container {
+        background:#F2F2F2;
+        display: grid;
+        grid-template-rows: 1fr 14fr;
+
+        .top-info {
+            text-align: center;
+            font-size: 3vh;
+        }
+
+        #zoom {
+            height: 80vh;
+
+            .svg-image {
+                max-height: 80vh;
+            }
+        }
+    }
+    
+    .footer {
+        background:#2258A5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        .made-by-text {
+            color: #F2F2F2;
+            font-size: 1.5vh;
+        }
+    }
+}
+
