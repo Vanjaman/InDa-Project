@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #F258A5;
+    background-color: #F2F2F2;
 }
 
 .page-container {
@@ -18,7 +18,7 @@ body {
 .page-structure {
     height: 100%;
     display: grid;
-    grid-template-rows: 3fr 30fr 2fr;
+    grid-template-rows: 60px 1fr 50px;
 
     .banner {
         background: #2258A5;
@@ -28,7 +28,7 @@ body {
 
         .main-banner-text {
             font-family: Poppins;
-            font-size: 4vh;
+            font-size: 35px;
             color: #F2F2F2;
             text-shadow: 0.3vw 0.3vw 0.6vw #000000;
         }
@@ -36,20 +36,27 @@ body {
 
     .content-container {
         background:#F2F2F2;
+        height: 100%;
         display: grid;
-        grid-template-rows: 1fr 14fr;
+        grid-template-rows: 20px 1fr;
 
         .top-info {
-            text-align: center;
-            font-size: 3vh;
+            height: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            #time-info {
+                font-size: 10px;
+            }
         }
 
         #zoom {
-            height: 80vh;
-
+            height: 100%;
             .svg-image {
-                max-height: 80vh;
+                max-height: calc(100vh - 130px);
                 max-width: 100%;
+                object-fit: contain;
             }
         }
     }
@@ -62,7 +69,7 @@ body {
         
         .made-by-text {
             color: #F2F2F2;
-            font-size: 1.5vh;
+            font-size: 12px;
         }
     }
 }

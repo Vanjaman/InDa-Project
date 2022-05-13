@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #F258A5;
+  background-color: #F2F2F2;
 }
 
 .page-container {
@@ -16,46 +16,84 @@ body {
 
 .page-structure {
   height: 100%;
+  display: -ms-grid;
   display: grid;
-  grid-template-rows: 3fr 30fr 2fr;
+  -ms-grid-rows: 60px 1fr 50px;
+      grid-template-rows: 60px 1fr 50px;
 }
+
 .page-structure .banner {
   background: #2258A5;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .page-structure .banner .main-banner-text {
   font-family: Poppins;
-  font-size: 4vh;
+  font-size: 35px;
   color: #F2F2F2;
   text-shadow: 0.3vw 0.3vw 0.6vw #000000;
 }
+
 .page-structure .content-container {
   background: #F2F2F2;
+  height: 100%;
+  display: -ms-grid;
   display: grid;
-  grid-template-rows: 1fr 14fr;
-}
-.page-structure .content-container .top-info {
-  text-align: center;
-  font-size: 3vh;
-}
-.page-structure .content-container #zoom {
-  height: 80vh;
-}
-.page-structure .content-container #zoom .svg-image {
-  max-height: 80vh;
-  max-width: 100%;
-}
-.page-structure .footer {
-  background: #2258A5;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.page-structure .footer .made-by-text {
-  color: #F2F2F2;
-  font-size: 1.5vh;
+  -ms-grid-rows: 20px 1fr;
+      grid-template-rows: 20px 1fr;
 }
 
-/*# sourceMappingURL=index.css.map */
+.page-structure .content-container .top-info {
+  height: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.page-structure .content-container .top-info #time-info {
+  font-size: 10px;
+}
+
+.page-structure .content-container #zoom {
+  height: 100%;
+}
+
+.page-structure .content-container #zoom .svg-image {
+  max-height: calc(100vh - 130px);
+  max-width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.page-structure .footer {
+  background: #2258A5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.page-structure .footer .made-by-text {
+  color: #F2F2F2;
+  font-size: 12px;
+}
+/*# sourceMappingURL=homepage.css.map */
