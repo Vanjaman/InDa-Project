@@ -100,24 +100,6 @@ body {
         font-size: 2vw;
         color:#646262;
     }
-
-    #time-picker {
-        cursor: pointer;
-        font-family: poppins;
-        display: inline-block;
-        text-align: center;
-        width: 7vw;
-        height: 5vw;
-        margin-right: 4.5vw;
-        transform: translateY(15%);
-        float: right;
-
-        .svg-pick-time-icon {
-            pointer-events: none;
-            width: 2.5vw;
-            height: 2.5vw;
-        }
-    }
 }
 
 .content-container {
