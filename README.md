@@ -13,4 +13,6 @@ This project isn't hosted online (yet). To run:
  6. Profit
 
 ## Structure
-This project uses HTML and CSS for webpages and styling, SVG for animated maps and assets, python for webscraping, and javascript for colouring the SVGs, adding zoom functionality to the map, and reading the data generatewd by the webscraper. Tip: The SVGs can be opened as text files to view their source code. 
+This project uses HTML for webpages, CSS with SASS for styling, SVG for animated maps and assets, python for webscraping, and javascript for colouring the SVGs, adding zoom functionality to the map, and reading the data generatewd by the webscraper. Tip: The SVGs can be opened as text files to view their source code. 
+
+This project uses https://github.com/ariutta/svg-pan-zoom.
