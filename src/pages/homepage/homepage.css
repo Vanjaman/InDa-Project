@@ -70,13 +70,12 @@ body {
 
 .page-structure .content-container #zoom {
   height: 100%;
+  width: 100%;
 }
 
 .page-structure .content-container #zoom .svg-image {
-  max-height: calc(100vh - 130px);
+  max-height: 70vh;
   max-width: 100%;
-  -o-object-fit: contain;
-     object-fit: contain;
 }
 
 .page-structure .footer {
