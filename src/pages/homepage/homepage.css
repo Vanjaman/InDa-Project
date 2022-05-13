@@ -74,7 +74,7 @@ body {
 }
 
 .page-structure .content-container #zoom .svg-image {
-  max-height: 70vh;
+  max-height: calc(100vh - 134px);
   max-width: 100%;
 }
 
