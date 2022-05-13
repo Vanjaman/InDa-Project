@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import re
 # the scraper writes to a csv file
 import csv
-file = open("bookings.csv", "w", newline='')
+file = open("bookings.csv", "w", newline='', encoding='utf-8')
 writer = csv.writer(file)
 writer.writerow(["Start Time", "End Time", "Premise"]) # Header in csv-file
 
