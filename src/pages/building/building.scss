@@ -100,6 +100,22 @@ body {
         font-size: 2vw;
         color:#646262;
     }
+
+    #date-picker {
+        padding: 0.4vw;
+        margin-right: 1em;
+        width: 8.5vw;
+        height: 1.5vw;
+        font-size: 1.05vw;
+    }
+
+    #time-picker {
+        padding: 0.4vw;
+        width: 5.5vw;
+        height: 1.5vw;
+        font-size: 1.05vw;
+    }
+
 }
 
 .content-container {

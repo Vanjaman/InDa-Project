@@ -13,10 +13,8 @@
 // string list with ID:s for premises to color
 var roomsToColorRed = [];
 
-var d = new Date(); // used only temporary to set initial values for date- and time-picker
-// The SVGs will update when the date is changed
 const inputDate = document.querySelector('#date-picker');
-inputDate.value = d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2, '0')+'-'+String(d.getDate()).padStart(2, '0');
+inputDate.value = sessionStorage.getItem("date");
 var date = inputDate.value;
 inputDate.addEventListener('input', () => {
     date = inputDate.value;
@@ -25,7 +23,7 @@ inputDate.addEventListener('input', () => {
   });
 // The SVGs will update when the time is changed
 const inputTime = document.querySelector('#time-picker');
-inputTime.value = String(d.getHours()).padStart(2, '0')+':'+String(d.getMinutes()).padStart(2, '0');
+inputTime.value = sessionStorage.getItem("time");
 var time = inputTime.value;
 inputTime.addEventListener('input', () => {
     time = inputTime.value;
@@ -75,12 +73,13 @@ async function loadInitialSVGsAndColor() {
             loadedSVGs += 1;
             if (loadedSVGs == svgList.length) {
                 // Fetch the rooms that should be colored red (booked premises)
-                fetchRoomsToColorRed()
+                fetchRoomsToColorRed(new Date(date+"T"+time))
+                
             }
         }
         if (loadedSVGs == svgList.length) {
             // Fetch the rooms that should be colored red (booked premises)
-            fetchRoomsToColorRed()
+            fetchRoomsToColorRed(new Date(date+"T"+time))
         }
     }
 }
@@ -88,8 +87,8 @@ loadInitialSVGsAndColor()
 
 // Load what rooms should be colored. This will run when loading the building view page,
 // and when the user selects a new time (modifies the rooms that should be colored)
-async function fetchRoomsToColorRed() {
-    roomsToColorRed = await fetchAndParseCSVData();
+async function fetchRoomsToColorRed(date) {
+    roomsToColorRed = await fetchAndParseCSVData(date);
     roomsToColorRed = roomsToColorRed.split(", ");
     colourRooms(roomsToColorRed)
 }

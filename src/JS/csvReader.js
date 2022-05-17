@@ -8,10 +8,10 @@
 
 var rawText;
 
-async function fetchAndParseCSVData() {
+async function fetchAndParseCSVData(date) {
     const response = await fetch('../../bookings.csv');
     rawText = await response.text();
-    return parseCSVData(rawText, getDate());
+    return parseCSVData(rawText, date);
 }
 
 // Parse the fetched data
