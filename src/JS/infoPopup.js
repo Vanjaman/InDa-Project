@@ -26,8 +26,10 @@ function setUpInfoWhenHover() {
     // When the user hovers over a premise, show information popup about that premise
     function displayInfo(e) {
         // Position information in pixels on SVG
-        var x = e.pageX;
-        var y = e.pageY;
+        var x = e.clientX;
+        var y = e.clientY;
+        var xScroll = window.scrollX;
+        var yScroll = window.scrollY;
         var svgRect = svgMain.getBoundingClientRect(); // Rectangle that holds the SVG
 
         // Highlight the premise
@@ -37,8 +39,8 @@ function setUpInfoWhenHover() {
 
         // Display the info-popup
         var infoPopup = document.getElementById('info-popup');
-        infoPopup.style.left = x+svgRect.x+"px";
-        infoPopup.style.top = y+svgRect.y*0.7+"px"; // *0.7 to make the pop-up appear above the cursor
+        infoPopup.style.left = x+svgRect.x+xScroll+"px";
+        infoPopup.style.top = y+svgRect.y*0.7+yScroll*0.7+"px"; // *0.7 to make the pop-up appear above the cursor
         infoPopup.style.visibility = "visible";
         var premiseName = Object.keys(premiseNameToIDMap).find(key => premiseNameToIDMap[key] === this.id);
         infoPopup.innerHTML = premiseName;
