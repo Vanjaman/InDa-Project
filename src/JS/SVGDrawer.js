@@ -1,12 +1,35 @@
 /* This script colors booked premises red in the SVGs displayed in a building view.
+   The script also contains the eventListeners for switching date and time in a building view
+   because these update the SVGs.
+  
    Information about which premises are booked comes from a seperate
-   csv-reader file. The initial (entry-level of building) SVGs are loaded when this
-   script is called from enterying the building view. The SVGs are updated when an
-   up- or down-floor button is pressed, and rooms are re-colored.
+   csvReader.js file. The initial (entry-level of building) SVGs are loaded when this
+   script is called when enterying a building view. The SVGs are updated when an
+   up- or down-floor button is pressed or if the date or time is updated.
 */
 // Author: Vanja Grigoriev, Vincent Lindvall
-// Date: 2022/05/07
+// Date: 2022/05/13
 
+// string list with ID:s for premises to color
+var roomsToColorRed = [];
+
+const inputDate = document.querySelector('#date-picker');
+inputDate.value = sessionStorage.getItem("date");
+var date = inputDate.value;
+inputDate.addEventListener('input', () => {
+    date = inputDate.value;
+    roomsToColorRed = parseCSVData(rawText, new Date(date+"T"+time)); // rawText is from 'csvReader.js'
+    colourRooms(roomsToColorRed.split(", "))
+  });
+// The SVGs will update when the time is changed
+const inputTime = document.querySelector('#time-picker');
+inputTime.value = sessionStorage.getItem("time");
+var time = inputTime.value;
+inputTime.addEventListener('input', () => {
+    time = inputTime.value;
+    roomsToColorRed = parseCSVData(rawText, new Date(date+"T"+time)); // rawText is from 'csvReader.js'
+    colourRooms(roomsToColorRed.split(", "))
+})
 
 // Get house name
 var house = sessionStorage.getItem("house");
@@ -14,16 +37,12 @@ var houseName;
 if (house == "D-E-house") {
     houseName = "D-E House";
 }
-
 // Class to be applied to booked premises in the SVG
 var bookedRoomClass = 'room booked';
-
+// Class to be applied to un-booked premises in the SVG
+var bookableRoomClass = 'room bookable';
 // List of (string) SVG names to display (format [mainSVG, floorUpSVG, floorDownSVG])
 var svgNames = [];
-
-// string list with ID:s for premises to color
-var roomsToColor = [];
-
 // SVGs to display in the building view
 var svgMain = document.getElementById('svg-main-object');
 var svgFloorUp = document.getElementById('floor-up-preview');
@@ -34,10 +53,8 @@ var svgFloorDown = document.getElementById('floor-down-preview');
 // to set up the SVGs that should be shown in the entry-level of the building
 async function loadInitialSVGsAndColor() {
     svgNames = await fetchEntrySVGs().then(res => svgNames = res);
-
     // Load correct floor title
     document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
-
     // Load SVGs
     svgMain.setAttribute('data', '../../maps/ED/'.concat(svgNames[0], ".svg"))
     svgFloorUp.setAttribute('data', '../../maps/ED/'.concat(svgNames[1], ".svg"))
@@ -56,12 +73,13 @@ async function loadInitialSVGsAndColor() {
             loadedSVGs += 1;
             if (loadedSVGs == svgList.length) {
                 // Fetch the rooms that should be colored red (booked premises)
-                fetchRoomsToColor()
+                fetchRoomsToColorRed(new Date(date+"T"+time))
+                
             }
         }
         if (loadedSVGs == svgList.length) {
             // Fetch the rooms that should be colored red (booked premises)
-            fetchRoomsToColor()
+            fetchRoomsToColorRed(new Date(date+"T"+time))
         }
     }
 }
@@ -69,10 +87,10 @@ loadInitialSVGsAndColor()
 
 // Load what rooms should be colored. This will run when loading the building view page,
 // and when the user selects a new time (modifies the rooms that should be colored)
-async function fetchRoomsToColor() {
-    roomsToColor = await fetchAndParseCSVData();
-    roomsToColor = roomsToColor.split(", ");
-    colourRooms(roomsToColor)
+async function fetchRoomsToColorRed(date) {
+    roomsToColorRed = await fetchAndParseCSVData(date);
+    roomsToColorRed = roomsToColorRed.split(", ");
+    colourRooms(roomsToColorRed)
 }
 
 // When the user has clicked on the 'floor up' or 'floor down' button in the building view,
@@ -97,18 +115,17 @@ async function switchFloors(direction) {
             loadedSVGs += 1;
             if (loadedSVGs == svgList.length) {
                 // Fetch the rooms that should be colored red (booked premises)
-                colourRooms(roomsToColor);
+                colourRooms(roomsToColorRed);
             }
         }
         if (loadedSVGs == svgList.length) {
             // Fetch the rooms that should be colored red (booked premises)
-            colourRooms(roomsToColor);
+            colourRooms(roomsToColorRed);
         }
     }
 
     // Switch floor title
     document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
-
     // Switch the SVGs
     svgMain.setAttribute('data', '../../maps/ED/'.concat(svgNames[0], ".svg"))
     // If null, the SVG should be hidden and not try to load in an undefined SVG
@@ -132,24 +149,34 @@ async function switchFloors(direction) {
 // Colours the given SVG. 'data' is an array of strings that contain the IDs of the 
 // premises that should be colored red. If an ID is not in the array, the default color
 // of a bookable premise is green.
-function colourRooms(data) {
-    for (var room=0; room<data.length; room++) {
-        colourRoom(data[room]);
-    }
+function colourRooms(roomsToColorRed) {
+    Object.values(premiseNameToIDMap).forEach((premiseID) => {
+        if (roomsToColorRed.includes(premiseID)) {
+            colorRoom(premiseID, "red")
+        } else {
+            // Rooms that are not in roomsToColorRed must be colored green to reset them when changing time or date
+            colorRoom(premiseID, "green")
+        }
+    })
 }
 
 // Colours the premise corresponding to the given premise ID if present in any
 // of the loaded SVGs in the building view.
-function colourRoom(name) {
+function colorRoom(premiseID, color) {
     // getElementById will return  null if not found on that floor
-    var svgMainRoom = svgMain.contentDocument.getElementById(name);
-    var svgFloorUpRoom = svgFloorUp.contentDocument.getElementById(name);
-    var svgFloorDownRoom = svgFloorDown.contentDocument.getElementById(name);
-    var rooms = [svgMainRoom, svgFloorUpRoom, svgFloorDownRoom];
-    
+    var svgMainRoom = svgMain.contentDocument.getElementById(premiseID);
+    var svgFloorUpRoom = svgFloorUp.contentDocument.getElementById(premiseID);
+    var svgFloorDownRoom = svgFloorDown.contentDocument.getElementById(premiseID);
+
+    var rooms = [svgMainRoom, svgFloorUpRoom, svgFloorDownRoom]; 
     rooms.forEach((room) => {
         if (room != null) {
-            room.setAttributeNS(null, 'class', bookedRoomClass); 
+            if (color == "red") {
+                room.setAttributeNS(null, 'class', bookedRoomClass);
+            } 
+            else {
+                room.setAttributeNS(null, 'class', bookableRoomClass);
+            }
         }
     })
-} 
+}

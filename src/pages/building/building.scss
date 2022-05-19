@@ -101,23 +101,21 @@ body {
         color:#646262;
     }
 
-    #time-picker {
-        cursor: pointer;
-        font-family: poppins;
-        display: inline-block;
-        text-align: center;
-        width: 7vw;
-        height: 5vw;
-        margin-right: 4.5vw;
-        transform: translateY(15%);
-        float: right;
-
-        .svg-pick-time-icon {
-            pointer-events: none;
-            width: 2.5vw;
-            height: 2.5vw;
-        }
+    #date-picker {
+        padding: 0.4vw;
+        margin-right: 1em;
+        width: 8.5vw;
+        height: 1.5vw;
+        font-size: 1.05vw;
     }
+
+    #time-picker {
+        padding: 0.4vw;
+        width: 5.5vw;
+        height: 1.5vw;
+        font-size: 1.05vw;
+    }
+
 }
 
 .content-container {
