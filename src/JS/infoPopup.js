@@ -42,7 +42,7 @@ function setUpInfoWhenHover() {
         infoPopup.style.left = x+svgRect.x+xScroll+"px";
         infoPopup.style.top = y+svgRect.y*0.7+yScroll*0.7+"px"; // *0.7 to make the pop-up appear above the cursor
         infoPopup.style.visibility = "visible";
-        var premiseName = Object.keys(premiseNameToIDMap).find(key => premiseNameToIDMap[key] === this.id);
+        var premiseName = Object.keys(premiseNameToIDMap).find(key => premiseNameToIDMap[key].includes(this.id));
         infoPopup.innerHTML = premiseName;
     }
 
