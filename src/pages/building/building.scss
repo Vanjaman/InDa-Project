@@ -141,6 +141,16 @@ body {
              }
         }
 
+        #info-popup {
+            position: absolute;
+            left: 0;
+            top: 0;
+            padding: 0.5vw;
+            font-size: 1.3vw;
+            background: white;
+            visibility: hidden;
+        }
+
         #preview-div-vertical-box {
             display: inline-block;
             flex-direction: column;

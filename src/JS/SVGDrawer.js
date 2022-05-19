@@ -72,12 +72,14 @@ async function loadInitialSVGsAndColor() {
         svgList[i].onload = function() {
             loadedSVGs += 1;
             if (loadedSVGs == svgList.length) {
+                setUpInfoWhenHover()
                 // Fetch the rooms that should be colored red (booked premises)
                 fetchRoomsToColorRed(new Date(date+"T"+time))
                 
             }
         }
         if (loadedSVGs == svgList.length) {
+            setUpInfoWhenHover()
             // Fetch the rooms that should be colored red (booked premises)
             fetchRoomsToColorRed(new Date(date+"T"+time))
         }
@@ -114,11 +116,13 @@ async function switchFloors(direction) {
         svgList[i].onload = function() {
             loadedSVGs += 1;
             if (loadedSVGs == svgList.length) {
+                setUpInfoWhenHover()
                 // Fetch the rooms that should be colored red (booked premises)
                 colourRooms(roomsToColorRed);
             }
         }
         if (loadedSVGs == svgList.length) {
+            setUpInfoWhenHover()
             // Fetch the rooms that should be colored red (booked premises)
             colourRooms(roomsToColorRed);
         }

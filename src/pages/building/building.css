@@ -154,6 +154,16 @@ body {
   height: 100%;
 }
 
+.content-container #maps-container #info-popup {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 0.5vw;
+  font-size: 1.3vw;
+  background: white;
+  visibility: hidden;
+}
+
 .content-container #maps-container #preview-div-vertical-box {
   display: inline-block;
   -webkit-box-orient: vertical;
