@@ -16,46 +16,83 @@ body {
 
 .page-structure {
   height: 100%;
+  display: -ms-grid;
   display: grid;
-  grid-template-rows: 3fr 30fr 2fr;
+  -ms-grid-rows: 3fr 30fr 2fr;
+      grid-template-rows: 3fr 30fr 2fr;
 }
+
 .page-structure .banner {
   background: #2258A5;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .page-structure .banner .main-banner-text {
   font-family: Poppins;
   font-size: 4vh;
   color: #F2F2F2;
   text-shadow: 0.3vw 0.3vw 0.6vw #000000;
 }
+
 .page-structure .content-container {
   background: #F2F2F2;
+  display: -ms-grid;
   display: grid;
-  grid-template-rows: 1fr 14fr;
+  -ms-grid-rows: 1fr 14fr;
+      grid-template-rows: 1fr 14fr;
 }
+
 .page-structure .content-container .top-info {
   text-align: center;
-  font-size: 3vh;
 }
+
+.page-structure .content-container .top-info #date-picker {
+  padding: 0.4vw;
+  margin-right: 1em;
+  width: 10vw;
+  height: 3vh;
+  font-size: 1.3vw;
+}
+
+.page-structure .content-container .top-info #time-picker {
+  padding: 0.4vw;
+  width: 6.5vw;
+  height: 3vh;
+  font-size: 1.3vw;
+}
+
 .page-structure .content-container #zoom {
   height: 80vh;
 }
+
 .page-structure .content-container #zoom .svg-image {
   max-height: 80vh;
   max-width: 100%;
 }
+
 .page-structure .footer {
   background: #2258A5;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
+
 .page-structure .footer .made-by-text {
   color: #F2F2F2;
   font-size: 1.5vh;
 }
-
 /*# sourceMappingURL=index.css.map */
