@@ -47,11 +47,20 @@ body {
   height: 100%;
   display: -ms-grid;
   display: grid;
-  -ms-grid-rows: 30px 1fr;
-      grid-template-rows: 30px 1fr;
+  -ms-grid-rows: 44px 1fr;
+      grid-template-rows: 44px 1fr;
 }
 
 .page-structure .content-container .top-info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   text-align: center;
 }
 
@@ -59,14 +68,14 @@ body {
   padding: 0.4vw;
   margin-right: 1em;
   width: 10vw;
-  height: 3vh;
+  height: 20px;
   font-size: 1.3vw;
 }
 
 .page-structure .content-container .top-info #time-picker {
   padding: 0.4vw;
   width: 6.5vw;
-  height: 3vh;
+  height: 20px;
   font-size: 1.3vw;
 }
 
@@ -76,7 +85,7 @@ body {
 }
 
 .page-structure .content-container #zoom .svg-image {
-  max-height: calc(100vh - 144px);
+  max-height: calc(100vh - 158px);
   max-width: 100%;
 }
 
