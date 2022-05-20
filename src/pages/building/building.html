@@ -8,66 +8,63 @@
     <link rel="stylesheet" href="building.css">
 </head>
 <body class="page-container">
-    <!-- Banner at the top of the page -->
-    <div class="banner-container">
+    <div class="page-structure">
+        <!-- Banner at the top of the page -->
         <div class="banner">
             <h1 class="main-banner-text">KTH Booking Overview</h1>
         </div>
-    </div>
 
-    <!-- Main content -->
-    <div id="info-container-extended">
-    <div id="info-container">
-        <div id="return-to-map" onclick="location.href='../homepage/homepage.html';" style="cursor: pointer;">
-            <object id="svg-go-back" class="svg-go-back-icon" type="image/svg+xml" data="../../assets/go-back-icon.svg" style="cursor: pointer;"></object>
-            <p class="icon-text">Map</p>
-        </div>
-
-        <div id="info-header-underline-container">
-            <h1 id="floor-info">
-                D House - Floor 3
-            </h1>
-            <div class="underline"></div>
-        </div>
-        
-        <input id="date-picker" type="date">
-        <input id="time-picker" type="time">
-
-    </div>
-    </div>
-
-    <div class="content-container">
-
-        <div id="maps-container">
-            <!-- SVG -->
-            <div id="main-image-div" align="middle">
-                <!-- The data of this SVG object changes when the floor is switched-->
-                <object id="svg-main-object" class="svg-image" type="image/svg+xml" data="../../maps/ED/ED2.svg"></object>
-            </div>
-            <div id="info-popup"></div> <!-- The info popup shows when hovering over a premise in the main SVG in the building view-->
-            <div id="preview-div-vertical-box">
-                <div id="floor-up" onclick="switchFloors(1)" class="preview-div">
-                    <!-- The data of this SVG object changes when the floor is switched-->
-                    <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
-                    <p class="icon-text" id="floor-up-text">Floor up</p>
+        <div class="content-container">
+            <!-- Main content -->
+            <div id="info-container">
+                <div id="return-to-map" onclick="location.href='../homepage/homepage.html';" style="cursor: pointer;">
+                    <object id="svg-go-back" class="svg-go-back-icon" type="image/svg+xml" data="../../assets/go-back-icon.svg" style="cursor: pointer;"></object>
+                    <p class="icon-text">Map</p>
                 </div>
 
-                <div id="floor-down" onclick="switchFloors(2)" class="preview-div">
+                <div id="info-header-underline-container">
+                    <h1 id="floor-info">
+                        D House - Floor 3
+                    </h1>
+                    <div class="underline"></div>
+                </div>
+                
+                <input id="date-picker" type="date">
+                <input id="time-picker" type="time">
+
+            </div>
+
+            <div id="maps-container">
+                <!-- SVG -->
+                <div id="main-image-div" align="middle">
                     <!-- The data of this SVG object changes when the floor is switched-->
-                    <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
-                    <p class="icon-text" id="floor-down-text">Floor down</p>
+                    <object id="svg-main-object" class="svg-image" type="image/svg+xml" data="../../maps/ED/ED2.svg"></object>
+                    <div id="info-popup"></div> <!-- The info popup shows when hovering over a premise in the main SVG in the building view-->
+                </div>
+                <div id="preview-div-vertical-box">
+                    <div id="floor-up" onclick="switchFloors(1)" class="preview-div">
+                        <!-- The data of this SVG object changes when the floor is switched-->
+                        <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
+                        <p class="icon-text" id="floor-up-text">Floor up</p>
+                    </div>
+
+                    <div id="floor-down" onclick="switchFloors(2)" class="preview-div">
+                        <!-- The data of this SVG object changes when the floor is switched-->
+                        <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
+                        <p class="icon-text" id="floor-down-text">Floor down</p>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <!-- Footer at the bottom of the page-->
-    <footer class="footer">
-        <p class="made-by-text" align="center">
-            Project made by <a class="made-by-text" href="#">Vincent Lindvall</a> & <a class="made-by-text" href="#" >Vanja Grigoriev</a>
-            <br>This website is in no way, shape, or form affiliated with KTH
-        </p>
-    </footer>
+        <!-- Footer at the bottom of the page-->
+        <footer class="footer">
+            <p class="made-by-text" align="center">
+                Project made by <a class="made-by-text" href="#">Vincent Lindvall</a> & <a class="made-by-text" href="#" >Vanja Grigoriev</a>
+                <br>This website is in no way, shape, or form affiliated with KTH
+            </p>
+        </footer>
+    </div>
 </body>
 
 <script src="../../JS/infoPopup.js"></script>

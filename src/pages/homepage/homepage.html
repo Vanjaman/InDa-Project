@@ -50,11 +50,6 @@
             center: true,
             dblClickZoomEnabled: false,
         });
-
-        var today = new Date();
-        var month = today.toLocaleString('default', { month: 'short' });
-        var date = today.getDate() + ' ' + month + ' ' + today.getHours() + ':' + String (today.getMinutes()).padStart(2, '0');
-        document.getElementById("time-info").innerHTML = date;
     };
 </script>
 
