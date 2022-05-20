@@ -36,6 +36,10 @@ var house = sessionStorage.getItem("house");
 var houseName;
 if (house == "D-E-house") {
     houseName = "D-E House";
+    BasePath = "../../maps/ED/";
+} else if (house == "Q-house") {
+    houseName = "Q House";
+    BasePath = "../../maps/Q/";
 }
 // Class to be applied to booked premises in the SVG
 var bookedRoomClass = 'room booked';
@@ -56,9 +60,18 @@ async function loadInitialSVGsAndColor() {
     // Load correct floor title
     document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
     // Load SVGs
-    svgMain.setAttribute('data', '../../maps/ED/'.concat(svgNames[0], ".svg"))
-    svgFloorUp.setAttribute('data', '../../maps/ED/'.concat(svgNames[1], ".svg"))
-    svgFloorDown.setAttribute('data', '../../maps/ED/'.concat(svgNames[2], ".svg"))
+    if (svgNames[0] != null) {
+        svgMain.setAttribute('data', BasePath.concat(svgNames[0], ".svg"))
+        document.getElementById('main-image-div').style.visibility = "visible"
+    } else {document.getElementById('main-image-div').style.visibility = "hidden"}
+    if (svgNames[1] != null) {
+        svgFloorUp.setAttribute('data', BasePath.concat(svgNames[1], ".svg"))
+        document.getElementById('floor-up').style.visibility = "visible"
+    } else {document.getElementById('floor-up').style.visibility = "hidden"}
+    if (svgNames[2] != null) {
+        svgFloorDown.setAttribute('data', BasePath.concat(svgNames[2], ".svg"))
+        document.getElementById('floor-down').style.visibility = "visible"
+    } else {document.getElementById('floor-down').style.visibility = "hidden"}
 
     // Wait for SVGs to load before coloring them
     loadedSVGs = 0; // Will work because Javascript is single threaded
@@ -131,12 +144,12 @@ async function switchFloors(direction) {
     // Switch floor title
     document.getElementById('floor-info').innerHTML = houseName.concat("- Floor ",svgNames[0].charAt(svgNames[0].length-1));
     // Switch the SVGs
-    svgMain.setAttribute('data', '../../maps/ED/'.concat(svgNames[0], ".svg"))
+    svgMain.setAttribute('data', BasePath.concat(svgNames[0], ".svg"))
     // If null, the SVG should be hidden and not try to load in an undefined SVG
     // (will cause problems with the .onload functions)
     if (svgNames[1] != null) {
         document.getElementById('floor-up').style.visibility = "visible"; // Make visible
-        svgFloorUp.setAttribute('data', '../../maps/ED/'.concat(svgNames[1], ".svg"))
+        svgFloorUp.setAttribute('data', BasePath.concat(svgNames[1], ".svg"))
     } else {
         document.getElementById('floor-up').style.visibility = "hidden";
     }
@@ -144,7 +157,7 @@ async function switchFloors(direction) {
     // (will cause problems with the .onload functions)
     if (svgNames[2] != null) {
         document.getElementById('floor-down').style.visibility = "visible"; // Make visible
-        svgFloorDown.setAttribute('data', '../../maps/ED/'.concat(svgNames[2], ".svg"))
+        svgFloorDown.setAttribute('data', BasePath.concat(svgNames[2], ".svg"))
     } else {
         document.getElementById('floor-down').style.visibility = "hidden";
     }
@@ -173,6 +186,7 @@ function colorRoom(premiseID, color) {
     var svgFloorDownRoom = svgFloorDown.contentDocument.getElementById(premiseID);
 
     var rooms = [svgMainRoom, svgFloorUpRoom, svgFloorDownRoom]; 
+    console.log(rooms)
     rooms.forEach((room) => {
         if (room != null) {
             if (color == "red") {

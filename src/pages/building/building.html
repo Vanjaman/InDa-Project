@@ -24,9 +24,7 @@
         </div>
 
         <div id="info-header-underline-container">
-            <h1 id="floor-info">
-                D House - Floor 3
-            </h1>
+            <h1 id="floor-info"></h1> <!-- Title updated by the code (displays house and floor name)-->
             <div class="underline"></div>
         </div>
         
@@ -42,19 +40,19 @@
             <!-- SVG -->
             <div id="main-image-div" align="middle">
                 <!-- The data of this SVG object changes when the floor is switched-->
-                <object id="svg-main-object" class="svg-image" type="image/svg+xml" data="../../maps/ED/ED2.svg"></object>
+                <object id="svg-main-object" class="svg-image" type="image/svg+xml"></object>
             </div>
             <div id="info-popup"></div> <!-- The info popup shows when hovering over a premise in the main SVG in the building view-->
             <div id="preview-div-vertical-box">
                 <div id="floor-up" onclick="switchFloors(1)" class="preview-div">
                     <!-- The data of this SVG object changes when the floor is switched-->
-                    <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
+                    <object id="floor-up-preview" class="svg-preview-image" type="image/svg+xml"></object>
                     <p class="icon-text" id="floor-up-text">Floor up</p>
                 </div>
 
                 <div id="floor-down" onclick="switchFloors(2)" class="preview-div">
                     <!-- The data of this SVG object changes when the floor is switched-->
-                    <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml" data="../../maps/ED/ED6.svg"></object>
+                    <object id="floor-down-preview" class="svg-preview-image" type="image/svg+xml"></object>
                     <p class="icon-text" id="floor-down-text">Floor down</p>
                 </div>
             </div>

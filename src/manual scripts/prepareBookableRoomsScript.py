@@ -15,10 +15,10 @@ To use:
 Author: Vanja Grigoriev
 """
 
-filename = "3270.svg"
-nameToID = "premise_to_ID_DEhouse.txt"
-outputFileName = "mapEDfloor3.svg"
-id = "ED-5"
+filename = "../maps/Q/12310.svg"
+nameToID = "premise_to_ID_Qhouse.txt"
+outputFileName = "../maps/Q/Q3.svg"
+id = "Q-3"
 
 ET.register_namespace("", "http://www.w3.org/2000/svg")
 mytree = ET.parse(filename)
@@ -50,5 +50,5 @@ with open(nameToID, mode='r') as infile:
             else:
                 room.set("class", "nonroom")
 
-os.remove(outputFileName)
+#os.remove(outputFileName)
 mytree.write(outputFileName)

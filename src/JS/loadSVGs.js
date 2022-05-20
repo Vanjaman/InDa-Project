@@ -4,7 +4,6 @@
 
 // !!! This should be done when clicking on the E-D-house on
 // !!! the map at the start page
-sessionStorage.setItem("house", "D-E-house");
 // !!!
 // !!!
 
@@ -29,14 +28,16 @@ async function fetchEntrySVGs() {
     floorStructuresText = await floorStructuresFile.text();
     floorStructuresJSON = JSON.parse(floorStructuresText);
 
-    // D-E-house
+    // Load correct house SVGs
     if (house == "D-E-house") {
         houseObject = floorStructuresJSON['D-E-house'];
+    } else if (house == "Q-house") {
+        houseObject = floorStructuresJSON['Q-house']
     }
+
     mainSVG = houseObject['entry-floor'];
     floorDownPreview = houseObject['entry-down-floor'];
     floorUpPreview = houseObject['entry-up-floor'];
-
     return [mainSVG, floorUpPreview, floorDownPreview]
 }
 
