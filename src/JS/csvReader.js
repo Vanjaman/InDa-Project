@@ -5,15 +5,18 @@
 // Fetch data from the CSV file with the booking info and
 // return a comma seperated string with the IDs correspondening 
 // to the premises in the SVG that should be colored.
-async function fetchAndParseCSVData() {
+
+var rawText;
+
+async function fetchAndParseCSVData(date) {
     const response = await fetch('../../bookings.csv');
-    const rawText = await response.text();
-    return parseCSVData(rawText);
+    rawText = await response.text();
+    return parseCSVData(rawText, date);
 }
 
 // Parse the fetched data
-// Return array with the premises that are booked now
-function parseCSVData(text) {
+// Return array with the premises that are booked during the input date
+function parseCSVData(text, date) {
     // Split at each new row (slice(1) ignores the header in the csv file)
     // Split at each comma on each row
     /* Format after this will be array elements of form: 
@@ -25,8 +28,6 @@ function parseCSVData(text) {
         splittedRows.push(rows[i].replace('\r',"").split(','));
     }
 
-    // Date used for checking if a premise is booked    
-    const date = getDate();
     // Build the comma separated string that fetchAndParseCSVData() should return
     var s = [];
     for (const row of splittedRows) {

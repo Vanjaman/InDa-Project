@@ -114,23 +114,19 @@ body {
   color: #646262;
 }
 
-#info-container #time-picker {
-  cursor: pointer;
-  font-family: poppins;
-  display: inline-block;
-  text-align: center;
-  width: 7vw;
-  height: 5vw;
-  margin-right: 4.5vw;
-  -webkit-transform: translateY(15%);
-          transform: translateY(15%);
-  float: right;
+#info-container #date-picker {
+  padding: 0.4vw;
+  margin-right: 1em;
+  width: 8.5vw;
+  height: 1.5vw;
+  font-size: 1.05vw;
 }
 
-#info-container #time-picker .svg-pick-time-icon {
-  pointer-events: none;
-  width: 2.5vw;
-  height: 2.5vw;
+#info-container #time-picker {
+  padding: 0.4vw;
+  width: 5.5vw;
+  height: 1.5vw;
+  font-size: 1.05vw;
 }
 
 .content-container {
@@ -156,6 +152,16 @@ body {
 .content-container #maps-container #main-image-div .svg-image {
   width: 100%;
   height: 100%;
+}
+
+.content-container #maps-container #info-popup {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 0.5vw;
+  font-size: 1.3vw;
+  background: white;
+  visibility: hidden;
 }
 
 .content-container #maps-container #preview-div-vertical-box {

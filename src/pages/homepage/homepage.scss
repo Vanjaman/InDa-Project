@@ -41,13 +41,20 @@ body {
         grid-template-rows: 30px 1fr;
 
         .top-info {
-            height: 30px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            text-align: center;
+            #date-picker {
+                padding: 0.4vw;
+                margin-right: 1em;
+                width: 10vw;
+                height: 3vh;
+                font-size: 1.3vw;
+            }
 
-            #time-info {
-                font-size: 20px;
+            #time-picker {
+                padding: 0.4vw;
+                width: 6.5vw;
+                height: 3vh;
+                font-size: 1.3vw;
             }
         }
 
