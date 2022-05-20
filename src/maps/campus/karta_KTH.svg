@@ -729,11 +729,14 @@
       <text id="text1122" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49998474px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansBold-Expert;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.99984783,-0.0174445,-0.0174445,-0.99984783,517.0816,314.1052)">
         <tspan id="tspan1120" y="0" x="0 2.3084922">30</tspan>
       </text>
-      <text id="text1126" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,270.1934,704.8027)">
+      <text id="text1126" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,265.1934,704.8027)">
         <tspan id="tspan1124" y="0" x="0">K</tspan>
       </text>
-      <text id="text1130" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,294.9648,704.8027)">
-        <tspan id="tspan1128" y="0" x="0 21.868 50.556">TH </tspan>
+      <text id="text1130" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,292.9648,704.8027)">
+        <tspan id="tspan1128" y="0" x="0 21.868 50.556">T </tspan>
+      </text>
+      <text id="text1130" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,317.9648,704.8027)">
+        <tspan id="tspan1128" y="0" x="0 21.868 50.556">H </tspan>
       </text>
       <text id="text1134" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,354.8481,704.8027)">
         <tspan id="tspan1132" y="0" x="0">C</tspan>
@@ -970,25 +973,6 @@
         <tspan id="tspan1454" y="0" x="0">N</tspan>
       </text>
       <path id="path1458" style="fill:#c6c8ca;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 54.007,626.766 c -1.322,-1.279 -3.431,-1.241 -4.71,0.082 -1.278,1.323 -1.241,3.432 0.081,4.711 1.324,1.278 3.434,1.241 4.711,-0.083 1.28,-1.323 1.242,-3.433 -0.082,-4.71" />
-      <path id="path1460" style="fill:#9d1b2f;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 108.471,62.454 84.78,62.474 84.791,74.321 108.48,74.3 Z" />
-      <text id="text1464" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,112.3208,62.3828)">
-        <tspan id="tspan1462" y="0" x="0 4.4910002 6.651 11.736 16.785 21.177 23.355 25.316999 30.159 33.155998 38.151001 42.237 46.799999 50.417999 54.035999 56.195999 61.244999 66.330002 68.247002 70.209">Signal Processing, S</tspan>
-      </text>
-      <text id="text1468" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,187.0195,62.3828)">
-        <tspan id="tspan1466" y="0" x="0 4.0320001 9.0270004 13.968 18.909 21.033001 22.941 27.882 30.51 32.417999 36.846001 38.970001">chool of Ele</tspan>
-      </text>
-      <text id="text1472" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,230.498,62.3828)">
-        <tspan id="tspan1470" y="0" x="0">c</tspan>
-      </text>
-      <text id="text1476" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,234.6377,62.3828)">
-        <tspan id="tspan1474" y="0" x="0 2.9790001 5.9219999 8.0279999 12.06 16.398001 18.521999 20.43 24.858">trical En</tspan>
-      </text>
-      <text id="text1480" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,264.4902,62.3828)">
-        <tspan id="tspan1478" y="0" x="0">g</tspan>
-      </text>
-      <text id="text1484" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Plain;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1,0,0,-1,269.4673,62.3828)">
-        <tspan id="tspan1482" y="0" x="0 2.1059999 7.1009998 11.61 16.118999 19.062 21.167999 26.163">ineering</tspan>
-      </text>
       <text id="text1504" style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76474953px;font-family:'Myriad Pro';-inkscape-font-specification:TheSansSemiBold-Caps;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.22448189,-0.97476268,-0.96943186,-0.22324363,426.5386,285.1632)">
         <tspan id="tspan1502" y="0" x="0">d</tspan>
       </text>
