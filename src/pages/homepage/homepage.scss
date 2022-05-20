@@ -38,16 +38,16 @@ body {
         background:#F2F2F2;
         height: 100%;
         display: grid;
-        grid-template-rows: 20px 1fr;
+        grid-template-rows: 30px 1fr;
 
         .top-info {
-            height: 20px;
+            height: 30px;
             display: flex;
             justify-content: center;
             align-items: center;
 
             #time-info {
-                font-size: 10px;
+                font-size: 20px;
             }
         }
 
@@ -55,7 +55,7 @@ body {
             height: 100%;
             width: 100%;
             .svg-image {
-                max-height: calc(100vh - 134px);
+                max-height: calc(100vh - 144px);
                 max-width: 100%;
             }
         }

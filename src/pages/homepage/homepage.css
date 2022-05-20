@@ -47,12 +47,12 @@ body {
   height: 100%;
   display: -ms-grid;
   display: grid;
-  -ms-grid-rows: 20px 1fr;
-      grid-template-rows: 20px 1fr;
+  -ms-grid-rows: 30px 1fr;
+      grid-template-rows: 30px 1fr;
 }
 
 .page-structure .content-container .top-info {
-  height: 20px;
+  height: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -65,7 +65,7 @@ body {
 }
 
 .page-structure .content-container .top-info #time-info {
-  font-size: 10px;
+  font-size: 20px;
 }
 
 .page-structure .content-container #zoom {
@@ -74,7 +74,7 @@ body {
 }
 
 .page-structure .content-container #zoom .svg-image {
-  max-height: calc(100vh - 134px);
+  max-height: calc(100vh - 144px);
   max-width: 100%;
 }
 
